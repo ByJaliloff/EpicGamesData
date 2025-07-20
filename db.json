@@ -134,6 +134,7 @@
     "discount": 60,
     "isFree": false,
     "language": ["EN", "FR", "DE", "RU"],
+    "rating": 4.8,
     "ageRating": {
     "label": "17+ M",
     "descriptors": [
@@ -180,6 +181,7 @@
     "discount": 20,
     "isFree": false,
     "language": ["EN"],
+    "rating": 4.9,
     "ageRating": {
     "label": "12+",
     "descriptors": [
