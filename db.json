@@ -156,6 +156,76 @@
     "price": 39.99,
     "discount": 45,
     "type": "edition"
+  },
+    {
+    "id": "c8db614c-de59-473e-9ea0-c2fdf2300793",
+    "gameId": "b7397a92-278d-4b3f-a655-6d9f04b8c37c",
+    "title": "It Takes Two - Friend Pass",
+    "image": "https://cdn1.epicgames.com/offer/8ae7b3c0f490471b967ce26cc2f6e0e6/EGS_ItTakesTwoFriendsPass_Hazelight_Trials_S2_1200x1600-6347b335e7cdd0b50b88e3ca7aca91e4_1200x1600-6347b335e7cdd0b50b88e3ca7aca91e4?resize=1&w=360&h=480&quality=medium",
+    "description": "",
+    "price": "Free",
+    "discount": false,
+    "type": "demo"
+  },
+     {
+    "id": "26944918-ac73-415e-938b-db61d8fb191e",
+    "gameId": "2ee03011-0452-41b9-83bf-c4192df24202",
+    "title": "YellowJacket Pack",
+    "image": "https://cdn1.epicgames.com/offer/fn/EN_FNECO_36-20_RMT_Yellowjacket_Pack_EGS_Portrait_1200x1600_1200x1600-7a25034ec31cc0621617aec957e7dddd?resize=1&w=360&h=480&quality=medium",
+    "description": "",
+    "price": 4.49,
+    "discount": 0,
+    "type": "addon"
+  },
+        {
+    "id": "d8f15d25-6c55-434d-951d-3416c923e226",
+    "gameId": "2ee03011-0452-41b9-83bf-c4192df24202",
+    "title": "Summer Legends Pack",
+    "image": "https://cdn1.epicgames.com/offer/fn/EN_FNECO_30-10_SummerLegendsPack_EGS_1200x1600_1200x1600-d3edcadbfcc0105175748b5c0c09f239?resize=1&w=360&h=480&quality=medium",
+    "description": "",
+    "price": 18.49,
+    "discount": 20,
+    "type": "addon"
+  },
+        {
+    "id": "b127d843-7f34-4126-9d37-0d40479cb0c7",
+    "gameId": "2ee03011-0452-41b9-83bf-c4192df24202",
+    "title": "1000 V-Bucks",
+    "image": "https://cdn1.epicgames.com/offer/fn/FNECO_32-00_VbuckStoreArtUpdate_1000_EGS_1200x1600_1200x1600-e70f8c1bfbd98a4a3d619e9527aeef8e?resize=1&w=360&h=480&quality=medium",
+    "description": "",
+    "price": 8.99,
+    "discount": 0,
+    "type": "addon"
+  },
+        {
+    "id": "a86257e6-5bee-4c61-a31c-2ab1f9431aef",
+    "gameId": "2ee03011-0452-41b9-83bf-c4192df24202",
+    "title": "2800 V-Bucks",
+    "image": "https://cdn1.epicgames.com/offer/fn/FNECO_32-00_VbuckStoreArtUpdate_2800_EGS_1200x1600_1200x1600-380718e8fb23306b6e8a801d27880104?resize=1&w=360&h=480&quality=medium",
+    "description": "",
+    "price": 22.99,
+    "discount": 0,
+    "type": "addon"
+  },
+        {
+    "id": "2be109d8-bcd8-44b9-8367-8a889de1ff82",
+    "gameId": "2ee03011-0452-41b9-83bf-c4192df24202",
+    "title": "5000 V-Bucks",
+    "image": "https://cdn1.epicgames.com/offer/fn/FNECO_32-00_VbuckStoreArtUpdate_5000_EGS_1200x1600_1200x1600-eb3c8e7ca0803a6cb2fb374d271227f2?resize=1&w=360&h=480&quality=medium",
+    "description": "",
+    "price": 36.99,
+    "discount": 0,
+    "type": "addon"
+  },
+        {
+    "id": "2be109d8-bcd8-44b9-8367-8a889de1ff82",
+    "gameId": "2ee03011-0452-41b9-83bf-c4192df24202",
+    "title": "13500 V-Bucks",
+    "image": "https://cdn1.epicgames.com/offer/fn/FNECO_32-00_VbuckStoreArtUpdate_13500_EGS_1200x1600_1200x1600-d283e52ea33ff79da7d4be0ff86d6e52?resize=1&w=360&h=480&quality=medium",
+    "description": "",
+    "price": 89.99,
+    "discount": 0,
+    "type": "addon"
   }
 ],
     "games": [
@@ -321,28 +391,58 @@
                        "https://cdn2.unrealengine.com/egs-cyberpunk2077-cdprojektred-g1a-17-1920x1080-bb4129963c11.jpg?resize=1&w=480&h=270&quality=medium"]
   },
   {
-    "id": "5",
-    "title": "Elden Ring",
-    "image": "/images/eldenring.jpg",
-    "genre": ["RPG", "Souls-like"],
+    "id": "b7397a92-278d-4b3f-a655-6d9f04b8c37c",
+    "title": "It Takes Two",
+    "logo": "https://cdn2.unrealengine.com/egs-ittakestwo-hazelight-ic1-400x400-10a8bec2a659.png?resize=1&w=480&h=270&quality=medium",
+    "image": "https://cdn1.epicgames.com/offer/8ae7b3c0f490471b967ce26cc2f6e0e6/EGS_ItTakesTwo_Hazelight_S2_1200x1600-5c82de2d2e21a841dd06ec27e082777e_1200x1600-5c82de2d2e21a841dd06ec27e082777e?resize=1&w=360&h=480&quality=medium",
+    "type": "basedgame",
+    "genre": ["Adventure", "Platformer"],
     "platforms": ["Windows", "PS5", "Xbox"],
-    "releaseDate": "2022-02-25",
-    "developer": "FromSoftware",
-    "publisher": "Bandai Namco",
-    "price": 59.99,
-    "discount": 10,
+    "releaseDate": "2023-02-25",
+    "developer": "Hazelight",
+    "publisher": "Electronic Arts",
+    "price": 39.99,
+    "discount": 0,
     "isFree": false,
     "language": ["EN", "JP", "FR", "DE"],
-    "ageRating": "Mature 17+",
-    "description": "A vast world full of peril and discovery awaits.",
-    "features": ["Hardcore", "Exploration"],
-    "video": "https://www.youtube.com/watch?v=example4",
-    "carouselImages": ["/images/eldenring-1.jpg", "/images/eldenring-2.jpg"]
+    "rating": 4.2,
+    "ageRating": {
+    "label": "Teen (T)",
+    "descriptors": [
+        "Animated Blood",
+        "Comic Mischief",
+        "Fantasy Violence",
+        "Language",
+        "Users Interact"
+  ]},
+     "shortDescription": "Embark on the craziest journey of your life in It Takes Two. Invite a friend to join for free with Friend’s Pass* and work together across a huge variety of gleefully disruptive gameplay challenges.",
+     "fullDescription": [
+         {
+        "heading": "PURE CO-OP PERFECTION",
+        "content": "Invite a friend to join for free with Friend’s Pass*, and experience a thrilling adventure built purely for two. Choose from couch or online co-op with split-screen play, and face ever-changing challenges where working together is the only way forward."
+    },
+    {
+        "heading": "GLEEFULLY DISRUPTIVE GAMEPLAY",
+        "content": "From rampaging vacuum cleaners to suave love gurus – with It Takes Two, you never know what you’re up against next. Filled with genre-bending challenges and new character abilities to master in every level, you’ll experience a metaphorical merging of gameplay and narrative that pushes the boundaries of interactive storytelling."
+    },
+    {
+        "heading": "A UNIVERSAL TALE OF RELATIONSHIPS",
+        "content": "Discover a touching and heartfelt story of the challenges in getting along. Help Cody and May learn how to overcome their differences. Meet a diverse cast of strange and endearing characters. Join forces, and go on an adventure you’ll treasure – together!"
+    }
+     ],
+    "features": ["Achievement", "Co-Op"],
+    "video": "https://www.youtube.com/watch?v=ohClxMmNLQQ",
+    "carouselImages": ["https://cdn2.unrealengine.com/egs-ittakestwo-hazelight-g1a-04-1920x1080-35cfcbcf0851.jpg?resize=1&w=480&h=270&quality=mediumg",
+                       "https://cdn2.unrealengine.com/egs-ittakestwo-hazelight-g1a-05-1920x1080-74e4df3b0d0b.jpg?resize=1&w=480&h=270&quality=medium",
+                        "https://cdn2.unrealengine.com/egs-ittakestwo-hazelight-g1a-06-1920x1080-369cad296949.jpg?resize=1&w=480&h=270&quality=medium",
+                        "https://cdn2.unrealengine.com/egs-ittakestwo-hazelight-g1c-00-1920x1080-ddefff1a1789.jpg?resize=1&w=480&h=270&quality=medium"]
   },
   {
-    "id": "6",
+    "id": "2ee03011-0452-41b9-83bf-c4192df24202",
     "title": "Fortnite",
-    "image": "/images/fortnite.jpg",
+    "logo": "https://cdn2.unrealengine.com/24br-s24-egs-launcher-logo-350x100-350x100-b63249f937d9.png?resize=1&w=480&h=270&quality=medium",
+    "image": "https://cdn1.epicgames.com/offer/fn/FNECO_36-10_ForbiddenFruit_EGS_Launcher_KeyArt_Blade_1200x1600_1200x1600-9eb41f23a725f28a00996272bf654e8e?resize=1&w=360&h=480&quality=medium",
+    "type": "basedgame",
     "genre": ["Battle Royale", "Shooter"],
     "platforms": ["Windows", "PS5", "Xbox", "Switch"],
     "releaseDate": "2017-07-25",
@@ -352,11 +452,21 @@
     "discount": 0,
     "isFree": true,
     "language": ["EN", "FR", "DE", "RU"],
-    "ageRating": "Teen",
-    "description": "A free-to-play Battle Royale with building mechanics.",
+    "rating": 4.3,
+    "ageRating": {
+    "label": "Teen (T)",
+    "descriptors": [
+        "Violence",
+        "Users Interact",
+        "In-Game Purchases"
+  ]},
+    "description": "Create, play, and battle with friends for free in Fortnite. Be the last player standing in Battle Royale and Zero Build, experience a concert or live event, or discover over a million creator made games, including racing, parkour, zombie survival, and more. Each Fortnite island has an individual age rating so you can find the one that's right for you and your friends. Find it all in Fortnite ... Drop In.",
     "features": ["Multiplayer", "Live Service"],
-    "video": "https://www.youtube.com/watch?v=example5",
-    "carouselImages": ["/images/fortnite-1.jpg", "/images/fortnite-2.jpg"]
+    "video": "https://www.youtube.com/watch?v=__1ss5tFbwM",
+    "carouselImages": ["https://cdn2.unrealengine.com/en-fnbr-36-10-timberstake-egs-blade-2560x1440-2560x1440-39c4584ce690.jpg?resize=1&w=480&h=270&quality=medium",
+                       "https://cdn2.unrealengine.com/en-fnferal-34-30-sonylauncher-coverartpdp-3840x2160-logo-3840x2160-2da38487164d.png?resize=1&w=480&h=270&quality=medium",
+                       "https://cdn2.unrealengine.com/en-fnfig-36-00-c1s4-egs-launcher-keyart-og-blade-2560x1440-2560x1440-584bcfc7226a.jpg?resize=1&w=480&h=270&quality=medium",
+                       "https://cdn2.unrealengine.com/en-fnleco-36-20-luminaryhypatia-starterpack-psd-firstparty-1920x1080-1920x1080-43bf50fcf0ca.jpg?resize=1&w=854&h=480&quality=medium"]
   },
   {
     "id": "7",
