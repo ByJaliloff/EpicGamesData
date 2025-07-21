@@ -116,6 +116,46 @@
     "price": 51.09,
     "discount": 0,
     "type": "edition"
+  },
+  {
+    "id": "f5e12294-a077-46e3-80ec-45b6ddf7566b",
+    "gameId": "b602dc67-a455-4a89-827e-70149c5b3f4e",
+    "title": "Hades II Original Sountrack",
+    "image": "https://cdn1.epicgames.com/spt-assets/ea0a24395cd641d7bbde3e5d78ad462c/hades-ii-wclv5.png?resize=1&w=360&h=480&quality=medium",
+    "description": "",
+    "price": 4.49,
+    "discount": 0,
+    "type": "addon"
+  },
+    {
+    "id": "8f4c9d62-00d3-4163-a296-fc8092b4d84d",
+    "gameId": "47408ffa-f114-4a26-b4f7-da210a33eb54",
+    "title": "The Witcher 3 Red Kit",
+    "image": "https://cdn1.epicgames.com/offer/14ee004dadc142faaaece5a6270fb628/EGS_TheWitcher3REDkit_CDPROJEKTRED_DLC_S2_1200x1600-ac50a0b326e409e8b2cbf03c0fa42094?resize=1&w=360&h=480&quality=medium",
+    "description": "",
+    "price": "Free",
+    "discount": false,
+    "type": "editor"
+  },
+    {
+    "id": "bff7a2a1-313a-423b-aded-e9eb3a34ba12",
+    "gameId": "56387419-7df5-4471-a960-999cf965c66f",
+    "title": "Cyperpunk 2077: Phantom Liberity",
+    "image": "https://cdn1.epicgames.com/offer/77f2b98e2cef40c8a7437518bf420e47/EGS_Cyberpunk2077PhantomLiberty_CDPROJEKTRED_DLC_S2_1200x1600-3acec02a8b11a2c50ba8dd3cb217f1c6?resize=1&w=360&h=480&quality=medium",
+    "description": "",
+    "price": 14.99,
+    "discount": 25,
+    "type": "addon"
+  },
+    {
+    "id": "5a02b9b7-8538-4be6-ac5e-f9d331f06a67",
+    "gameId": "56387419-7df5-4471-a960-999cf965c66f",
+    "title": "Cyperpunk 2077: Ultimate Edition",
+    "image": "https://cdn1.epicgames.com/offer/77f2b98e2cef40c8a7437518bf420e47/EGS_Cyberpunk2077UltimateEdition_CDPROJEKTRED_Editions_S2_1200x1600-81442c61fd09b45ecd03add7c0c3afdd?resize=1&w=360&h=480&quality=medium",
+    "description": "",
+    "price": 39.99,
+    "discount": 45,
+    "type": "edition"
   }
 ],
     "games": [
@@ -246,23 +286,39 @@
                        "https://cdn2.unrealengine.com/egs-thewitcher3wildhuntcompleteedition-cdprojektred-g1c-00-1920x1080-ee8358cd8883.jpg?resize=1&w=480&h=270&quality=medium"]
   },
   {
-    "id": "4",
+    "id": "56387419-7df5-4471-a960-999cf965c66f",
     "title": "Cyberpunk 2077",
-    "image": "/images/cyberpunk2077.jpg",
-    "genre": ["RPG", "Sci-Fi"],
+    "logo": "https://cdn2.unrealengine.com/egs-cyberpunk2077-cdprojektred-ic1-400x400-82b90aa9a275.png?resize=1&w=480&h=270&quality=medium",
+    "image": "https://cdn1.epicgames.com/offer/77f2b98e2cef40c8a7437518bf420e47/EGS_Cyberpunk2077_CDPROJEKTRED_S2_03_1200x1600-b1847981214ac013383111fc457eb9c5?resize=1&w=360&h=480&quality=medium",
+    "type": "basedgame",
+    "genre": ["RPG", "Adenture", "Action"],
     "platforms": ["Windows", "PS5", "Xbox"],
     "releaseDate": "2020-12-10",
     "developer": "CD Projekt Red",
     "publisher": "CD Projekt",
-    "price": 49.99,
+    "price": 29.99,
     "discount": 60,
     "isFree": false,
     "language": ["EN", "PL", "DE", "RU"],
-    "ageRating": "Mature 18+",
-    "description": "An open-world, action-adventure story set in Night City.",
+    "rating": 4.7,
+    "ageRating": {
+    "label": "Mature 17+",
+    "descriptors": [
+        "Blood and Gore",
+        "Intense Violence",
+        "Nudity",
+        "Strong Language",
+        "Strong Sexual Content",
+        "Use of Drugs and Alcohol"
+  ]},
+    "shortDescription": "Cyberpunk 2077 is an open-world, action-adventure RPG set in the megalopolis of Night City, where you play as a cyberpunk mercenary wrapped up in a do-or-die fight for survival. Improved and featuring all-new free additional content, customize your character and playstyle as you take on jobs, build a reputation, and unlock upgrades. The relationships you forge and the choices you make will shape the story and the world around you. Legends are made here. What will yours be?",
+    "fullDescription": [],
     "features": ["Open World", "Futuristic"],
-    "video": "https://www.youtube.com/watch?v=example3",
-    "carouselImages": ["/images/cyberpunk-1.jpg", "/images/cyberpunk-2.jpg"]
+    "video": "https://www.youtube.com/watch?v=8X2kIfS6fb8",
+    "carouselImages": ["https://cdn2.unrealengine.com/egs-cyberpunk2077-cdprojektred-g1a-14-1920x1080-944469dc7d4b.jpg?resize=1&w=480&h=270&quality=medium",
+                       "https://cdn2.unrealengine.com/egs-cyberpunk2077-cdprojektred-g1a-15-1920x1080-75c88f01adc8.jpg?resize=1&w=480&h=270&quality=medium",
+                       "https://cdn2.unrealengine.com/egs-cyberpunk2077-cdprojektred-g1a-16-1920x1080-85f7d3d3f549.jpg?resize=1&w=480&h=270&quality=medium",
+                       "https://cdn2.unrealengine.com/egs-cyberpunk2077-cdprojektred-g1a-17-1920x1080-bb4129963c11.jpg?resize=1&w=480&h=270&quality=medium"]
   },
   {
     "id": "5",
