@@ -198,23 +198,49 @@
                        "https://cdn1.epicgames.com/spt-assets/ea0a24395cd641d7bbde3e5d78ad462c/hades-ii-1z0uc.png?resize=1&w=480&h=270&quality=medium" ]
   },
   {
-    "id": "3",
+    "id": "47408ffa-f114-4a26-b4f7-da210a33eb54",
     "title": "The Witcher 3: Wild Hunt",
-    "image": "/images/witcher3.jpg",
+    "image": "https://cdn1.epicgames.com/offer/14ee004dadc142faaaece5a6270fb628/EGS_TheWitcher3WildHuntCompleteEdition_CDPROJEKTRED_S2_1200x1600-53a8fb2c0201cd8aea410f2a049aba3f?resize=1&w=360&h=480&quality=medium",
     "genre": ["RPG", "Open World"],
     "platforms": ["Windows", "PS5", "Xbox"],
     "releaseDate": "2015-05-18",
     "developer": "CD Projekt Red",
     "publisher": "CD Projekt",
-    "price": 29.99,
-    "discount": 50,
+    "price": 24.96,
+    "discount": 80,
     "isFree": false,
     "language": ["EN", "PL", "RU", "FR", "DE"],
-    "ageRating": "Mature 17+",
-    "description": "Become a monster slayer for hire and embark on an epic journey.",
+    "ageRating": {
+    "label": "18+ M",
+    "descriptors": [
+        "Blood and Gore",
+        "Intense Violence",
+        "Nudity",
+        "Strong Language",
+        "Strong Sexual Content",
+        "Use of Alcohol"
+  ]},
+    "shortDescription": "The most awarded game of a generation, now enhanced for the next! Experience The Witcher 3: Wild Hunt and its expansions in this definitive collection, boasting improved visuals and performance, new additional content, Photo Mode, and more!",
+    "fullDescription": [
+    {
+        "heading": "ABOUT THE GAME",
+        "content": "You are Geralt of Rivia, mercenary monster slayer. Before you stands a war-torn, monster-infested continent you can explore at will. Your current contract? Tracking down Ciri — the Child of Prophecy, a living weapon that can alter the shape of the world."
+    },
+    {
+        "heading": "UPDATED FOR A NEW GENERATION",
+        "content": "Behold the dark fantasy world of the Continent like never before! This edition of The Witcher 3: Wild Hunt has been enhanced with numerous visual and technical improvements, including vastly improved level of detail, a range of community created and newly developed mods for the game, real-time ray tracing, and more — all implemented with the power of modern PCs in mind."
+    },
+    {
+        "heading": "PLAY AS A HIGHLY TRAINED MONSTER SLAYER FOR HIRE",
+        "content": "Trained from early childhood and mutated to gain superhuman skills, strength, and reflexes, witchers are a counterbalance to the monster-infested world in which they live. Gruesomely destroy foes as a professional monster hunter armed with a range of upgradeable weapons, mutating potions, and combat magic. Hunt down a wide variety of exotic monsters, from savage beasts prowling mountain passes to cunning supernatural predators lurking in the shadowy back alleys of densely populated cities. Invest your rewards to upgrade your weaponry and buy custom armor, or spend them on horse races, card games, fist fighting, and other pleasures life brings."
+    }
+    ],
     "features": ["Story Rich", "Fantasy"],
-    "video": "https://www.youtube.com/watch?v=example2",
-    "carouselImages": ["/images/witcher3-1.jpg", "/images/witcher3-2.jpg"]
+    "video": "https://www.youtube.com/watch?v=c0i88t0Kacs",
+    "carouselImages": ["https://cdn2.unrealengine.com/egs-thewitcher3wildhuntcompleteedition-cdprojektred-g1a-03-1920x1080-24c8f2997f41.jpg?resize=1&w=480&h=270&quality=medium",
+                       "https://cdn2.unrealengine.com/egs-thewitcher3wildhuntcompleteedition-cdprojektred-g1a-05-1920x1080-ac4ebacf1833.jpg?resize=1&w=480&h=270&quality=medium",
+                       "https://cdn2.unrealengine.com/egs-thewitcher3wildhuntcompleteedition-cdprojektred-g1a-06-1920x1080-888a74f299d6.jpg?resize=1&w=480&h=270&quality=medium",
+                       "https://cdn2.unrealengine.com/egs-thewitcher3wildhuntcompleteedition-cdprojektred-g1c-00-1920x1080-ee8358cd8883.jpg?resize=1&w=480&h=270&quality=medium"]
   },
   {
     "id": "4",
