@@ -530,7 +530,7 @@
     "features": ["Stealth", "Parkour"],
     "video": "https://www.youtube.com/watch?v=x55lAlFtXmw",
     "carouselImages": ["https://cdn2.unrealengine.com/air-assassination-ac1-gold1920x1080-1920x1080-cb3af9126f5c.jpg?resize=1&w=480&h=270&quality=medium",
-                       "/https://cdn2.unrealengine.com/bagdad-vista-final-3840x2160-053259da6873.jpg?resize=1&w=480&h=270&quality=medium",
+                       "https://cdn2.unrealengine.com/bagdad-vista-final-3840x2160-053259da6873.jpg?resize=1&w=480&h=270&quality=medium",
                        "https://cdn2.unrealengine.com/bureau-concept-gold-candidate1920x1080-1920x1080-bf39631f989d.png?resize=1&w=480&h=270&quality=medium",
                        "https://cdn2.unrealengine.com/chocking-smoke-bomb-gold-rgb-1080p-1920x1080-cd8a2bb24a91.png?resize=1&w=480&h=270&quality=medium"]
   },
