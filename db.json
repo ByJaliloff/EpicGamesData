@@ -200,6 +200,7 @@
   {
     "id": "47408ffa-f114-4a26-b4f7-da210a33eb54",
     "title": "The Witcher 3: Wild Hunt",
+    "logo": "https://cdn2.unrealengine.com/egs-thewitcher3wildhuntcompleteedition-cdprojektred-ic1-400x400-39ecddf1cc77.png?resize=1&w=480&h=270&quality=medium",
     "image": "https://cdn1.epicgames.com/offer/14ee004dadc142faaaece5a6270fb628/EGS_TheWitcher3WildHuntCompleteEdition_CDPROJEKTRED_S2_1200x1600-53a8fb2c0201cd8aea410f2a049aba3f?resize=1&w=360&h=480&quality=medium",
     "genre": ["RPG", "Open World"],
     "platforms": ["Windows", "PS5", "Xbox"],
