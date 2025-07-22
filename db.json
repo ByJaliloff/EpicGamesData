@@ -256,6 +256,56 @@
     "price": 9.99,
     "discount": 0,
     "type": "addon"
+  },
+        {
+    "id": "daf51871-78e0-4e82-9787-e01d731b283e",
+    "gameId": "b022fdca-592c-41a7-9bd2-865a0dc995e4",
+    "title": "Tom Clancy's Rainbow Six Siege X - Elite Edition",
+    "image": "https://cdn1.epicgames.com/offer/carnation/EGST_StorePortrait_1200x1600_1200x1600-05f9d6928ef222cd50f7d6ada5c86398?resize=1&w=360&h=480&quality=medium",
+    "description": "",
+    "price": 19.99,
+    "discount": 0,
+    "type": "edition"
+  },
+        {
+    "id": "ab176568-7b99-41d8-a046-f7c2b92584aa",
+    "gameId": "b022fdca-592c-41a7-9bd2-865a0dc995e4",
+    "title": "Tom Clancy's Rainbow Six Siege X - Ultimate Edition",
+    "image": "https://cdn1.epicgames.com/offer/carnation/EGST_StorePortrait_1200x1600_1200x1600-8341f5a48fe6ad8a7ec7ecf1cf83004e?resize=1&w=360&h=480&quality=medium",
+    "description": "",
+    "price": 39.99,
+    "discount": 0,
+    "type": "edition"
+  },
+        {
+    "id": "42ed2261-785d-456c-a4ee-0fc76d2602e3",
+    "gameId": "b022fdca-592c-41a7-9bd2-865a0dc995e4",
+    "title": "5,000 Premier Pack - Rainbow Six Siege",
+    "image": "https://cdn1.epicgames.com/offer/carnation/EGST_StorePortrait_1200x1600_1200x1600-ffa71c067e731b890fc8404c469d0871?resize=1&w=360&h=480&quality=medium",
+    "description": "",
+    "price": 39.99,
+    "discount": 0,
+    "type": "addons"
+  },
+        {
+    "id": "738423aa-c993-4443-83db-0a0b9592c4de",
+    "gameId": "b022fdca-592c-41a7-9bd2-865a0dc995e4",
+    "title": "3,300 Premier Pack - Rainbow Six Siege",
+    "image": "https://cdn1.epicgames.com/offer/carnation/EGST_StorePortrait_1200x1600_1200x1600-159c04ea408a343115adea0af23a2ea6?resize=1&w=360&h=480&quality=medium",
+    "description": "",
+    "price": 19.99,
+    "discount": 0,
+    "type": "addons"
+  },
+        {
+    "id": "7d809db7-5cf4-4262-9062-90460b43a650",
+    "gameId": "ba982536-ba46-43ef-9d72-725f10b13ba6",
+    "title": "Sifu Digital Deluxe Edition",
+    "image": "https://cdn2.unrealengine.com/egs-sifudigitaldeluxeedition-sloclap-editions-s2a-1200x1600-0ae6ff3437f5.jpg?resize=1&w=360&h=480&quality=medium",
+    "description": "",
+    "price": 25.99,
+    "discount": 0,
+    "type": "edition"
   }
 ],
     "games": [
@@ -478,7 +528,7 @@
     "releaseDate": "2017-07-25",
     "developer": "Epic Games",
     "publisher": "Epic Games",
-    "price": 0,
+    "price": "Free",
     "discount": 0,
     "isFree": true,
     "language": ["EN", "FR", "DE", "RU"],
@@ -535,29 +585,60 @@
                        "https://cdn2.unrealengine.com/chocking-smoke-bomb-gold-rgb-1080p-1920x1080-cd8a2bb24a91.png?resize=1&w=480&h=270&quality=medium"]
   },
   {
-    "id": "8",
-    "title": "Starfield",
-    "image": "/images/starfield.jpg",
-    "genre": ["RPG", "Sci-Fi"],
+    "id": "b022fdca-592c-41a7-9bd2-865a0dc995e4",
+    "title": "Tom Clancy's Rainbow Six Siege X - Free Access",
+    "logo": "https://cdn2.unrealengine.com/egst-logo-400x400-400x400-d83297d388ae.png?resize=1&w=480&h=270&quality=medium",
+    "image": "https://cdn1.epicgames.com/offer/carnation/EGST_StorePortrait_1200x1600_1200x1600-e36efcc989efe5e5572cc9b58909ac6e?resize=1&w=360&h=480&quality=medium",
+    "type": "basedgame",
+    "genre": ["Action", "Shhoter", "Strategy"],
     "platforms": ["Windows", "Xbox"],
-    "releaseDate": "2023-09-06",
-    "developer": "Bethesda Game Studios",
-    "publisher": "Bethesda Softworks",
-    "price": 69.99,
-    "discount": 15,
-    "isFree": false,
-    "language": ["EN"],
-    "ageRating": "Teen",
-    "description": "Explore space in Bethesda's biggest RPG ever.",
-    "features": ["Space", "Exploration"],
-    "video": "https://www.youtube.com/watch?v=example7",
-    "carouselImages": ["/images/starfield-1.jpg", "/images/starfield-2.jpg"]
+    "releaseDate": "2015-09-06",
+    "developer": "Ubisoft",
+    "publisher": "Ubisoft",
+    "price": "Free",
+    "discount": 0,
+    "isFree": true,
+    "language": ["EN", "FR", "AR", "TR"],
+    "rating": 4.5,
+    "ageRating": {
+    "label": "Mature 17+",
+    "descriptors": [
+        "Blood",
+        "Drug Reference",
+        "Strong Language",
+        "Violence",
+        "Users Interact",
+        "In-Game Purchases"
+  ]},
+    "shortDescription": "Rainbow Six Siege X is the reference in tactical team shooters, where elite strategy and execution triumph. Enjoy free access to Quick Match, Unranked and Dual Front game modes with a selection of operators.",
+     "fullDescription": [
+         {
+        "heading": "Tom Clancy's Rainbow Six Siege X - Free Access",
+        "content": "Rainbow Six Siege X is the reference in tactical team shooters, where elite strategy and execution triumph. Enjoy free access to Quick Match, Unranked and Dual Front game modes with a selection of operators."
+    },
+    {
+        "heading": "TOOLS OF DESTRUCTION",
+        "content": "Destruction is more than chaos, it is a key tool for your success. Use the environment to your advantage — turn walls into windows of opportunity. Use state-of-the-art technology to track enemy movements, shatter walls to create new lines of sight, and manipulate your surroundings to secure the tactical advantage."
+    },
+    {
+        "heading": "FROM RECRUIT TO ELITE",
+        "content": "A solid onboarding journey for new players, including a new clearance level path, helping you learn progressively the basics and build the skills and confidence before jumping into tactical action."
+    }
+     ],
+    "features": ["Co-op", "Competetive", "Multiplayer"],
+    "video": "https://www.youtube.com/watch?v=BI9fgQY0d5I",
+    "carouselImages": ["https://cdn2.unrealengine.com/kwm-r6s2402-screenshots-2160p-01-reinforcement-nohud-v3-3840x2160-8f3b838526be.jpg?resize=1&w=480&h=270&quality=medium",
+                       "https://cdn2.unrealengine.com/kwm-r6s2402-screenshots-2160p-02-droning-nohud-v3-3840x2160-ef293c0a954e.jpg?resize=1&w=480&h=270&quality=medium",
+                       "https://cdn2.unrealengine.com/kwm-r6s2402-screenshots-2160p-03-rappelling-nohud-v3-3840x2160-55fd932a0e11.jpg?resize=1&w=480&h=270&quality=medium",
+                       "https://cdn2.unrealengine.com/kwm-r6s2402-screenshots-2160p-05-defensecoordination-nohud-v3-3840x2160-609a149397f4.jpg?resize=1&w=480&h=270&quality=medium"]
   },
   {
-    "id": "9",
+    "id": "ba982536-ba46-43ef-9d72-725f10b13ba6",
     "title": "Sifu",
-    "image": "/images/sifu.jpg",
-    "genre": ["Action", "Martial Arts"],
+    "logo": "https://cdn2.unrealengine.com/egs-greeneye-sloclap-ic1-400x400-7f5493d6af29.png?resize=1&w=480&h=270&quality=medium",
+    "image": "https://cdn1.epicgames.com/offer/b7b42e2078524ab386a8b2a9856ef557/EGS_SIFUStandardEdition_Sloclap_S4_1200x1600-32aca69d756abfcc25f8581942a6162b_1200x1600-32aca69d756abfcc25f8581942a6162b?resize=1&w=360&h=480&quality=medium",
+    "type": "basedgame",
+    "genre": ["Action", "Fighting", "Indie"],
     "platforms": ["Windows", "PS5"],
     "releaseDate": "2022-02-08",
     "developer": "Sloclap",
@@ -566,30 +647,77 @@
     "discount": 25,
     "isFree": false,
     "language": ["EN", "FR", "CN"],
-    "ageRating": "Mature 17+",
-    "description": "A revenge story told through intense hand-to-hand combat.",
-    "features": ["Kung Fu", "Indie"],
-    "video": "https://www.youtube.com/watch?v=example8",
-    "carouselImages": ["/images/sifu-1.jpg", "/images/sifu-2.jpg"]
+    "rating": 4.7,
+    "ageRating": {
+    "label": "Mature 17+",
+    "descriptors": [
+        "Blood",
+        "Drug Reference",
+        "Strong Language",
+        "Violence"
+  ]},
+    "shortDescription": "Sifu is a realistic third-person brawler with tight Kung Fu combat mechanics and cinematic martial arts action embarking you on a path for revenge.",
+     "fullDescription": [
+         {
+        "heading": "New content available | Enter the Arenas",
+        "content": "Itching for some more good ol' Kung Fu action? The Arenas free expansion adds an entirely new game mode, featuring 15 dynamic locations and 120 challenges that will put your Kung Fu to the test! Gear up for spectacular combats, brutal opponents, and endless opportunities to refine your moves."
+    },
+    {
+        "heading": "Learning by fire",
+        "content": "Your enemies don’t wait their turn, and they don’t broadcast their intent. Dodge, parry, strike, use combos and be like water making its way through captivating environments. Learn how to master your art, whether by fighting through the underbelly of a nightclub, scrambling through a refined gallery to avoid getting surrounded, or vertically navigating a towering office building."
+    },
+    {
+        "heading": "Adaptation is survival",
+        "content": "Careful positioning and clever use of the environment to your advantage are key to your survival. Use everything at your disposal: throwable objects, makeshift weapons, windows, and ledges. The odds are stacked against you, and you will be offered no mercy."
+    }
+     ],
+    "features": ["Controller", "Single Player"],
+    "video": "https://www.youtube.com/watch?v=1FQ1YO3Ks2U",
+    "carouselImages": ["https://cdn2.unrealengine.com/egs-sifustandardedition-sloclap-g1a-05-1920x1080-1e028de5e661.jpg?resize=1&w=480&h=270&quality=medium",
+                       "https://cdn2.unrealengine.com/egs-sifustandardedition-sloclap-g1a-06-1920x1080-66e086a82055.jpg?resize=1&w=480&h=270&quality=medium",
+                        "https://cdn2.unrealengine.com/egs-sifustandardedition-sloclap-g1a-07-1920x1080-b79fe52bb072.jpg?resize=1&w=480&h=270&quality=medium",
+                        "https://cdn2.unrealengine.com/egs-sifustandardedition-sloclap-g1a-08-1920x1080-b89d9b05bd9f.jpg?resize=1&w=480&h=270&quality=medium"]
   },
   {
-    "id": "10",
-    "title": "Lies of P",
-    "image": "/images/liesofp.jpg",
-    "genre": ["Souls-like", "Action"],
+    "id": "d7ff936f-1364-4644-afdd-4de4b6ca3d09",
+    "title": "Anno 117: Pax Romana",
+    "logo": "https://cdn2.unrealengine.com/egst-logo-400x400-400x400-cd184c9b3956.png?resize=1&w=480&h=270&quality=medium",
+    "image": "https://cdn1.epicgames.com/offer/525cf92ef772437e98805aeb6e234b2a/EGST_StorePortrait_1200x1600_1200x1600-6eaef08ab42924ccb270ea329f122ca7?resize=1&w=360&h=480&quality=medium",
+    "type": "basedgame",
+    "genre": ["Strategy", "CityBuilder" , "Simulation", "RTS"],
     "platforms": ["Windows", "PS5", "Xbox"],
     "releaseDate": "2023-09-19",
-    "developer": "Neowiz Games",
-    "publisher": "Neowiz Games",
+    "developer": "Ubisoft",
+    "publisher": "Ubisoft",
     "price": 59.99,
-    "discount": 10,
+    "discount": 0,
     "isFree": false,
-    "language": ["EN", "KO", "FR", "DE"],
-    "ageRating": "Mature 17+",
-    "description": "A twisted Pinocchio-inspired souls-like game.",
-    "features": ["Dark Fantasy", "Challenging"],
-    "video": "https://www.youtube.com/watch?v=example9",
-    "carouselImages": ["/images/liesofp-1.jpg", "/images/liesofp-2.jpg"]
+    "language": ["EN", "FR", "DE"],
+    "rating": 4.1,
+    "ageRating": {
+      "label": "Mature 17+",
+      "descriptors": []},
+    "shortDescription": "The genre-defining builder franchise returns in a Roman Empire setting. How you build and govern will shape your story. Lead with rebellion or unite cultures? The cost of peace is yours to decide.",
+     "fullDescription": [
+         {
+        "heading": "EXPERIENCE THE PREMIER BUILDER",
+        "content": "Build your provinces with unmatched detail, flexibility, and scale. Watch kids chase dogs through the streets or thousands cheer in the arena. Build upon the land that you see, from the beautiful heartland of Latium to the mysterious Celtic wetlands of Albion…where no civilized Roman wants to be."
+    },
+    {
+        "heading": "BECOME A ROMAN GOVERNOR",
+        "content": "Design the cities of your dreams at the peak of the Roman Empire as you balance your people's needs with the relentless demands of the emperor. Forge alliances across the empire or showcase your might with strategic land battles and naval combat. You may even defy the emperor himself—but not without consequences."
+    },
+    {
+        "heading": "CHOOSE THE FATE OF YOUR PROVINCES",
+        "content": "Every decision you make as governor matters. Will you honor local Celtic culture or enforce Roman traditions? Grow your provinces through diplomacy and commerce or conquer through military strength. Your choices will shape not only the future of your citizens and your provinces, but your own story as well."
+    }
+     ],,
+    "features": [],
+    "video": "https://www.youtube.com/watch?v=GBXNl88yeW4",
+    "carouselImages": ["https://cdn2.unrealengine.com/01-temple-png-3840x2160-3840x2160-d1543e828745.png?resize=1&w=480&h=270&quality=medium",
+                       "https://cdn2.unrealengine.com/02-city-png-3840x2160-3840x2160-c8c1c5410ede.png?resize=1&w=480&h=270&quality=medium",
+                        "https://cdn2.unrealengine.com/03-ships-png-3840x2160-3840x2160-7a4d8db6dd74.png?resize=1&w=480&h=270&quality=medium",
+                        "https://cdn2.unrealengine.com/04-albion-png-3840x2160-3840x2160-d8c67862dddc.jpeg?resize=1&w=480&h=270&quality=medium"]
   },
   {
     "id": "11",
