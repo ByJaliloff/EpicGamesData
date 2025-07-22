@@ -720,72 +720,126 @@
                         "https://cdn2.unrealengine.com/04-albion-png-3840x2160-3840x2160-d8c67862dddc.jpeg?resize=1&w=480&h=270&quality=medium"]
   },
   {
-    "id": "11",
-    "title": "Returnal",
-    "image": "/images/returnal.jpg",
-    "genre": ["Action", "Roguelike", "Sci-Fi"],
+    "id": "c40c131c-9cbf-4109-a7a6-43091eadc778",
+    "title": "The Medium",
+    "logo": "https://cdn2.unrealengine.com/egs-themedium-blooberteam-ic1-400x84-217316323.png?resize=1&w=480&h=270&quality=medium",
+    "image": "https://cdn1.epicgames.com/e192c537dd6d47ce9a9b00b643c3cdb9/offer/EGS_TheMedium_BlooberTeam_S2-1200x1600-ae6bf4c64b365f9d90dba125c562f59a.jpg?resize=1&w=360&h=480&quality=medium",
+    "type": "basedgame",
+    "genre": ["Adventure", "Horror"],
     "platforms": ["Windows"],
     "releaseDate": "2023-02-15",
-    "developer": "Housemarque",
-    "publisher": "PlayStation PC LLC",
-    "price": 59.99,
-    "discount": 30,
+    "developer": "Bloober Team",
+    "publisher": "Bloober Team S.A",
+    "price": 38.99,
+    "discount": 0,
     "isFree": false,
     "language": ["EN", "FR", "DE", "ES"],
-    "ageRating": "Mature 17+",
-    "description": "Break the cycle in this fast-paced roguelike shooter on an alien planet.",
-    "features": ["Singleplayer", "Bullet Hell", "Female Protagonist"],
-    "video": "https://www.youtube.com/watch?v=example6",
+    "rating": 4.5,
+    "ageRating": {
+      "label": "Mature 17+",
+      "descriptors": [
+        "Blood",
+        "Strong Language",
+        "Violence"
+  ]},
+    "shortDescription": "The Medium is a story-focused third-person psychological horror game that features innovative dual-reality gameplay and an original soundtrack co-composed by Arkadiusz Reikowski and Akira Yamaoka.",
+     "fullDescription": [
+         {
+        "heading": "The Medium",
+        "content": "Wield unique psychic abilities reserved for those with the gift. Travel between the realities or explore them both at the very same time. Use the Out of Body experience to investigate places where your real-world self can’t go. Create energy shields and deliver powerful spirit blasts to survive the spirit world and its otherworldly dangers."}
+     ],
+    "features": ["Singleplayer", "Cloud Save"],
+    "video": "https://www.youtube.com/watch?v=MgZBEtJpbdM",
     "carouselImages": [
-      "/images/returnal-1.jpg",
-      "/images/returnal-2.jpg",
-      "/images/returnal-3.jpg"
+      "https://cdn2.unrealengine.com/egs-themedium-blooberteam-g1a-01-1920x1080-166951234.jpg?resize=1&w=480&h=270&quality=medium",
+      "https://cdn2.unrealengine.com/egs-themedium-blooberteam-g1a-02-1920x1080-166951244.jpg?resize=1&w=480&h=270&quality=medium",
+      "https://cdn2.unrealengine.com/egs-themedium-blooberteam-g1a-07-1920x1080-217320307.jpg?resize=1&w=480&h=270&quality=medium",
+        "https://cdn2.unrealengine.com/egs-themedium-blooberteam-g1a-09-1920x1080-217318266.jpg?resize=1&w=480&h=270&quality=medium"
     ]
   },
   {
-    "id": "12",
-    "title": "Cyberpunk 2077",
-    "image": "/images/cyberpunk2077.jpg",
-    "genre": ["RPG", "Open World", "Futuristic"],
+    "id": "e60e2836-b803-4e4c-99c0-a349a7eaa63b",
+    "title": "The Last of Us™ Part II Remastered",
+    "logo": "https://cdn2.unrealengine.com/egs-thelastofuspartiiremastered-naughtydogllcnixxessoftwareirongalaxy-ic1-400x400-f9559e8c5104.png?resize=1&w=480&h=270&quality=medium",
+    "image": "https://cdn1.epicgames.com/offer/7713e3fa4b234e0d8f553044205d53b6/EGS_TheLastofUsPartIIRemastered_NaughtyDogLLCNixxesSoftwareIronGalaxy_S2_1200x1600-2e13755a6b3fec2ee9dbcc231a1cf39c?resize=1&w=360&h=480&quality=medium",
+    "type": "basedgame",
+    "genre": ["Action", "Adventure"],
     "platforms": ["Windows"],
-    "releaseDate": "2020-12-10",
-    "developer": "CD Projekt Red",
-    "publisher": "CD Projekt",
+    "releaseDate": "2025-01-10",
+    "developer": "Naughty Dog LLC, Nixxes Software, Iron Galaxy",
+    "publisher": "PlayStation Publishing LLC",
     "price": 49.99,
-    "discount": 50,
+    "discount": 0,
     "isFree": false,
     "language": ["EN", "RU", "FR", "PL"],
-    "ageRating": "Mature 18+",
-    "description": "Open-world action-adventure set in a dystopian Night City.",
-    "features": ["Story-rich", "FPS", "Customization"],
-    "video": "https://www.youtube.com/watch?v=example7",
+    "rating": 4.8,
+    "ageRating": {
+      "label": "Mature 17+",
+      "descriptors": [
+        "Intense Violence",
+        "Blood and Gore",
+        "Nudity",
+        "Sexual Content",
+        "Strong Language",
+        "Use of Drugs"
+  ]},
+    "shortDescription": "Experience the winner of over 300 Game of the Year awards, remastered with graphical enhancements, new gameplay modes like the roguelike survival experience No Return, and more.",
+     "fullDescription": [],
+    "features": ["Achievement", "Cloud Save", "Single Player"],
+    "video": "https://www.youtube.com/watch?v=-llaUBqovHw",
     "carouselImages": [
-      "/images/cyberpunk-1.jpg",
-      "/images/cyberpunk-2.jpg",
-      "/images/cyberpunk-3.jpg"
+      "https://cdn2.unrealengine.com/egs-thelastofuspartiiremastered-naughtydogllcnixxessoftwareirongalaxy-g1a-01-1920x1080-31a0ce925a6f.jpg?resize=1&w=480&h=270&quality=medium",
+      "https://cdn2.unrealengine.com/egs-thelastofuspartiiremastered-naughtydogllcnixxessoftwareirongalaxy-g1a-03-1920x1080-b05654dd8141.jpg?resize=1&w=480&h=270&quality=medium",
+      "https://cdn2.unrealengine.com/egs-thelastofuspartiiremastered-naughtydogllcnixxessoftwareirongalaxy-g1a-04-1920x1080-8ebe1726476c.jpg?resize=1&w=480&h=270&quality=medium",
+        "https://cdn2.unrealengine.com/egs-thelastofuspartiiremastered-naughtydogllcnixxessoftwareirongalaxy-g1a-05-1920x1080-5ace9d4d524f.jpg?resize=1&w=480&h=270&quality=medium"
     ]
   },
   {
-    "id": "13",
-    "title": "The Witcher 3: Wild Hunt",
-    "image": "/images/witcher3.jpg",
-    "genre": ["RPG", "Fantasy", "Open World"],
+    "id": "0a4fd7af-6ac4-4edf-a050-3477addd8ddc",
+    "title": "Apex Legends™",
+    "logo": "https://cdn1.epicgames.com/spt-assets/5dcd88f4e2094a698ebffa43438edc33/apex-legends-logo-uerv4.png?resize=1&w=480&h=270&quality=medium",
+    "image": "https://cdn1.epicgames.com/spt-assets/5dcd88f4e2094a698ebffa43438edc33/apex-legends-15tbt.jpg?resize=1&w=360&h=480&quality=medium",
+    "type": "basedgame",
+    "genre": ["Action"],
     "platforms": ["Windows"],
-    "releaseDate": "2015-05-19",
-    "developer": "CD Projekt Red",
-    "publisher": "CD Projekt",
-    "price": 39.99,
-    "discount": 70,
-    "isFree": false,
+    "releaseDate": "2018-05-19",
+    "developer": "Respawn",
+    "publisher": "Electronic Arts",
+    "price": "Free",
+    "discount": 0,
+    "isFree": true,
     "language": ["EN", "RU", "DE", "PL"],
-    "ageRating": "Mature 18+",
-    "description": "Become a monster slayer for hire and embark on an epic journey.",
-    "features": ["Story-rich", "Choices Matter", "Swordplay"],
-    "video": "https://www.youtube.com/watch?v=example8",
+    "rating": 4.2,
+    "ageRating": {
+      "label": "Teen (T)",
+      "descriptors": [
+        "Blood",
+        "Violence",
+        "Users Interact",
+        "In-Game Purchases"
+  ]},
+     "shortDescription": "Conquer with character in Apex Legends, a free-to-play* Hero shooter where legendary characters with powerful abilities team up to battle for fame & fortune on the fringes of the Frontier.",
+     "fullDescription": [
+         {
+        "heading": "A Roster of Legendary Characters",
+        "content": "Master a growing roster of powerful Legends, each with their own unique personality, strengths, and abilities that are easy to pick up, but challenging to truly master."
+    },
+    {
+        "heading": "Build Your Crew",
+        "content": "Choose your Legend and combine their unique skills together with other players to form the ultimate crew."
+    },
+    {
+        "heading": "Strategic Squad Play",
+        "content": "Whether you're battling on a massive floating city in Battle Royale or dueling in limited time modes, you'll need to think fast. Master your Legend's unique abilities and coordinate with your teammates to discover new tactics and powerful combinations."
+    }
+     ],
+    "features": ["Competetive", "Online Multiplayer"],
+    "video": "https://www.youtube.com/watch?v=oQtHENM_GZU",
     "carouselImages": [
-      "/images/witcher3-1.jpg",
-      "/images/witcher3-2.jpg",
-      "/images/witcher3-3.jpg"
+      "https://cdn1.epicgames.com/spt-assets/5dcd88f4e2094a698ebffa43438edc33/apex-legends-1hzrr.jpg?resize=1&w=480&h=270&quality=medium",
+      "https://cdn1.epicgames.com/spt-assets/5dcd88f4e2094a698ebffa43438edc33/apex-legends-1iz89.jpg?resize=1&w=480&h=270&quality=medium",
+      "https://cdn1.epicgames.com/spt-assets/5dcd88f4e2094a698ebffa43438edc33/apex-legends-3hsbv.jpg?resize=1&w=480&h=270&quality=medium",
+      "https://cdn1.epicgames.com/spt-assets/5dcd88f4e2094a698ebffa43438edc33/apex-legends-10mwi.jpg?resize=1&w=480&h=270&quality=medium"
     ]
   },
   {
