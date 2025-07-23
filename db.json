@@ -367,7 +367,7 @@
     "language": ["EN", "FR", "DE", "RU"],
     "rating": 4.8,
     "ageRating": {
-    "label": "17+ M",
+    "label": "17+",
     "descriptors": [
         "Blood and Gore",
         "Intense Violence",
@@ -445,7 +445,7 @@
     "language": ["EN", "PL", "RU", "FR", "DE"],
     "rating": 4.8,
     "ageRating": {
-    "label": "18+ M",
+    "label": "18+",
     "descriptors": [
         "Blood and Gore",
         "Intense Violence",
@@ -493,7 +493,7 @@
     "language": ["EN", "PL", "DE", "RU"],
     "rating": 4.7,
     "ageRating": {
-    "label": "Mature 17+",
+    "label": "17+",
     "descriptors": [
         "Blood and Gore",
         "Intense Violence",
@@ -528,7 +528,7 @@
     "language": ["EN", "JP", "FR", "DE"],
     "rating": 4.2,
     "ageRating": {
-    "label": "Teen (T)",
+    "label": "12+",
     "descriptors": [
         "Animated Blood",
         "Comic Mischief",
@@ -575,7 +575,7 @@
     "language": ["EN", "FR", "DE", "RU"],
     "rating": 4.3,
     "ageRating": {
-    "label": "Teen (T)",
+    "label": "12+",
     "descriptors": [
         "Violence",
         "Users Interact",
@@ -607,7 +607,7 @@
     "language": ["EN", "FR", "AR", "TR"],
     "rating": 4.4,
     "ageRating": {
-    "label": "Mature 17+",
+    "label": "17+",
     "descriptors": [
         "Blood and Gore",
         "Intense Violence",
@@ -631,7 +631,7 @@
     "logo": "https://cdn2.unrealengine.com/egst-logo-400x400-400x400-d83297d388ae.png?resize=1&w=480&h=270&quality=medium",
     "image": "https://cdn1.epicgames.com/offer/carnation/EGST_StorePortrait_1200x1600_1200x1600-e36efcc989efe5e5572cc9b58909ac6e?resize=1&w=360&h=480&quality=medium",
     "type": "basedgame",
-    "genre": ["Action", "Shhoter", "Strategy"],
+    "genre": ["Action", "Shooter", "Strategy"],
     "platforms": ["Windows", "Xbox"],
     "releaseDate": "2015-09-06",
     "developer": "Ubisoft",
@@ -642,7 +642,7 @@
     "language": ["EN", "FR", "AR", "TR"],
     "rating": 4.5,
     "ageRating": {
-    "label": "Mature 17+",
+    "label": "17+",
     "descriptors": [
         "Blood",
         "Drug Reference",
@@ -690,7 +690,7 @@
     "language": ["EN", "FR", "CN"],
     "rating": 4.7,
     "ageRating": {
-    "label": "Mature 17+",
+    "label": "17+",
     "descriptors": [
         "Blood",
         "Drug Reference",
@@ -736,7 +736,7 @@
     "language": ["EN", "FR", "DE"],
     "rating": 4.1,
     "ageRating": {
-      "label": "Mature 17+",
+      "label": "17+",
       "descriptors": []},
     "shortDescription": "The genre-defining builder franchise returns in a Roman Empire setting. How you build and govern will shape your story. Lead with rebellion or unite cultures? The cost of peace is yours to decide.",
      "fullDescription": [
@@ -777,7 +777,7 @@
     "language": ["EN", "FR", "DE", "ES"],
     "rating": 4.5,
     "ageRating": {
-      "label": "Mature 17+",
+      "label": "17+",
       "descriptors": [
         "Blood",
         "Strong Language",
@@ -815,7 +815,7 @@
     "language": ["EN", "RU", "FR", "PL"],
     "rating": 4.8,
     "ageRating": {
-      "label": "Mature 17+",
+      "label": "17+",
       "descriptors": [
         "Intense Violence",
         "Blood and Gore",
@@ -852,7 +852,7 @@
     "language": ["EN", "RU", "DE", "PL"],
     "rating": 4.2,
     "ageRating": {
-      "label": "Teen (T)",
+      "label": "12+",
       "descriptors": [
         "Blood",
         "Violence",
@@ -900,7 +900,7 @@
     "language": ["EN", "ZH", "FR", "ES"],
     "rating": 4.5,
     "ageRating": {
-      "label": "Teen (T)",
+      "label": "12+",
       "descriptors": [
         "Blood",
         "Violence",
@@ -944,7 +944,7 @@
     "language": ["EN", "RU", "UA", "PL"],
     "rating": 4.8,
     "ageRating": {
-    "label": "Mature 17+ (M)",
+    "label": "17+",
     "descriptors": [
         "Blood and Gore",
         "Intense Violence",
@@ -979,7 +979,7 @@
     "language": ["EN", "FR", "JP", "RU"],
     "rating": 4.6,
     "ageRating": {
-      "label": "Mature 17+ (M)",
+      "label": "17+",
       "descriptors": [
         "Blood and Gore",
         "Intense Violence",
