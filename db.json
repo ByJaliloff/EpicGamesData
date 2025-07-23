@@ -389,7 +389,7 @@
         "content": "Experience both Alan Wake’s and Saga Anderson’s stories and see events unfold from different perspectives. Switch between Anderson’s life-or-death race to solve the case and Wake’s desperate attempts to rewrite his reality to escape the depths of the Dark Place."
     }
     ],
-    "features": ["Singleplayer", "Achievement", "Cloud Saves"],
+    "features": ["Single Player", "Achievement", "Cloud Saves"],
     "video": "https://www.youtube.com/watch?v=dlQ3FeNu5Yw",
     "carouselImages": ["https://cdn2.unrealengine.com/egs-alanwake2-remedyentertainment-g1a-02-1920x1080-cee72a709dc4.jpg?resize=1&w=480&h=270&quality=medium",
                        "https://cdn2.unrealengine.com/egs-alanwake2-remedyentertainment-g1a-03-1920x1080-321a6753e674.jpg?resize=1&w=480&h=270&quality=medium", 
@@ -482,7 +482,7 @@
     "logo": "https://cdn2.unrealengine.com/egs-cyberpunk2077-cdprojektred-ic1-400x400-82b90aa9a275.png?resize=1&w=480&h=270&quality=medium",
     "image": "https://cdn1.epicgames.com/offer/77f2b98e2cef40c8a7437518bf420e47/EGS_Cyberpunk2077_CDPROJEKTRED_S2_03_1200x1600-b1847981214ac013383111fc457eb9c5?resize=1&w=360&h=480&quality=medium",
     "type": "basedgame",
-    "genre": ["RPG", "Adenture", "Action"],
+    "genre": ["RPG", "Adventure", "Action"],
     "platforms": ["Windows", "PS5", "Xbox"],
     "releaseDate": "2020-12-10",
     "developer": "CD Projekt Red",
