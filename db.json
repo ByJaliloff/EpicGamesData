@@ -207,16 +207,7 @@
     "discount": 0,
     "type": "addon"
   },
-        {
-    "id": "2be109d8-bcd8-44b9-8367-8a889de1ff82",
-    "gameId": "2ee03011-0452-41b9-83bf-c4192df24202",
-    "title": "5000 V-Bucks",
-    "image": "https://cdn1.epicgames.com/offer/fn/FNECO_32-00_VbuckStoreArtUpdate_5000_EGS_1200x1600_1200x1600-eb3c8e7ca0803a6cb2fb374d271227f2?resize=1&w=360&h=480&quality=medium",
-    "description": "",
-    "price": 36.99,
-    "discount": 0,
-    "type": "addon"
-  },
+
         {
     "id": "2be109d8-bcd8-44b9-8367-8a889de1ff82",
     "gameId": "2ee03011-0452-41b9-83bf-c4192df24202",
@@ -314,16 +305,6 @@
     "image": "https://cdn1.epicgames.com/offer/snapdragon/MetroExodus_TheTwoColonels_1200x1600_1200x1600-d1ded687fd175a5f0d9278de890c3e1c?resize=1&w=360&h=480&quality=medium",
     "description": "",
     "price": 5.99,
-    "discount": 0,
-    "type": "addon"
-  },
-        {
-    "id": "39b33c00-8e07-45cd-a34f-7d711e3f16c2",
-    "gameId": "f2151708-35e5-4df8-ba16-2dec7609168c",
-    "title": "Metro Exodus - Sam’s Story",
-    "image": "https://cdn1.epicgames.com/offer/snapdragon/MetroExodus_SamsStory_1200x1600_1200x1600-21861d769ea7ccef000eb9c2878f4a4e?resize=1&w=360&h=480&quality=medium",
-    "description": "",
-    "price": 7.99,
     "discount": 0,
     "type": "addon"
   },
