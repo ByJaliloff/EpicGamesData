@@ -367,7 +367,7 @@
     "language": ["EN", "FR", "DE", "RU"],
     "rating": 4.8,
     "ageRating": {
-    "label": "17+",
+    "label": "18+",
     "descriptors": [
         "Blood and Gore",
         "Intense Violence",
@@ -493,7 +493,7 @@
     "language": ["EN", "PL", "DE", "RU"],
     "rating": 4.7,
     "ageRating": {
-    "label": "17+",
+    "label": "18+",
     "descriptors": [
         "Blood and Gore",
         "Intense Violence",
@@ -607,7 +607,7 @@
     "language": ["EN", "FR", "AR", "TR"],
     "rating": 4.4,
     "ageRating": {
-    "label": "17+",
+    "label": "18+",
     "descriptors": [
         "Blood and Gore",
         "Intense Violence",
@@ -642,7 +642,7 @@
     "language": ["EN", "FR", "AR", "TR"],
     "rating": 4.5,
     "ageRating": {
-    "label": "17+",
+    "label": "18+",
     "descriptors": [
         "Blood",
         "Drug Reference",
@@ -690,7 +690,7 @@
     "language": ["EN", "FR", "CN"],
     "rating": 4.7,
     "ageRating": {
-    "label": "17+",
+    "label": "18+",
     "descriptors": [
         "Blood",
         "Drug Reference",
@@ -736,7 +736,7 @@
     "language": ["EN", "FR", "DE"],
     "rating": 4.1,
     "ageRating": {
-      "label": "17+",
+      "label": "18+",
       "descriptors": []},
     "shortDescription": "The genre-defining builder franchise returns in a Roman Empire setting. How you build and govern will shape your story. Lead with rebellion or unite cultures? The cost of peace is yours to decide.",
      "fullDescription": [
@@ -777,7 +777,7 @@
     "language": ["EN", "FR", "DE", "ES"],
     "rating": 4.5,
     "ageRating": {
-      "label": "17+",
+      "label": "18+",
       "descriptors": [
         "Blood",
         "Strong Language",
@@ -815,7 +815,7 @@
     "language": ["EN", "RU", "FR", "PL"],
     "rating": 4.8,
     "ageRating": {
-      "label": "17+",
+      "label": "18+",
       "descriptors": [
         "Intense Violence",
         "Blood and Gore",
@@ -944,7 +944,7 @@
     "language": ["EN", "RU", "UA", "PL"],
     "rating": 4.8,
     "ageRating": {
-    "label": "17+",
+    "label": "18+",
     "descriptors": [
         "Blood and Gore",
         "Intense Violence",
@@ -979,7 +979,7 @@
     "language": ["EN", "FR", "JP", "RU"],
     "rating": 4.6,
     "ageRating": {
-      "label": "17+",
+      "label": "18+",
       "descriptors": [
         "Blood and Gore",
         "Intense Violence",
