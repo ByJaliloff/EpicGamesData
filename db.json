@@ -285,7 +285,7 @@
     "description": "",
     "price": 39.99,
     "discount": 0,
-    "type": "addons"
+    "type": "addon"
   },
         {
     "id": "738423aa-c993-4443-83db-0a0b9592c4de",
@@ -295,7 +295,7 @@
     "description": "",
     "price": 19.99,
     "discount": 0,
-    "type": "addons"
+    "type": "addon"
   },
         {
     "id": "7d809db7-5cf4-4262-9062-90460b43a650",
@@ -306,6 +306,66 @@
     "price": 25.99,
     "discount": 0,
     "type": "edition"
+  },
+        {
+    "id": "1d59c527-5f1d-49e8-a9ca-a46b4a19b26c",
+    "gameId": "f2151708-35e5-4df8-ba16-2dec7609168c",
+    "title": "Metro Exodus The Two Colonels",
+    "image": "https://cdn1.epicgames.com/offer/snapdragon/MetroExodus_TheTwoColonels_1200x1600_1200x1600-d1ded687fd175a5f0d9278de890c3e1c?resize=1&w=360&h=480&quality=medium",
+    "description": "",
+    "price": 5.99,
+    "discount": 0,
+    "type": "addon"
+  },
+        {
+    "id": "39b33c00-8e07-45cd-a34f-7d711e3f16c2",
+    "gameId": "f2151708-35e5-4df8-ba16-2dec7609168c",
+    "title": "Metro Exodus - Sam’s Story",
+    "image": "https://cdn1.epicgames.com/offer/snapdragon/MetroExodus_SamsStory_1200x1600_1200x1600-21861d769ea7ccef000eb9c2878f4a4e?resize=1&w=360&h=480&quality=medium",
+    "description": "",
+    "price": 7.99,
+    "discount": 0,
+    "type": "addon"
+  },
+        {
+    "id": "39b33c00-8e07-45cd-a34f-7d711e3f16c2",
+    "gameId": "e0596de1-0bec-4757-900b-896bc6f337b4",
+    "title": "Dying Light 2 Stay Human: Rais Bundle",
+    "image": "https://cdn1.epicgames.com/offer/87b7846d2eba4bc49eead0854323aba8/EGS_DyingLight2StayHumanRaisBundle_Techland_DLC_S2_1200x1600-16688ca68e8c1988a820f5f11730daf5_1200x1600-16688ca68e8c1988a820f5f11730daf5?resize=1&w=360&h=480&quality=medium",
+    "description": "",
+    "price": 1.99,
+    "discount": 0,
+    "type": "addon"
+  },
+        {
+    "id": "5b8fa96d-71f8-4e8f-8d13-6d8e5aa3f213",
+    "gameId": "e0596de1-0bec-4757-900b-896bc6f337b4",
+    "title": "Dying Light 2 Stay Human: Chicken Bundle",
+    "image": "https://cdn1.epicgames.com/offer/87b7846d2eba4bc49eead0854323aba8/EGS_DyingLight2StayHumanChickenBundle_Techland_DLC_S2_1200x1600-eb4f7c3e75eea28181b49c6a933b0177?resize=1&w=360&h=480&quality=medium",
+    "description": "",
+    "price": 2.99,
+    "discount": 0,
+    "type": "addon"
+  },
+        {
+    "id": "7d6dca85-2a84-485f-9524-53e6e2c1daf4",
+    "gameId": "e0596de1-0bec-4757-900b-896bc6f337b4",
+    "title": "Dying Light 2 Stay Human: Gunslinger Bundle",
+    "image": "https://cdn1.epicgames.com/offer/87b7846d2eba4bc49eead0854323aba8/EGS_DyingLight2StayHumanGunslingerBundle_Techland_DLC_S2_1200x1600-2ecbfc63c7eaa79a26ed5c93a9f30926?resize=1&w=360&h=480&quality=medium",
+    "description": "",
+    "price": 2.99,
+    "discount": 0,
+    "type": "addon"
+  },
+        {
+    "id": "82b8edc3-4c67-4362-ad3b-5ea5a8a21761",
+    "gameId": "e0596de1-0bec-4757-900b-896bc6f337b4",
+    "title": "Dying Light 2 Stay Human: Authory Pack",
+    "image": "https://cdn1.epicgames.com/offer/87b7846d2eba4bc49eead0854323aba8/EGS_DyingLight2StayHumanAuthorityPackPart23_Techland_DLC_S2_1200x1600-d7315fd74d6184cbe8da0187bd925302?resize=1&w=360&h=480&quality=medium",
+    "description": "",
+    "price": 2.99,
+    "discount": 0,
+    "type": "addon"
   }
 ],
     "games": [
@@ -843,72 +903,131 @@
     ]
   },
   {
-    "id": "14",
-    "title": "Sifu",
-    "image": "/images/sifu.jpg",
-    "genre": ["Fighting", "Martial Arts", "Action"],
+    "id": "359ea6ad-ff3e-4f17-9888-08e85ac0cc32",
+    "title": "Valorant",
+    "logo": "https://cdn2.unrealengine.com/egs-valorant-riotgames-ic1-400x270-ee924f75e8d4.png?resize=1&w=480&h=270&quality=medium",
+    "image": "https://cdn1.epicgames.com/offer/cbd5b3d310a54b12bf3fe8c41994174f/EGS_VALORANT_RiotGames_S2_1200x1600-e4f9165ef5ef86fc591575bdec066bb6?resize=1&w=360&h=480&quality=medium",
+    "type": "basedgame",
+    "genre": ["Shooter", "Action"],
     "platforms": ["Windows"],
-    "releaseDate": "2022-02-08",
-    "developer": "Sloclap",
-    "publisher": "Sloclap",
-    "price": 39.99,
-    "discount": 20,
-    "isFree": false,
+    "releaseDate": "2021-02-08",
+    "developer": "Riot Games",
+    "publisher": "Riot Games",
+    "price": 0,
+    "discount": 0,
+    "isFree": true,
     "language": ["EN", "ZH", "FR", "ES"],
-    "ageRating": "Teen",
-    "description": "Sifu is the story of a young Kung Fu student on a path of revenge.",
-    "features": ["Hardcore", "Brawler", "Stylized"],
-    "video": "https://www.youtube.com/watch?v=example9",
+    "rating": 4.5,
+    "ageRating": {
+      "label": "Teen (T)",
+      "descriptors": [
+        "Blood",
+        "Violence",
+        "Users Interact",
+        "In-Game Purchases"
+  ]},
+    "shortDescription": "VALORANT is a character-based 5v5 tactical shooter set on the global stage. Outwit, outplay, and outshine your competition with tactical abilities, precise gunplay, and adaptive teamwork.",
+     "fullDescription": [
+         {
+        "heading": "DEFY THE LIMITS FOR FREE IN VALORANT",
+        "content": "Blend your style and experience on a global, competitive stage. Attack and defend your side using sharp gunplay and tactical abilities. And, with one life per-round, you'll have to think faster than your opponent if you want to survive."
+    },
+    {
+        "heading": "CREATIVITY IS YOUR GREATEST WEAPON",
+        "content": "More than guns and bullets, you’ll choose an Agent armed with adaptive, swift, and lethal abilities that create opportunities to let your gunplay shine. Each map is purpose-built for team strategies, spectacular plays, and clutch moments. Make the plays others will imitate for years to come."
+    }
+     ],
+    "features": ["Competetive", "Multiplayer"],
+    "video": "https://www.youtube.com/watch?v=e_E9W2vsRbQ",
     "carouselImages": [
-      "/images/sifu-1.jpg",
-      "/images/sifu-2.jpg",
-      "/images/sifu-3.jpg"
+      "https://cdn2.unrealengine.com/egs-valorant-riotgames-g1a-02-1920x1080-580683fffe0f.jpg?resize=1&w=480&h=270&quality=medium",
+      "https://cdn2.unrealengine.com/egs-valorant-riotgames-g1a-05-1920x1080-42cf018303e5.jpg?resize=1&w=480&h=270&quality=medium",
+      "https://cdn2.unrealengine.com/egs-valorant-riotgames-g1a-06-1920x1080-c525ac170f37.jpg?resize=1&w=480&h=270&quality=medium",
+        "https://cdn2.unrealengine.com/egs-valorant-riotgames-g1a-08-1920x1080-a5e711aeae90.jpg?resize=1&w=480&h=270&quality=medium"
     ]
   },
   {
-    "id": "15",
+    "id": "f2151708-35e5-4df8-ba16-2dec7609168c",
     "title": "Metro Exodus",
-    "image": "/images/metroexodus.jpg",
-    "genre": ["Shooter", "Post-Apocalyptic", "Story-rich"],
+    "logo": "https://cdn2.unrealengine.com/Diesel%2Fproduct%2Fsnapdragon%2Fgame-logo_metro-exodus_white-2850x1450-743d6f022397d13a1604aa766a1d3768b086211b.png?resize=1&w=480&h=270&quality=medium",
+    "image": "https://cdn1.epicgames.com/salesEvent/salesEvent/MetroExodus-PCEnhancedEdition_S2_1200x1600-64a550825c1427140460cc3a86cafdb5?resize=1&w=360&h=480&quality=medium",
+    "type": "basedgame",
+    "genre": ["Shooter", "Action", "First Person"],
     "platforms": ["Windows"],
     "releaseDate": "2019-02-15",
     "developer": "4A Games",
     "publisher": "Deep Silver",
     "price": 29.99,
-    "discount": 60,
+    "discount": 0,
     "isFree": false,
     "language": ["EN", "RU", "UA", "PL"],
-    "ageRating": "Mature 17+",
-    "description": "Escape the shattered ruins of the Moscow Metro and embark on an epic journey.",
+    "rating": 4.8,
+    "ageRating": {
+    "label": "Mature 17+ (M)",
+    "descriptors": [
+        "Blood and Gore",
+        "Intense Violence",
+        "Strong Language",
+        "Use of Drugs"
+  ]},
+    "shortDescription": "Metro Exodus is an epic, story-driven first person shooter from 4A Games that blends deadly combat and stealth with exploration and survival horror in one of the most immersive game worlds ever created.",
+     "fullDescription": []
     "features": ["FPS", "Atmospheric", "Survival"],
-    "video": "https://www.youtube.com/watch?v=example10",
+    "video": "https://www.youtube.com/watch?v=cM4yaHY6qas",
     "carouselImages": [
-      "/images/metro-1.jpg",
-      "/images/metro-2.jpg",
-      "/images/metro-3.jpg"
+      "https://cdn2.unrealengine.com/Diesel%2Fproduct%2Fsnapdragon%2Fhome%2FM3_Carousel_01_1200x674_1547830973734-1200x674-628cade0c42a3c58b2a1bd24cc9aebb7e8332b6a.jpg?resize=1&w=480&h=270&quality=medium",
+      "https://cdn2.unrealengine.com/Diesel%2Fproduct%2Fsnapdragon%2Fhome%2FM3_Carousel_02_1200x674_1547830965646-1200x674-3e63f0877aa8b3b0e056b29f25b49b0564ac991d.jpg?resize=1&w=480&h=270&quality=medium",
+      "https://cdn2.unrealengine.com/Diesel%2Fproduct%2Fsnapdragon%2Fhome%2FM3_Carousel_03_1200x674_1547830969460-1200x674-bb7618315d6ea629f5b1a3573d8d1e12f4d9e03f.jpg?resize=1&w=480&h=270&quality=medium",
+      "https://cdn2.unrealengine.com/Diesel%2Fproduct%2Fsnapdragon%2Fhome%2FM3_Carousel_04_1200x674_1547830971850-1200x674-b7a7825cba039e6d6e6306a637e43e737be22884.jpg?resize=1&w=480&h=270&quality=medium"
     ]
   },
   {
-    "id": "16",
-    "title": "Stray",
-    "image": "/images/stray.jpg",
-    "genre": ["Adventure", "Indie"],
+    "id": "e0596de1-0bec-4757-900b-896bc6f337b4",
+    "title": "Dying Light 2 Stay Human - Reloaded Edition",
+    "logo": "https://cdn2.unrealengine.com/egs-dyinglight2stayhumanreloadededition-techland-ic1-200x200-114488f25bc7.png?resize=1&w=480&h=270&quality=medium",
+    "image": "https://cdn1.epicgames.com/offer/87b7846d2eba4bc49eead0854323aba8/EGS_DyingLight2StayHumanReloadedEdition_Techland_S2_1200x1600-76cef594ff94fbac64a8af1ebe4c7590?resize=1&w=360&h=480&quality=medium",
+    "type": "basedgame",
+    "genre": ["Action", "First Person", "Horror", "Open World", "RPG", "Survival"],
     "platforms": ["Windows", "PlayStation"],
-    "releaseDate": "2022-07-19",
-    "developer": "BlueTwelve Studio",
-    "publisher": "Annapurna Interactive",
-    "price": 29.99,
+    "releaseDate": "2022-04-19",
+    "developer": "Techland",
+    "publisher": "Techland",
+    "price": 34.99,
     "discount": 0,
     "isFree": false,
     "language": ["EN", "FR", "JP", "RU"],
-    "ageRating": "Everyone 10+",
-    "description": "A lost cat must untangle an ancient mystery to escape a long-forgotten cybercity.",
-    "features": ["Exploration", "Puzzle", "Cyberpunk"],
-    "video": "https://www.youtube.com/watch?v=example11",
+    "rating": 4.6,
+    "ageRating": {
+      "label": "Mature 17+ (M)",
+      "descriptors": [
+        "Blood and Gore",
+        "Intense Violence",
+        "Strong Language",
+        "Suggestive Themes",
+        "Use of Alcohol"
+  ]},
+    "shortDescription": "Now with guns! With the Reloaded Edition, the arsenal at your disposal has grown massively. Be creative with your combat or outrun your foes as you enjoy the perks of more than 10 post-launch updates. Good luck out there, and stay human!",
+     "fullDescription": [
+         {
+        "heading": "A WORLD AFTER THE APOCALYPSE",
+        "content": "Fifteen years ago, humanity was devastated by the Fall — a catastrophic event that would change the world forever. With the Harran virus spreading around the globe, people quickly found out that all hope for tomorrow is lost. By 2036, only a few settlements remain, and humanity is slowly dying, making way for the new species out there — a horde of relentless zombies."
+    },
+    {
+        "heading": "DAY’S FOR THE LIVING, NIGHT’S FOR THE INFECTED",
+        "content": "Not all fights can be won. Sometimes it’s best to run and, thankfully, you have the skills for it. Parkour lets you escape when odds are not in your favor. Jump from rooftop to rooftop, swing across the cityscape, ride ziplines, and much more."
+    },
+    {
+        "heading": "GET BRUTAL AND BE CREATIVE ABOUT IT",
+        "content": "In a world as dangerous as this one, only the strongest survive. Whether you prefer to smash, slice or dismember those who stand in your way, you have to be creative about it to make it through. And who says you need weapons? Utilize the entirety of your parkour moveset to get the jump on your enemies. Learn the ways of combat and parkour to feel the crunch of skulls and slices of flesh as you swing weapons or use your moves to fend off any forms of danger."
+    }
+     ],
+    "features": ["Multiplayer", "Co-op", "Single Player", "Achievement", "Cloud Saves", "Controller Support"],
+    "video": "https://www.youtube.com/watch?v=68bZ1LKKh7Q",
     "carouselImages": [
-      "/images/stray-1.jpg",
-      "/images/stray-2.jpg",
-      "/images/stray-3.jpg"
+      "https://cdn2.unrealengine.com/egs-dyinglight2stayhuman-techland-g1a-03-1920x1080-5acfeff80697.jpg?resize=1&w=480&h=270&quality=medium",
+      "https://cdn2.unrealengine.com/egs-dyinglight2stayhuman-techland-g1a-04-1920x1080-01df52f79ade.jpg?resize=1&w=480&h=270&quality=medium",
+      "https://cdn2.unrealengine.com/egs-dyinglight2stayhuman-techland-g1a-05-1920x1080-1c5ac325c83a.jpg?resize=1&w=480&h=270&quality=medium",
+      "https://cdn2.unrealengine.com/egs-dyinglight2stayhuman-techland-g1a-06-1920x1080-40f55c566ef9.jpg?resize=1&w=480&h=270&quality=medium"
     ]
   },
   {
