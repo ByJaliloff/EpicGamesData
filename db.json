@@ -347,6 +347,76 @@
     "price": 2.99,
     "discount": 0,
     "type": "addon"
+  },
+      {
+    "id": "a866bc4c-e052-4c8a-b6c9-4c9cac7bf907",
+    "gameId": "58abf8cb-4c33-4ac7-bdb0-52364ca414d1",
+    "title": "The Sims™ 4 Werewolves",
+    "image": "https://cdn1.epicgames.com/offer/2a14cf8a83b149919a2399504e5686a6/EGS_GP12TheSims4WerewolvesGamePack_Maxis_DLC_S2_1200x1600-087e34a1006fe49c861763bb4558e9fa?resize=1&w=360&h=480&quality=medium",
+    "description": "",
+    "price": 19.99,
+    "discount": 30,
+    "type": "addon"
+  },
+       {
+    "id": "6b47a094-57fa-4c2b-bebd-fe588ac99da9",
+    "gameId": "58abf8cb-4c33-4ac7-bdb0-52364ca414d1",
+    "title": "The Sims™ 4 City Living",
+    "image": "https://cdn1.epicgames.com/offer/2a14cf8a83b149919a2399504e5686a6/EGS_EP03TheSims4CityLiving_ElectronicArts_DLC_S2_1200x1600-93fd5ee21c87eabbd18add4fe6d02e97?resize=1&w=360&h=480&quality=medium",
+    "description": "",
+    "price": 39.99,
+    "discount": 50,
+    "type": "addon"
+  },
+       {
+    "id": "7a2826a8-2ccb-4b0e-817f-7033080d3135",
+    "gameId": "58abf8cb-4c33-4ac7-bdb0-52364ca414d1",
+    "title": "The Sims™ 4 Wedding Story",
+    "image": "https://cdn1.epicgames.com/offer/2a14cf8a83b149919a2399504e5686a6/EGS_GP11TheSims4MyWeddingStoriesGamePack_Maxis_DLC_S2_1200x1600-bd020258446f21b275601c8af08972e3?resize=1&w=360&h=480&quality=medium",
+    "description": "",
+    "price": 19.99,
+    "discount": 30,
+    "type": "addon"
+  }, 
+        {
+    "id": "7d9b307e-479b-4651-9325-5bd4091a06da",
+    "gameId": "58abf8cb-4c33-4ac7-bdb0-52364ca414d1",
+    "title": "The Sims™ 4 Jungle Adventure",
+    "image": "https://cdn1.epicgames.com/offer/2a14cf8a83b149919a2399504e5686a6/EGS_GP06TheSims4JungleAdventure_Maxis_DLC_S2_1200x1600-3b644bfcf086ca7db2646520ea7248a8?resize=1&w=360&h=480&quality=medium",
+    "description": "",
+    "price": 19.99,
+    "discount": 30,
+    "type": "addon"
+  },
+        {
+    "id": "52488740-d847-4a6e-84bd-e67136a3afad",
+    "gameId": "c4e7e419-4778-4120-b7e6-799a8bf1c002",
+    "title": "Dead Space Digital Deluxe Edition",
+    "image": "https://cdn1.epicgames.com/offer/4ec958d5e4b6429aadbc116cee0b6ea0/EGS_DeadSpaceDigitalDeluxeEdition_Motive_Editions_S2_1200x1600-6ee99ca13156798003a710be2e9dfa45?resize=1&w=360&h=480&quality=medium",
+    "description": "",
+    "price": 69.99,
+    "discount": 80,
+    "type": "edition"
+  },
+        {
+    "id": "69517d6c-7be1-4168-9ab7-d354b81faf1a",
+    "gameId": "1392ab64-2fe0-4678-8e5d-7695a9dc2192",
+    "title": "Stellar Blade™ Complete Edition",
+    "image": "https://cdn1.epicgames.com/spt-assets/5013c0fbf0aa4a5e84d948ab5bfe99c6/stellar-blade-s7s4n.jpg?resize=1&w=360&h=480&quality=medium",
+    "description": "",
+    "price": 79.99,
+    "discount": 0,
+    "type": "edition"
+  },
+        {
+    "id": "78f825c6-6438-499c-800f-da4c27a2fce0",
+    "gameId": "1392ab64-2fe0-4678-8e5d-7695a9dc2192",
+    "title": "Stellar Blade™: Twin Expansion Pack",
+    "image": "https://cdn1.epicgames.com/spt-assets/5013c0fbf0aa4a5e84d948ab5bfe99c6/stellar-blade-dh536.jpg?resize=1&w=360&h=480&quality=medium",
+    "description": "",
+    "price": 19.99,
+    "discount": 0,
+    "type": "addon"
   }
 ],
     "games": [
@@ -1012,56 +1082,63 @@
     ]
   },
   {
-    "id": "17",
-    "title": "Cyberpunk 2077",
-    "image": "/images/cyberpunk2077.jpg",
-    "genre": ["RPG", "Action", "Open World"],
-    "platforms": ["Windows", "PlayStation", "Xbox"],
-    "releaseDate": "2020-12-10",
-    "developer": "CD Projekt Red",
-    "publisher": "CD Projekt",
-    "price": 49.99,
-    "discount": 50,
-    "isFree": false,
-    "language": ["EN", "PL", "DE", "RU"],
-    "ageRating": "Mature 17+",
-    "description": "An open-world, action-adventure story set in Night City.",
-    "features": ["Story-rich", "Sci-fi", "Shooter"],
-    "video": "https://www.youtube.com/watch?v=example12",
-    "carouselImages": [
-      "/images/cyberpunk-1.jpg",
-      "/images/cyberpunk-2.jpg",
-      "/images/cyberpunk-3.jpg"
-    ]
-  },
-  {
-    "id": "18",
-    "title": "It Takes Two",
-    "image": "/images/ittakestwo.jpg",
-    "genre": ["Co-op", "Adventure", "Puzzle"],
-    "platforms": ["Windows", "PlayStation", "Xbox"],
-    "releaseDate": "2021-03-26",
-    "developer": "Hazelight",
+    "id": "58abf8cb-4c33-4ac7-bdb0-52364ca414d1",
+    "title": "The Sims™ 4",
+    "logo": "https://cdn2.unrealengine.com/egs-thesims4-electronicarts-ic1-400x400-b8a3c66fbb00.png?resize=1&w=480&h=270&quality=medium",
+    "image": "https://cdn1.epicgames.com/offer/2a14cf8a83b149919a2399504e5686a6/EGS_TheSims4_ElectronicArts_S2_1200x1600-ceadc3bd1e6f885ad64d9f115f51f5c0?resize=1&w=360&h=480&quality=medium",
+    "type": "basedgame",
+    "genre": ["Simulation"],
+    "platforms": ["Windows"],
+    "releaseDate": "2023-02-10",
+    "developer": "Maxis",
     "publisher": "Electronic Arts",
-    "price": 39.99,
-    "discount": 25,
-    "isFree": false,
-    "language": ["EN", "FR", "DE", "IT"],
-    "ageRating": "Teen",
-    "description": "A unique co-op platform adventure about a couple working through their issues.",
-    "features": ["Split-screen", "Narrative", "Family Friendly"],
-    "video": "https://www.youtube.com/watch?v=example13",
+    "price": 0,
+    "discount": 0,
+    "isFree": true,
+    "language": ["EN", "PL", "DE", "RU"],
+    "rating": 4.6,
+    "ageRating": {
+      "label": "12+",
+      "descriptors": [
+            "Crude Humor",
+            "Sexual Themes",
+            "Violence"
+  ]},
+    "shortDescription": "The Sims 4 is free to download! Unleash your imagination and create a unique world of Sims that’s an expression of you. Choose how Sims look, act, and dress, then manage the ups and downs of their everyday lives.",
+     "fullDescription": [
+         {
+        "heading": "Create Unique Sims",
+        "content": "A variety of Sims are yours to shape and mold, each with distinct appearances, dynamic personalities and inspiring aspirations. Use powerful customization features to bring your imagination to life. Create yourself, your favorite celebrities, your fantasy or your friends! Change your Sims’ clothing to reflect your mood. Give your Sims depth and purpose with quirky traits and great ambitions."
+    },
+    {
+        "heading": "Build the Perfect Home",
+        "content": "Design the ideal homes for your Sims using Build Mode. Construct the home of your dreams by planning the layout, choosing furnishings and altering the landscape and terrain. You can even add a pool, basement and garden. Hate what you’ve done with the place? Scrap it and rebuild effortlessly with new ideas and designs."
+    },
+    {
+        "heading": "Explore Vibrant Worlds",
+        "content": "Your Sims can visit new communities to expand their social circle, hang out with friends or throw unforgettable parties."
+    },
+         {
+        "heading": "Play with Life",
+        "content": "Your choices shape every aspect of your Sims’ lives, from birth to adulthood. Along the way, develop skills, pursue hobbies, find your Sims’ calling, start new families and much more."
+    } 
+     ],
+    "features": ["Single Player"],
+    "video": "https://www.youtube.com/watch?v=DyNv44QR14g",
     "carouselImages": [
-      "/images/ittakestwo-1.jpg",
-      "/images/ittakestwo-2.jpg",
-      "/images/ittakestwo-3.jpg"
+      "https://cdn2.unrealengine.com/egs-thesims4-electronicarts-g1a-00-1920x1080-acc697b40374.jpg?resize=1&w=480&h=270&quality=medium",
+      "https://cdn2.unrealengine.com/egs-thesims4-electronicarts-g1a-01-1920x1080-b3d100d2f962.jpg?resize=1&w=480&h=270&quality=medium",
+      "https://cdn2.unrealengine.com/egs-thesims4-electronicarts-g1a-02-1920x1080-808aa26370f4.jpg?resize=1&w=480&h=270&quality=medium",
+        "https://cdn2.unrealengine.com/egs-thesims4-maxis-g1c-00-1920x1080-7f6d3b7aedec.jpg?resize=1&w=480&h=270&quality=medium"
     ]
   },
   {
-    "id": "19",
-    "title": "Dead Space Remake",
-    "image": "/images/deadspace.jpg",
-    "genre": ["Horror", "Action", "Sci-fi"],
+    "id": "c4e7e419-4778-4120-b7e6-799a8bf1c002",
+    "title": "Dead Space",
+    "logo": "https://cdn2.unrealengine.com/egs-deadspace-motivestudio-ic1-400x400-06964eb642fc.png?resize=1&w=480&h=270&quality=medium",
+    "image": "https://cdn1.epicgames.com/offer/4ec958d5e4b6429aadbc116cee0b6ea0/EGS_DeadSpace_MotiveStudio_S2_1200x1600-551c16d068cab45b02149e15a43c2413?resize=1&w=360&h=480&quality=medium",
+    "type": "basedgame",
+    "genre": ["Horror", "Action", "Survival"],
     "platforms": ["Windows", "PlayStation"],
     "releaseDate": "2023-01-27",
     "developer": "Motive Studio",
@@ -1070,21 +1147,51 @@
     "discount": 10,
     "isFree": false,
     "language": ["EN", "DE", "RU"],
-    "ageRating": "Mature 17+",
-    "description": "A complete remake of the sci-fi survival horror classic.",
-    "features": ["Remake", "Space", "Third-person"],
-    "video": "https://www.youtube.com/watch?v=example14",
+    "rating": 4.7,
+    "ageRating": {
+      "label": "18+",
+      "descriptors": [
+        "Blood and Gore",
+        "Intense Violence",
+        "Strong Language",
+        "Horror Themes",
+        "Mature Content"
+  ]},
+     "shortDescription": "The sci-fi survival horror classic returns, completely rebuilt to offer an even more immersive experience – including visual, audio, and gameplay improvements.",
+     "fullDescription": [
+         {
+        "heading": "Humanity Ends Here",
+        "content": "Isaac Clarke is an everyman engineer on a mission to repair the USG Ishimura, only to discover the ship's crew has been slaughtered and his beloved partner, Nicole, is lost somewhere on board."
+    },
+    {
+        "heading": "IMMERSE YOURSELF IN NEXT-GEN SCI-FI HORROR",
+        "content": "A sci-fi horror classic returns fully rebuilt from the ground up with elevated visual fidelity and 3D atmospheric audio. From the frighteningly detailed rooms and workspaces of a slaughtered crew to the eerie atmospheric sounds of a desolate spaceship, you’ll explore a stunning sci-fi setting full of unpredictable and tense moments without interruption."
+    },
+    {
+        "heading": "UNRAVEL THE MYSTERY ABOARD THE USG ISHIMURA",
+        "content": "What starts as a routine repair mission for engineer Isaac Clarke and the crew of the USG Kellion quickly turns into a battle for survival as the truth behind the horrors on board begins to unravel. Following an expanded narrative experience, uncover the dark secrets behind the events aboard the USG Ishimura through the final logs of the ill-fated crew and your encounters with the few survivors that remain."
+    },
+         {
+        "heading": "IMPROVISE TO SURVIVE",
+        "content": "Confront the nightmare aboard the USG Ishimura with genre-defining strategic gameplay. Repurpose and upgrade Isaac’s engineering tools to creatively defeat enemies with precision."
+    } 
+     ],
+    "features": ["Achievement", "Single Player"],
+    "video": "https://www.youtube.com/watch?v=ctQl9wa3ydE",
     "carouselImages": [
-      "/images/deadspace-1.jpg",
-      "/images/deadspace-2.jpg",
-      "/images/deadspace-3.jpg"
+      "https://cdn2.unrealengine.com/egs-deadspace-motivestudio-g1a-01-1920x1080-90654a08bd6c.jpg?resize=1&w=480&h=270&quality=medium",
+      "https://cdn2.unrealengine.com/egs-deadspace-motivestudio-g1a-02-1920x1080-35fd266e8c77.jpg?resize=1&w=480&h=270&quality=medium",
+      "https://cdn2.unrealengine.com/egs-deadspace-motivestudio-g1a-05-1920x1080-2d8cffe985a8.jpg?resize=1&w=480&h=270&quality=medium",
+        "https://cdn2.unrealengine.com/egs-deadspace-motivestudio-g1a-06-1920x1080-10917e2ce7fd.jpg?resize=1&w=480&h=270&quality=medium"
     ]
   },
   {
-    "id": "20",
+    "id": "1392ab64-2fe0-4678-8e5d-7695a9dc2192",
     "title": "Stellar Blade",
-    "image": "/images/stellarb.jpg",
-    "genre": ["Action", "Adventure", "Sci-fi"],
+    "logo": "https://cdn1.epicgames.com/spt-assets/5013c0fbf0aa4a5e84d948ab5bfe99c6/project-sailor-logo-1wwr8.png?resize=1&w=480&h=270&quality=medium",
+    "image": "https://cdn1.epicgames.com/spt-assets/5013c0fbf0aa4a5e84d948ab5bfe99c6/project-sailor-q8ze4.jpg?resize=1&w=360&h=480&quality=medium",
+    "type": "basedgame",
+    "genre": ["Action", "Adventure"],
     "platforms": ["PlayStation"],
     "releaseDate": "2024-04-26",
     "developer": "Shift Up",
@@ -1093,37 +1200,29 @@
     "discount": 0,
     "isFree": false,
     "language": ["EN", "KO", "JP"],
-    "ageRating": "Mature 17+",
-    "description": "A stylish action game with a post-apocalyptic theme and fast-paced combat.",
-    "features": ["Hack and Slash", "Female Protagonist", "Boss Battles"],
-    "video": "https://www.youtube.com/watch?v=example15",
+    "rating": 4.8,
+    "ageRating": {
+      "label": "18+",
+      "descriptors": [
+        "Strong Violence",
+        "Blood and Gore",
+        "Suggestive Themes",
+        "Partial Nudity",
+        "Strong Language"
+  ]},
+    "shortDescription": "Save humanity from extinction in post-apocalyptic action-adventure Stellar Blade™. Experience blistering combat and a twisting storyline as you unravel the mysteries of Earth’s downfall.",
+     "fullDescription": [
+         {
+        "heading": "Reclaim earth for humankind",
+        "content": "Save humanity from extinction in post-apocalyptic action-adventure Stellar Blade™. Experience blistering combat and a twisting storyline as you unravel the mysteries of Earth’s downfall.Save humanity from extinction in post-apocalyptic action-adventure Stellar Blade™. Experience blistering combat and a twisting storyline as you unravel the mysteries of Earth’s downfall."
+    } ],
+    "features": ["Cloud Saves", "Controller Support", "Single Player"],
+    "video": "https://www.youtube.com/watch?v=DSznLWimMlU",
     "carouselImages": [
-      "/images/stellarb-1.jpg",
-      "/images/stellarb-2.jpg",
-      "/images/stellarb-3.jpg"
-    ]
-  },
-  {
-    "id": "21",
-    "title": "The Witcher 3: Wild Hunt",
-    "image": "/images/witcher3.jpg",
-    "genre": ["RPG", "Open World", "Fantasy"],
-    "platforms": ["Windows"],
-    "releaseDate": "2015-05-18",
-    "developer": "CD Projekt Red",
-    "publisher": "CD Projekt",
-    "price": 39.99,
-    "discount": 60,
-    "isFree": false,
-    "language": ["EN", "FR", "DE", "RU", "PL"],
-    "ageRating": "Mature 17+",
-    "description": "Become a monster slayer for hire and embark on an epic journey.",
-    "features": ["Singleplayer", "Story-rich", "Choices Matter"],
-    "video": "https://www.youtube.com/watch?v=ndl1W4ltcmg",
-    "carouselImages": [
-      "/images/witcher3-1.jpg",
-      "/images/witcher3-2.jpg",
-      "/images/witcher3-3.jpg"
+      "https://cdn1.epicgames.com/spt-assets/5013c0fbf0aa4a5e84d948ab5bfe99c6/stellar-blade-1d6s5.jpg?resize=1&w=480&h=270&quality=medium",
+      "https://cdn1.epicgames.com/spt-assets/5013c0fbf0aa4a5e84d948ab5bfe99c6/stellar-blade-1h7pc.jpg?resize=1&w=480&h=270&quality=medium",
+      "https://cdn1.epicgames.com/spt-assets/5013c0fbf0aa4a5e84d948ab5bfe99c6/stellar-blade-1qgqs.jpg?resize=1&w=480&h=270&quality=medium",
+      "https://cdn1.epicgames.com/spt-assets/5013c0fbf0aa4a5e84d948ab5bfe99c6/stellar-blade-1vvte.jpg?resize=1&w=480&h=270&quality=medium"
     ]
   },
   {
@@ -1150,29 +1249,6 @@
     ]
   },
   {
-    "id": "23",
-    "title": "Cyberpunk 2077",
-    "image": "/images/cyberpunk2077.jpg",
-    "genre": ["RPG", "Sci-fi", "Open World"],
-    "platforms": ["Windows"],
-    "releaseDate": "2020-12-10",
-    "developer": "CD Projekt Red",
-    "publisher": "CD Projekt",
-    "price": 59.99,
-    "discount": 50,
-    "isFree": false,
-    "language": ["EN", "FR", "DE", "RU", "JA"],
-    "ageRating": "Mature 17+",
-    "description": "Enter the neon-lit streets of Night City as a cyber-enhanced mercenary.",
-    "features": ["Story-rich", "Singleplayer", "Futuristic"],
-    "video": "https://www.youtube.com/watch?v=8X2kIfS6fb8",
-    "carouselImages": [
-      "/images/cyberpunk2077-1.jpg",
-      "/images/cyberpunk2077-2.jpg",
-      "/images/cyberpunk2077-3.jpg"
-    ]
-  },
-  {
     "id": "24",
     "title": "Far Cry 6",
     "image": "/images/farcry6.jpg",
@@ -1194,30 +1270,6 @@
       "/images/farcry6-2.jpg",
       "/images/farcry6-3.jpg"
     ]
-  },
-  {
-    "id": "25",
-    "title": "Metro Exodus",
-    "image": "/images/metroexodus.jpg",
-    "genre": ["Shooter", "Story-rich", "Post-apocalyptic"],
-    "platforms": ["Windows"],
-    "releaseDate": "2019-02-15",
-    "developer": "4A Games",
-    "publisher": "Deep Silver",
-    "price": 39.99,
-    "discount": 60,
-    "isFree": false,
-    "language": ["EN", "RU", "DE", "FR"],
-    "ageRating": "Mature 17+",
-    "description": "A gripping, story-driven FPS that blends deadly combat and stealth.",
-    "features": ["Singleplayer", "Atmospheric", "Survival"],
-    "video": "https://www.youtube.com/watch?v=h0yidn2vjbI",
-    "carouselImages": [
-      "/images/metroexodus-1.jpg",
-      "/images/metroexodus-2.jpg",
-      "/images/metroexodus-3.jpg"
-    ]
   }
-  
 ]
 }
