@@ -417,6 +417,76 @@
     "price": 19.99,
     "discount": 0,
     "type": "addon"
+  },
+       {
+    "id": "e3d24f37-2f45-4c6d-ade7-845857798e73",
+    "gameId": "6a16de67-5ab3-4ea4-8f72-94ccc12efced",
+    "title": "Dead By Daylight - Gold Edition",
+    "image": "https://cdn2.unrealengine.com/egs-deadbydaylightgoldedition-behaviourinteractive-editions-s2-1200x1600-738fb46b00fe.jpg?resize=1&w=360&h=480&quality=medium",
+    "description": "",
+    "price": 49.99,
+    "discount": 10,
+    "type": "edition"
+  },
+       {
+    "id": "e328334b-8061-4a43-928b-f529c65208a3",
+    "gameId": "6a16de67-5ab3-4ea4-8f72-94ccc12efced",
+    "title": "Dead by Daylight: Tokyo Ghoul Edition",
+    "image": "https://cdn1.epicgames.com/spt-assets/2b2299be8ae84d679d4dc57c55af1510/dead-by-daylight-1ajh4.jpg?resize=1&w=360&h=480&quality=medium",
+    "description": "",
+    "price": 21.99,
+    "discount": 10,
+    "type": "edition"
+  },
+        {
+    "id": "8b469264-c9de-4351-87d2-6a9b89ad9821",
+    "gameId": "6a16de67-5ab3-4ea4-8f72-94ccc12efced",
+    "title": "Dead by Daylight - A Nightmare on Elm Street™",
+    "image": "https://cdn1.epicgames.com/offer/611482b8586142cda48a0786eb8a127c/EGS_DeadbyDaylightANightmareonElmStreet_BehaviourInteractive_DLC_S2_1200x1600-7b774eb61728934ec4144ace12038281?resize=1&w=360&h=480&quality=medium",
+    "description": "",
+    "price": 4.99,
+    "discount": 0,
+    "type": "addon"
+  },
+        {
+    "id": "19a2dcd7-1fae-4158-b375-e21336dca3da",
+    "gameId": "6a16de67-5ab3-4ea4-8f72-94ccc12efced",
+    "title": "Dead by Daylight - Chucky Chapter",
+    "image": "https://cdn1.epicgames.com/offer/611482b8586142cda48a0786eb8a127c/EGS_DeadbyDaylightChuckyChapter_BehaviourInteractive_DLC_S2_1200x1600-d072335a136880cdf71fe60f2aa60af7?resize=1&w=360&h=480&quality=medium",
+    "description": "",
+    "price": 4.99,
+    "discount": 0,
+    "type": "addon"
+  },
+        {
+    "id": "27bbb475-3e8a-47a4-8a59-35097d97f97e",
+    "gameId": "6a16de67-5ab3-4ea4-8f72-94ccc12efced",
+    "title": "Dead by Daylight - Sadako Rising",
+    "image": "https://cdn1.epicgames.com/offer/611482b8586142cda48a0786eb8a127c/EGS_DeadbyDaylightSadakoRising_BehaviourInteractive_DLC_S2_1200x1600-f0d3d4793e477ac77cb35af21c6713c4?resize=1&w=360&h=480&quality=medium",
+    "description": "",
+    "price": 4.99,
+    "discount": 0,
+    "type": "addon"
+  },
+         {
+    "id": "4f2d55d6-09f5-4128-98d1-576720d4742f",
+    "gameId": "6a16de67-5ab3-4ea4-8f72-94ccc12efced",
+    "title": "Dead by Daylight - Ghost Face®",
+    "image": "https://cdn1.epicgames.com/offer/611482b8586142cda48a0786eb8a127c/EGS_DeadbyDaylightGhostFace_BehaviourInteractive_DLC_S2_1200x1600-924ecb8ef306d3bdc3f90cdcbccb4999?resize=1&w=360&h=480&quality=medium",
+    "description": "",
+    "price": 4.99,
+    "discount": 0,
+    "type": "addon"
+  },
+        {
+    "id": "363fe824-801d-4c5c-a15f-5074b40c6d23",
+    "gameId": "6a16de67-5ab3-4ea4-8f72-94ccc12efced",
+    "title": "Dead by Daylight - Leatherface™",
+    "image": "https://cdn1.epicgames.com/offer/611482b8586142cda48a0786eb8a127c/EGS_DeadbyDaylightLeatherface_BehaviourInteractive_DLC_S2_1200x1600-be62dccbaad182dc7aa601983e7e491d?resize=1&w=360&h=480&quality=medium",
+    "description": "",
+    "price": 4.99,
+    "discount": 0,
+    "type": "addon"
   }
 ],
     "games": [
@@ -1226,26 +1296,56 @@
     ]
   },
   {
-    "id": "22",
+    "id": "6a16de67-5ab3-4ea4-8f72-94ccc12efced",
     "title": "Dead by Daylight",
-    "image": "/images/deadbydaylight.jpg",
-    "genre": ["Horror", "Multiplayer", "Survival"],
+    "logo": "https://cdn2.unrealengine.com/egs-deadbydaylight-behaviourinteractive-ic1-200x200-a41440806a53.png?resize=1&w=480&h=270&quality=medium",
+    "image": "https://cdn1.epicgames.com/offer/611482b8586142cda48a0786eb8a127c/EGS_DeadbyDaylight_BehaviourInteractive_S2_1200x1600-a1c30209e3b9fb63144daa9b5670f503?resize=1&w=360&h=480&quality=medium",
+    "type": "basedgame",
+    "genre": ["Action", "Survival"],
     "platforms": ["Windows"],
     "releaseDate": "2016-06-14",
     "developer": "Behaviour Interactive",
     "publisher": "Behaviour Interactive",
     "price": 19.99,
-    "discount": 30,
+    "discount": 10,
     "isFree": false,
     "language": ["EN", "FR", "DE", "RU"],
-    "ageRating": "Mature 17+",
-    "description": "A multiplayer horror game where one killer hunts down four survivors.",
-    "features": ["Online Co-Op", "PvP", "Stealth"],
-    "video": "https://www.youtube.com/watch?v=hfUq9T0HZxk",
+    "rating": 4.5,
+    "ageRating": {
+      "label": "18+",
+      "descriptors": [
+        "Blood and Gore",
+        "Intense Violence",
+        "Strong Language",
+        "Horror Themes",
+        "Mature Content"
+  ]},
+    "shortDescription": "Dead by Daylight is a multiplayer (4vs1) horror game where one player takes on the role of the savage Killer, and the other four players play as Survivors, trying to escape the Killer and avoid being caught and killed.",
+     "fullDescription": [
+         {
+        "heading": "Death Is Not an Escape.",
+        "content": "Dead by Daylight is a multiplayer (4vs1) horror game where one player takes on the role of the savage Killer, and the other four players play as Survivors, trying to escape the Killer and avoid being caught, tortured and killed."
+    },
+    {
+        "heading": "Survive Together… Or Not",
+        "content": "Survivors can either cooperate with the others or be selfish. Your chance of survival will vary depending on whether you work together as a team or if you go at it alone. Will you be able to outwit the Killer and escape their Killing Ground?"
+    },
+    {
+        "heading": "Where Am I?",
+        "content": "Each level is procedurally generated, so you'll never know what to expect. Random spawn points mean you will never feel safe as the world and its danger change every time you play."
+    },
+         {
+        "heading": "A Feast for Killers",
+        "content": "Dead by Daylight draws from all corners of the horror world. As a Killer you can play as anything from a powerful Slasher to terrifying paranormal entities. Familiarize yourself with your Killing Grounds and master each Killer's unique power to be able to hunt, catch and sacrifice your victims."
+    } 
+     ],
+    "features": ["Online Multiplayer"],
+    "video": "https://www.youtube.com/watch?v=_lsEERSC0Go",
     "carouselImages": [
-      "/images/dbd-1.jpg",
-      "/images/dbd-2.jpg",
-      "/images/dbd-3.jpg"
+      "https://cdn2.unrealengine.com/egs-deadbydaylight-behaviourinteractive-g1a-02-1920x1080-04e754d3e831.jpg?resize=1&w=480&h=270&quality=medium",
+      "https://cdn2.unrealengine.com/egs-deadbydaylight-behaviourinteractive-g1a-03-1920x1080-725ff21ce818.jpg?resize=1&w=480&h=270&quality=medium",
+      "https://cdn2.unrealengine.com/egs-deadbydaylight-behaviourinteractive-g1a-04-1920x1080-4332487e7bd9.jpg?resize=1&w=480&h=270&quality=medium",
+        "https://cdn2.unrealengine.com/egs-deadbydaylight-behaviourinteractive-g1a-08-1920x1080-456152115509.jpg?resize=1&w=480&h=270&quality=medium"
     ]
   },
   {
