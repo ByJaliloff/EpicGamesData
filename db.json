@@ -1,4 +1,27 @@
-{   
+{      
+    "users": [
+                {
+    "id": "4444",
+    "firstName": "Orxan",
+    "lastName": "Cəlilov",
+    "password": "orxan12345",
+    "phone": "+994107270499",
+    "birthday": "04.04.1999",
+    "role": "super_admin",
+    "createdAt": "2025-07-25T00:00:00.000Z",
+    "isActive": true,
+    "lastLogin":null  }
+        
+    ],
+    "purchases": [
+  {
+    "id": "a9c06b4c-0e3b-476e-9668-e9dfb2318807",
+    "userId": "4444",
+    "gameId": "ccbd738a-794e-4031-8e44-713468d4a7e6",
+    "price": 14.60,
+    "purchaseDate": "2025-07-25T13:40:00.000Z",
+  }
+],
     "slider": [
   {
     "id": "f48e98fd-24c2-420a-b686-0fcbbd4b14fa",
