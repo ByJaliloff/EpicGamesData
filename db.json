@@ -80,14 +80,14 @@
   },
   {
     "id": "20d72f82-14ec-4c2e-bdb5-2ffbc1793662",
-    "title": "EA Sports FC 26",
+    "title": "Wuthering Waves",
     "gameId": "a3092996-b17e-4abd-b989-af87bb65b83c",
-    "subtitle": "AVAILABLE NOW",
-    "logo": "https://cdn2.unrealengine.com/egs-fc-26-carousel-logo-350x100-afa7ea7a03b1.png",
-    "description": "Get ready for the ultimate football experience with EA Sports FC 26. Play now!",
-    "price": "$99.99",
-    "image": "https://cdn2.unrealengine.com/egs-fc-26-carousel-desktop-1248x702-cfdaed18f79f.jpg?resize=1&w=854&h=480&quality=medium",
-    "thumbnail": "https://cdn2.unrealengine.com/egs-fc-26-carousel-thumb-1200x1600-71788b9b4c30.jpg?resize=1&w=96&h=128&quality=medium"
+    "subtitle": "NEW UPDATE",
+    "logo": "https://cdn2.unrealengine.com/en-egs-wuthering-waves-update-1-1-carousel-logo-350x100-3b11d2055e67.png",
+    "description": "Version 2.5 Unfading Melody of Life is coming! Meet the new 5-Star Resonator: Phrolova!",
+    "price": "Free",
+    "image": "https://cdn2.unrealengine.com/egs-wuthering-waves-2-5-carousel-desktop-1920x1080-7e71492b81e1.jpg?resize=1&w=854&h=480&quality=medium",
+    "thumbnail": "https://cdn2.unrealengine.com/egs-wuthering-waves-2-5-carousel-thumb-1200x1600-2275479760b9.jpg?resize=1&w=96&h=128&quality=medium"
   }
 ],
     "achievements":[
@@ -1591,6 +1591,51 @@
       "https://cdn1.epicgames.com/spt-assets/eb15454c010f4a748498cd3a62096a52/marvel-rivals-1qxda.jpg?resize=1&w=480&h=270&quality=medium",
         "https://cdn1.epicgames.com/spt-assets/eb15454c010f4a748498cd3a62096a52/marvel-rivals-1s96x.png?resize=1&w=480&h=270&quality=medium"
     ]
-  }  
+  },
+        {
+    "id": "a3092996-b17e-4abd-b989-af87bb65b83c",
+    "title": "Wuthering Waves",
+    "logo": "https://cdn1.epicgames.com/spt-assets/c1586295960b46f88bbfeec32c199e0e/wuthering-waves-logo-69l28.png?resize=1&w=480&h=270&quality=medium",
+    "image": "https://cdn1.epicgames.com/spt-assets/c1586295960b46f88bbfeec32c199e0e/wuthering-waves-uw6vy.jpg?resize=1&w=360&h=480&quality=medium",
+    "type": "basedgame",
+    "genre": ["Action", "Open World", "RPG"],
+    "platforms": ["Windows"],
+    "releaseDate": "2024-05-23",
+    "developer": "KURO GAMES",
+    "publisher": "KURO GAMES",
+    "price": 0,
+    "discount": 0,
+    "isFree": true,
+    "language": ["EN", "FR", "DE", "RU"],
+    "rating": 4.2,
+    "ageRating": {
+      "label": "12+",
+      "descriptors": [
+        "Fantasy Violence",
+        "Mild Language"
+  ]},
+    "shortDescription": "Wuthering Waves is a story-rich open-world action RPG with a high degree of freedom. You wake from your slumber as Rover, joined by a vibrant cast of Resonators on a journey to reclaim your lost memories and surmount the Lament.",
+     "fullDescription": [
+         {
+        "heading": "",
+        "content": "Welcome aboard, roving voyager. Upon the shores lay the silent embers of a world during the Ebb Tide. Desolated by the Lament, the erstwhile creations and earthly beings are left static."
+    },
+    {
+        "heading": "",
+        "content": "But they strike back, strong enough to penetrate the silence. Humanity has risen anew from the ashes of the apocalypse. And you, Rover, are poised for an adventure of Awakening. Companions to meet, enemies to conquer, new powers to gain, hidden truths to unveil, and unseen spectacles to behold... A vast world of endless possibilities awaits. The choice rests in your hands. Be the answer, be the leader, and follow the sounds to arrive at a new future. As Wuthering Waves echo endlessly, mankind set sail on a new journey."
+    },
+    {
+        "heading": "",
+        "content": "Embrace high degrees of freedom in immersive overworld explorations. Utilize flight, grapple and wall dash to travel great distances and overcome obstacles with little strain for stamina consumed." 
+    }],
+    "features": ["Controller Support", "Co-op"],
+    "video": "https://www.youtube.com/watch?v=R8htow_6tRc",
+    "carouselImages": [
+      "https://cdn1.epicgames.com/spt-assets/c1586295960b46f88bbfeec32c199e0e/wuthering-waves-1d8lw.jpg?resize=1&w=480&h=270&quality=medium",
+      "https://cdn1.epicgames.com/spt-assets/c1586295960b46f88bbfeec32c199e0e/wuthering-waves-17j4h.jpg?resize=1&w=480&h=270&quality=medium",
+      "https://cdn1.epicgames.com/spt-assets/c1586295960b46f88bbfeec32c199e0e/wuthering-waves-13482.jpg?resize=1&w=480&h=270&quality=medium",
+        "https://cdn1.epicgames.com/spt-assets/c1586295960b46f88bbfeec32c199e0e/wuthering-waves-zjsf9.jpg?resize=1&w=480&h=270&quality=medium"
+    ]
+  }
 ]
 }
