@@ -1477,6 +1477,42 @@
       "https://cdn1.epicgames.com/spt-assets/61237a4bad9f482a9ad1a1ac74520bba/wuchang-8f2td.jpg?resize=1&w=480&h=270&quality=medium",
         "https://cdn1.epicgames.com/spt-assets/61237a4bad9f482a9ad1a1ac74520bba/wuchang-11i7i.jpg?resize=1&w=480&h=270&quality=medium"
     ]
+  },
+        {
+    "id": "71cfcc21-f1c2-456f-9204-6f0e24c2b079",
+    "title": "Battlefield™ 6",
+    "logo": "https://cdn2.unrealengine.com/egs-battlefield6-battlefieldstudios-ic1-400x400-14385c7eadce.png?resize=1&w=480&h=270&quality=medium",
+    "image": "https://cdn1.epicgames.com/offer/a14a02aa3c8143729605eaf7c93d7501/EGS_Battlefield6_BattlefieldStudios_S2_1200x1600-a88625a836120c55650c83d17a010c25?resize=1&w=360&h=480&quality=medium",
+    "type": "basedgame",
+    "genre": ["Shooter"],
+    "platforms": ["Windows"],
+    "releaseDate": "upcoming",
+    "developer": "Battlefield Studios",
+    "publisher": "Electronic Arts",
+    "price": 59.99,
+    "discount": 0,
+    "isFree": false,
+    "language": ["EN", "FR", "DE", "RU"],
+    "rating": 4.1,
+    "ageRating": {
+      "label": "18+",
+      "descriptors": [
+        "Blood and Gore",
+        "Intense Violence",
+        "Strong Language",
+        "Suggestive Themes",
+        "Use of Alcohol"
+  ]},
+    "shortDescription": "Lock & load for the ultimate all-out warfare experience. Tune in on July 31 for the Multiplayer Reveal.",
+     "fullDescription": [],
+    "features": ["Multiplayer"],
+    "video": "https://www.youtube.com/watch?v=pgNCgJG0vnY",
+    "carouselImages": [
+      "https://cdn2.unrealengine.com/egs-battlefield6-battlefieldstudios-g1a-00-1920x1080-71f660e12b95.jpg?resize=1&w=480&h=270&quality=medium",
+      "https://cdn2.unrealengine.com/egs-battlefield6-battlefieldstudios-g1a-01-1920x1080-a44498a7c61b.jpg?resize=1&w=480&h=270&quality=medium",
+      "https://cdn2.unrealengine.com/egs-battlefield6-battlefieldstudios-g1a-02-1920x1080-cd9b70a09320.jpg?resize=1&w=480&h=270&quality=medium",
+        "https://cdn2.unrealengine.com/egs-battlefield6-battlefieldstudios-g1a-03-1920x1080-500bb8390d95.jpg?resize=1&w=480&h=270&quality=medium"
+    ]
   }
 
 ]
