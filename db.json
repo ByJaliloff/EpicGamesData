@@ -1513,7 +1513,84 @@
       "https://cdn2.unrealengine.com/egs-battlefield6-battlefieldstudios-g1a-02-1920x1080-cd9b70a09320.jpg?resize=1&w=480&h=270&quality=medium",
         "https://cdn2.unrealengine.com/egs-battlefield6-battlefieldstudios-g1a-03-1920x1080-500bb8390d95.jpg?resize=1&w=480&h=270&quality=medium"
     ]
-  }
-
+  },
+        {
+    "id": "0ae46f26-7b0b-45ed-9d36-9348c8a5e8e8",
+    "title": "Out of Time",
+    "logo": "https://cdn1.epicgames.com/spt-assets/bdec776c26534fbf9c36d08fb9ba2899/out-of-time-logo-7deyy.png?resize=1&w=480&h=270&quality=medium",
+    "image": "https://cdn1.epicgames.com/spt-assets/bdec776c26534fbf9c36d08fb9ba2899/out-of-time-1exk6.png?resize=1&w=360&h=480&quality=medium",
+    "type": "basedgame",
+    "genre": ["Fantasy", "Action", "Rogue-Lite"],
+    "platforms": ["Windows"],
+    "releaseDate": "upcoming",
+    "developer": "Manticore Games",
+    "publisher": "Manticore Games",
+    "price": 11.99,
+    "discount": 0,
+    "isFree": false,
+    "language": ["EN", "FR", "DE", "RU"],
+    "rating": 3.1,
+    "ageRating": {
+      "label": "18+",
+      "descriptors": [
+        "Blood and Gore",
+        "Intense Violence"
+  ]},
+    "shortDescription": "Battle through collapsing and colliding timelines in this chaotic, multiplayer co-op roguelike where your gear shapes your power, your team ensures your survival, and every run rewrites reality.",
+     "fullDescription": [
+         {
+        "heading": "Welcome to the end of everything. Please gear up responsibly.",
+        "content": "Out of Time throws you and your squad into the Tangle - a cosmic anomaly where the rules of space, time, and logic have been shattered following a catastrophe, known as The Shattering. Trapped in this unstable new reality, you must ready yourselves to fight through collapsing worlds in the hope to survive. Mix and match gear sets, tether to allies for shared power boosts, and navigate shifting eras filled with tangle-infested hordes, mini-game challenges, and a healthy dose of chaos."
+    },
+    {
+        "heading": "Gear-Defined Chaos",
+        "content": "Build your playstyle around dozens of unique weapons and gear sets, each unlocking totally unique abilities and mini-games. Combine DPS firepower, supportive heals and buffs, or a healthy dose of Tank to create your own playstyle."
+    },
+    {
+        "heading": "Tethered Teamwork",
+        "content": "Stay close or suffer the consequences. The Tether System rewards proximity with shared buffs, healing, and stats - but break away and you risk not only yourself, but your entire team. Collaboration isn’t optional - it’s the core of survival." 
+    }],
+    "features": ["Multiplayer", "Co-op"],
+    "video": "https://www.youtube.com/watch?v=u6dqiw_fDOM",
+    "carouselImages": [
+      "https://cdn1.epicgames.com/spt-assets/bdec776c26534fbf9c36d08fb9ba2899/out-of-time-1jo4j.jpg?resize=1&w=480&h=270&quality=medium",
+      "https://cdn1.epicgames.com/spt-assets/bdec776c26534fbf9c36d08fb9ba2899/out-of-time-10uzj.jpg?resize=1&w=480&h=270&quality=medium",
+      "https://cdn1.epicgames.com/spt-assets/bdec776c26534fbf9c36d08fb9ba2899/out-of-time-10x3d.jpg?resize=1&w=480&h=270&quality=medium",
+        "https://cdn1.epicgames.com/spt-assets/bdec776c26534fbf9c36d08fb9ba2899/out-of-time-22fe0.jpg?resize=1&w=480&h=270&quality=medium"
+    ]
+  },
+      {
+    "id": "ef3cd401-e94d-48f3-b17f-11187d79b5f9",
+    "title": "Marvel Rivals",
+    "logo": "https://cdn1.epicgames.com/spt-assets/eb15454c010f4a748498cd3a62096a52/marvel-rivals-logo-1cozi.png?resize=1&w=480&h=270&quality=medium",
+    "image": "https://cdn1.epicgames.com/spt-assets/eb15454c010f4a748498cd3a62096a52/marvel-rivals-wq3mr.png?resize=1&w=360&h=480&quality=medium",
+    "type": "basedgame",
+    "genre": ["Action", "Shooter"],
+    "platforms": ["Windows"],
+    "releaseDate": "2024-06-24",
+    "developer": "NetEase Games",
+    "publisher": "NetEase Games",
+    "price": 0,
+    "discount": 0,
+    "isFree": true,
+    "language": ["EN", "FR", "DE", "RU"],
+    "rating": 4.1,
+    "ageRating": {
+      "label": "12+",
+      "descriptors": [
+        "Fantasy Violence",
+        "Mild Language"
+  ]},
+    "shortDescription": "Marvel Rivals is a Super Hero Team-Based PVP Shooter! Assemble an all-star Marvel squad, devise countless strategies by combining powers to form unique Team-Up skills and fight in destructible, ever-changing battlefields across the continually evolving Marvel universe!",
+     "fullDescription": [],
+    "features": ["Multiplayer", "Co-op", "Competetive"],
+    "video": "https://www.youtube.com/watch?v=kIhLPAWKKsg",
+    "carouselImages": [
+      "https://cdn1.epicgames.com/spt-assets/eb15454c010f4a748498cd3a62096a52/marvel-rivals-1icjl.jpg?resize=1&w=480&h=270&quality=medium",
+      "https://cdn1.epicgames.com/spt-assets/eb15454c010f4a748498cd3a62096a52/marvel-rivals-1p1an.jpg?resize=1&w=480&h=270&quality=medium",
+      "https://cdn1.epicgames.com/spt-assets/eb15454c010f4a748498cd3a62096a52/marvel-rivals-1qxda.jpg?resize=1&w=480&h=270&quality=medium",
+        "https://cdn1.epicgames.com/spt-assets/eb15454c010f4a748498cd3a62096a52/marvel-rivals-1s96x.png?resize=1&w=480&h=270&quality=medium"
+    ]
+  }  
 ]
 }
