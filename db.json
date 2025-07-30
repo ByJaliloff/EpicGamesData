@@ -26,6 +26,7 @@
   {
     "id": "f48e98fd-24c2-420a-b686-0fcbbd4b14fa",
     "title": "WUCHANG: Fallen Feathers",
+    "mobImg" :"https://cdn1.epicgames.com/spt-assets/61237a4bad9f482a9ad1a1ac74520bba/wuchang-fallen-feathers-462u7.jpg?resize=1&w=360&h=480&quality=medium",
     "gameId": "df09e8b5-1f04-4f1c-923c-03d88d3fc7d0",
     "subtitle": "OUT NOW",
     "logo": "https://cdn2.unrealengine.com/egs-wuchang-carousel-logo-350x90-d1291adba303.png",
@@ -37,6 +38,7 @@
   {
     "id": "4a2166e5-24ab-4e94-bc40-5ed175da573a",
     "title": "Battlefield™ 6",
+    "mobImg" :"https://cdn1.epicgames.com/spt-assets/61237a4bad9f482a9ad1a1ac74520bba/wuchang-fallen-feathers-462u7.jpg?resize=1&w=360&h=480&quality=medium",
     "gameId": "71cfcc21-f1c2-456f-9204-6f0e24c2b079",
     "subtitle": "COMING SOON",
     "logo": "https://cdn2.unrealengine.com/egs-battlefield-6-carousel-logo-350x137-ed7fd4892923.png",
@@ -48,6 +50,7 @@
   {
     "id": "2c465a73-c77a-4a76-b241-4809c2422fd1",
     "title": "Marvel Rivals",
+    "mobImg" :"https://cdn1.epicgames.com/spt-assets/eb15454c010f4a748498cd3a62096a52/marvel-rivals-wq3mr.png?resize=1&w=360&h=480&quality=medium",
     "gameId": "ef3cd401-e94d-48f3-b17f-11187d79b5f9",
     "subtitle": "EARLY ACCESS",
     "logo": "https://cdn2.unrealengine.com/egs-marvel-rivals-carousel-logo-350x141-d34127eafe14.png",
@@ -59,6 +62,7 @@
   {
     "id": "b50649f4-81bb-4280-be42-3215b06a0c85",
     "title": "Summer Sale",
+    "mobImg" :"https://cdn2.unrealengine.com/summer-sale-mobile-carousel-asset-96e8c5111cee.avif?resize=1&w=640&h=854&quality=medium",
     "gameId": "4dceefbd-ef5d-4d4d-9e85-41f33d6fe774",
     "subtitle": "LIMITED TIME OFFER",
     "logo": "https://cdn2.unrealengine.com/en-summer-sale-carousel-logo-350x124-8071e34203c5.png",
@@ -70,6 +74,7 @@
   {
     "id": "2e940c0c-47ce-4b92-876b-328d958e7886",
     "title": "Out of Time",
+    "mobImg" :"https://cdn1.epicgames.com/spt-assets/bdec776c26534fbf9c36d08fb9ba2899/out-of-time-1exk6.png?resize=1&w=360&h=480&quality=medium",
     "gameId": "0ae46f26-7b0b-45ed-9d36-9348c8a5e8e8",
     "subtitle": "COMING SOON",
     "logo": "https://cdn2.unrealengine.com/egs-out-of-time-carousel-logo-350x93-5655a38efc69.png",
@@ -81,6 +86,7 @@
   {
     "id": "20d72f82-14ec-4c2e-bdb5-2ffbc1793662",
     "title": "Wuthering Waves",
+    "mobImg" :"https://cdn1.epicgames.com/spt-assets/c1586295960b46f88bbfeec32c199e0e/wuthering-waves-uw6vy.jpg?resize=1&w=360&h=480&quality=medium",
     "gameId": "a3092996-b17e-4abd-b989-af87bb65b83c",
     "subtitle": "NEW UPDATE",
     "logo": "https://cdn2.unrealengine.com/en-egs-wuthering-waves-update-1-1-carousel-logo-350x100-3b11d2055e67.png",
