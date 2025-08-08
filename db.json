@@ -580,6 +580,26 @@
     "price": 4.99,
     "discount": 0,
     "type": "addon"
+  },
+         {
+    "id": "878c5d48-c596-4989-82a4-93803a315f14",
+    "gameId": "33d3729d-7afd-4c7e-8eac-7146b09e2390",
+    "title": "Borderlands 4 Deluxe Edition",
+    "image": "https://cdn1.epicgames.com/spt-assets/20d989fc07a447b2af3c59e4fd5f49c7/borderlands-4-a0mrw.jpg?resize=1&w=360&h=480&quality=medium",
+    "description": "",
+    "price": 99.99,
+    "discount": 0,
+    "type": "edition"
+  },
+        {
+    "id": "7aee2f43-583b-410b-b253-f33dde80a42e",
+    "gameId": "33d3729d-7afd-4c7e-8eac-7146b09e2390",
+    "title": "Borderlands 4 Super Deluxe Edition",
+    "image": "https://cdn1.epicgames.com/spt-assets/20d989fc07a447b2af3c59e4fd5f49c7/borderlands-4-1zd0c.jpg?resize=1&w=360&h=480&quality=medium",
+    "description": "",
+    "price": 129.99,
+    "discount": 0,
+    "type": "edition"
   }
 ],
     "games": [
@@ -1202,7 +1222,7 @@
     "image": "https://cdn1.epicgames.com/offer/87b7846d2eba4bc49eead0854323aba8/EGS_DyingLight2StayHumanReloadedEdition_Techland_S2_1200x1600-76cef594ff94fbac64a8af1ebe4c7590?resize=1&w=360&h=480&quality=medium",
     "type": "basedgame",
     "genre": ["Action", "First Person", "Horror", "Open World", "RPG", "Survival"],
-    "platforms": ["Windows", "PlayStation"],
+    "platforms": ["Windows", "PS5"],
     "releaseDate": "2022-04-19",
     "developer": "Techland",
     "publisher": "Techland",
@@ -1302,7 +1322,7 @@
     "image": "https://cdn1.epicgames.com/offer/4ec958d5e4b6429aadbc116cee0b6ea0/EGS_DeadSpace_MotiveStudio_S2_1200x1600-551c16d068cab45b02149e15a43c2413?resize=1&w=360&h=480&quality=medium",
     "type": "basedgame",
     "genre": ["Horror", "Action", "Survival"],
-    "platforms": ["Windows", "PlayStation"],
+    "platforms": ["Windows", "PS5"],
     "releaseDate": "2023-01-27",
     "developer": "Motive Studio",
     "publisher": "Electronic Arts",
@@ -1355,7 +1375,7 @@
     "image": "https://cdn1.epicgames.com/spt-assets/5013c0fbf0aa4a5e84d948ab5bfe99c6/project-sailor-q8ze4.jpg?resize=1&w=360&h=480&quality=medium",
     "type": "basedgame",
     "genre": ["Action", "Adventure"],
-    "platforms": ["PlayStation"],
+    "platforms": ["PS5"],
     "releaseDate": "2024-04-26",
     "developer": "Shift Up",
     "publisher": "Sony Interactive Entertainment",
@@ -1744,6 +1764,50 @@
       "https://cdn1.epicgames.com/spt-assets/20d989fc07a447b2af3c59e4fd5f49c7/borderlands-4-1ual5.jpg?resize=1&w=480&h=270&quality=medium",
       "https://cdn1.epicgames.com/spt-assets/20d989fc07a447b2af3c59e4fd5f49c7/borderlands-4-4xqdn.jpg?resize=1&w=480&h=270&quality=medium",
         "https://cdn1.epicgames.com/spt-assets/20d989fc07a447b2af3c59e4fd5f49c7/borderlands-4-cwir2.jpg?resize=1&w=480&h=270&quality=medium"
+    ]
+  },
+        {
+    "id": "e4615327-7444-490b-a7aa-ef41625aa167",
+    "title": "Tides of Annihilation",
+    "logo": "https://cdn1.epicgames.com/spt-assets/2f8a03caff764b6ba175c9ee1784d99b/tides-of-annihilation-logo-13udy.png?resize=1&w=480&h=270&quality=medium",
+    "image": "https://cdn1.epicgames.com/spt-assets/2f8a03caff764b6ba175c9ee1784d99b/tides-of-annihilation-2h07l.png?resize=1&w=360&h=480&quality=medium",
+    "type": "basedgame",
+    "genre": ["Action", "Adventure", "RPG"],
+    "platforms": ["Windows"],
+    "releaseDate": "upcoming",
+    "developer": "Eclipse Glow Games",
+    "publisher": "Eclipse Glow Games",
+    "price": 49.99,
+    "discount": 0,
+    "isFree": false,
+    "language": ["EN", "RU"],
+    "rating": 4.4,
+    "ageRating": {
+      "label": "16+",
+      "descriptors": [
+        "Strong Violence"
+  ]},
+    "shortDescription": "Tides of Annihilation is a fantasy action-adventure inspired by Arthurian legend. Uncover the mystery of an otherworldly invasion in a shattered London, unleashing hordes of enemies. As Gwendolyn, fight alongside spectral knights to piece a broken world back together.",
+     "fullDescription": [
+         {
+        "heading": "About this game",
+        "content": "London lies in ruin, torn apart by an abrupt invasion from another realm. As Gwendolyn, the city’s last surviving inhabitant, you will face off against otherworldly foes as she navigates a world where reality and fantasy intertwine, unravelling the mysteries binding this shattered existence."
+    },
+    {
+        "heading": "Unveil the Secret of Tides and Piece Together a Broken World",
+        "content": "A once-vibrant London has been torn asunder into an eerie reflection of itself—its buildings distorted, lifeforms transformed, and its history shrouded in shadow. Venture into this devastated world to uncover hidden truths and find a way to save your family, city, and the very fabric of reality itself."
+    },
+    {
+        "heading": "Harness the Power of Knights and Build Your Order",
+        "content": "Experience a unique knightly combat system that allows you to command a band of over ten legendary knights. Inspired by Arthurian lore, each knight brings unique skills and abilities to your team. Combine their powers to craft your own battle strategies, unleashing awe-inspiring cooperative attacks. Forge a path to victory with your personalised Order of Knights." 
+    }],
+    "features": ["Controller Support", "Single Player"],
+    "video": "https://www.youtube.com/watch?v=JJ3fDz_xCio",
+    "carouselImages": [
+      "https://cdn1.epicgames.com/spt-assets/2f8a03caff764b6ba175c9ee1784d99b/tides-of-annihilation-1d6qq.png?resize=1&w=480&h=270&quality=medium",
+      "https://cdn1.epicgames.com/spt-assets/2f8a03caff764b6ba175c9ee1784d99b/tides-of-annihilation-1vi70.png?resize=1&w=480&h=270&quality=medium",
+      "https://cdn1.epicgames.com/spt-assets/2f8a03caff764b6ba175c9ee1784d99b/tides-of-annihilation-1xoek.png?resize=1&w=480&h=270&quality=medium",
+        "https://cdn1.epicgames.com/spt-assets/2f8a03caff764b6ba175c9ee1784d99b/tides-of-annihilation-gj0xi.png?resize=1&w=480&h=270&quality=medium"
     ]
   }
 ]
