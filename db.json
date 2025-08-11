@@ -1,4 +1,160 @@
-{
+{      
+    "users": [
+                {
+    "id": "4444",
+    "firstName": "Orxan",
+    "lastName": "Cəlilov",
+    "email": "orxan.celilov18@gmail.com",
+    "password": "orxan12345",
+    "phone": "+994107270499",
+    "birthday": "04.04.1999",
+    "role": "super_admin",
+    "createdAt": "2025-07-25T00:00:00.000Z",
+    "isActive": true,
+    "lastLogin":null  }
+        
+    ],
+    "purchases": [
+  {
+    "id": "a9c06b4c-0e3b-476e-9668-e9dfb2318807",
+    "userId": "4444",
+    "gameId": "ccbd738a-794e-4031-8e44-713468d4a7e6",
+    "price": 14.60,
+    "purchaseDate": "2025-07-25T13:40:00.000Z"
+  }
+],
+    "slider": [
+  {
+    "id": "f48e98fd-24c2-420a-b686-0fcbbd4b14fa",
+    "title": "WUCHANG: Fallen Feathers",
+    "mobImg" :"https://cdn2.unrealengine.com/egs-wuchang-carousel-mobile-1200x1600-095cf26f732f.jpg?resize=1&w=640&h=854&quality=medium",
+    "gameId": "df09e8b5-1f04-4f1c-923c-03d88d3fc7d0",
+    "subtitle": "OUT NOW",
+    "logo": "https://cdn2.unrealengine.com/egs-wuchang-carousel-logo-350x90-d1291adba303.png",
+    "description": "WUCHANG: Fallen Feathers has finally arrived! Experience the new action-RPG and overcome the creeping monstrosities lurking in the shadows.",
+    "price": "$34.99",
+    "image": "https://cdn2.unrealengine.com/egs-wuchang-carousel-desktop-1920x1080-7cdc6c907852.jpg",
+    "thumbnail": "https://cdn2.unrealengine.com/egs-wuchang-carousel-thumb-1200x1600-bc39aed92e21.jpg?resize=1&w=96&h=128&quality=medium"
+  },
+  {
+    "id": "4a2166e5-24ab-4e94-bc40-5ed175da573a",
+    "title": "Battlefield™ 6 Open Beta",
+    "mobImg" :"https://cdn2.unrealengine.com/egs-battlefield-6-open-beta-carousel-mobile-1200x1600-a33992a288d3.jpg?resize=1&w=640&h=854&quality=medium",
+    "gameId": "71cfcc21-f1c2-456f-9204-6f0e24c2b079",
+    "subtitle": "GET READY FOR OPEN BETA",
+    "logo": "https://cdn2.unrealengine.com/egs-battlefield-6-open-beta-carousel-logo-350x147-84295974fc10.png",
+    "description": "Pre-load now and get ready for Open Beta on Aug 9-10 and 14-17.",
+    "price": "$59.99",
+    "image": "https://cdn2.unrealengine.com/egs-battlefield-6-open-beta-carousel-desktop-1920x1080-f4c36c31139c.jpg?resize=1&w=854&h=480&quality=medium",
+    "thumbnail": "https://cdn2.unrealengine.com/egs-battlefield-6-open-beta-carousel-thumb-1200x1600-dad9bb7fd503.jpg?resize=1&w=96&h=128&quality=medium"
+  },
+  {
+    "id": "2c465a73-c77a-4a76-b241-4809c2422fd1",
+    "title": "Borderlands 4",
+    "mobImg" :"https://cdn2.unrealengine.com/egs-borderlands-4-5-25-carousel-mobile-1200x1600-bdfabba4f50c.jpg?resize=1&w=640&h=854&quality=medium",
+    "gameId": "33d3729d-7afd-4c7e-8eac-7146b09e2390",
+    "subtitle": "AVAILABLE SEPTEMBER 12",
+    "logo": "https://cdn2.unrealengine.com/egs-borderlands-4-5-25-carousel-logo-350x98-45ead924648b.png",
+    "description": "Borderlands 4 is a mayhem-fueled looter shooter, jam-packed with billions of weapons, deadly enemies, and intense co-op action.",
+    "price": "69.99",
+    "image": "https://cdn2.unrealengine.com/egs-borderlands-4-5-25-carousel-desktop-1920x1080-9d5b1ed48fa9.jpg?resize=1&w=854&h=480&quality=medium",
+    "thumbnail": "https://cdn2.unrealengine.com/egs-borderlands-4-5-25-carousel-thumb-1200x1600-acbebbc02ede.jpg?resize=1&w=96&h=128&quality=medium"
+  },
+  {
+    "id": "b50649f4-81bb-4280-be42-3215b06a0c85",
+    "title": "Epic Savings",
+    "mobImg" :"https://cdn2.unrealengine.com/epic-savings-august-carousel-mobile-5123828d0e6d.avif?resize=1&w=640&h=854&quality=medium",
+    "gameId": "4dceefbd-ef5d-4d4d-9e85-41f33d6fe774",
+    "subtitle": "AUGUST 7 - AUGUST 21",
+    "logo": "https://cdn2.unrealengine.com/en-epic-savings-april-carousel-logo-350x221-2d0e8b1a9d6e.png",
+    "description": "Save up to 80% on must-play games and discover new adventures. Plus, earn 20% back with Epic Rewards.",
+    "price": "Varies",
+    "image": "https://cdn2.unrealengine.com/epic-savings-august-desktop-carousel-asset-057cc1a934d9.avif?resize=1&w=1280&h=720&quality=medium",
+    "thumbnail": "https://cdn2.unrealengine.com/en-epic-savings-august-carousel-thumbnail-1200x1600-defe73356a17.jpg?resize=1&w=96&h=128&quality=medium"
+  },
+  {
+    "id": "2e940c0c-47ce-4b92-876b-328d958e7886",
+    "title": "Out of Time",
+    "mobImg" :"https://cdn1.epicgames.com/spt-assets/bdec776c26534fbf9c36d08fb9ba2899/out-of-time-1exk6.png?resize=1&w=360&h=480&quality=medium",
+    "gameId": "0ae46f26-7b0b-45ed-9d36-9348c8a5e8e8",
+    "subtitle": "COMING SOON",
+    "logo": "https://cdn2.unrealengine.com/egs-out-of-time-carousel-logo-350x93-5655a38efc69.png",
+    "description": "Battle in collapsing timelines in this chaotic co-op roguelike where gear defines power, teamwork is survival, and every run rewrites reality.",
+    "price": "11.19",
+    "image": "https://cdn2.unrealengine.com/egs-out-of-time-carousel-desktop-1920x1080-b11a25ba7eab.jpg?resize=1&w=1280&h=720&quality=medium",
+    "thumbnail": "https://cdn2.unrealengine.com/egs-out-of-time-carousel-thumb-1200x1600-46b24cc7fbe3.jpg?resize=1&w=96&h=128&quality=medium"
+  },
+  {
+    "id": "20d72f82-14ec-4c2e-bdb5-2ffbc1793662",
+    "title": "Wuthering Waves",
+    "mobImg" :"https://cdn1.epicgames.com/spt-assets/c1586295960b46f88bbfeec32c199e0e/wuthering-waves-uw6vy.jpg?resize=1&w=360&h=480&quality=medium",
+    "gameId": "a3092996-b17e-4abd-b989-af87bb65b83c",
+    "subtitle": "NEW UPDATE",
+    "logo": "https://cdn2.unrealengine.com/en-egs-wuthering-waves-update-1-1-carousel-logo-350x100-3b11d2055e67.png",
+    "description": "Version 2.5 Unfading Melody of Life is coming! Meet the new 5-Star Resonator: Phrolova!",
+    "price": "Free",
+    "image": "https://cdn2.unrealengine.com/egs-wuthering-waves-2-5-carousel-desktop-1920x1080-7e71492b81e1.jpg?resize=1&w=854&h=480&quality=medium",
+    "thumbnail": "https://cdn2.unrealengine.com/egs-wuthering-waves-2-5-carousel-thumb-1200x1600-2275479760b9.jpg?resize=1&w=96&h=128&quality=medium"
+  }
+],
+    "news": [
+        {
+    "id": "723c702f-3662-437d-af14-efcd27ce9e8c",
+    "title": "Get some sun and grab some games: The Epic Games Store Summer Sale buyer’s guide",
+    "description": "Prepare for the 2025 Summer Sale in the Epic Games Store with our buyer’s guide. Discover top deals on games, information on sale dates, Epic Rewards, and more!",
+    "date": "21d ago",
+    "image": "https://cdn2.unrealengine.com/summer-sale-blog-key-1920x1080-24f16148a9a3.jpg?resize=1&w=854&h=480&quality=medium",
+    "link": "https://store.epicgames.com/en-US/news/epic-games-store-summer-sale-2025-buyers-guide"
+  },
+  {
+    "id": "d153bb36-aabb-4670-a3fc-cb2317bf87ea",
+    "title": "Wuchang: Fallen Feathers brings color to the muted Soulslike genre",
+    "description": "‘What really sets Wuchang: Fallen Feathers apart is how everything in the game is connected through a cultural lens that’s deeply personal to the team’",
+    "date": "24d ago",
+    "image": "https://cdn2.unrealengine.com/4-1920x1080-a4211496a5aa.jpg?resize=1&w=854&h=480&quality=medium",
+    "link": "https://store.epicgames.com/en-US/news/wuchang-fallen-feathers-brings-color-to-the-muted-soulslike-genre"
+  },
+  {
+    "id": "9f038d46-38fd-41be-939e-e0fddf81e3ff",
+    "title": "Why QuakeCon remains a gibatastically good time after almost 30 years",
+    "description": "No other LAN party has ever got quite this out of hand.",
+    "date": "6h ago",
+    "image": "https://cdn2.unrealengine.com/why-quakecon-remains-a-gibtasticly-good-time-after-almost-30-years-1920x1080-b837babf9ba1.jpg?resize=1&w=480&h=270&quality=medium",
+    "link": "https://store.epicgames.com/en-US/news/why-quakecon-remains-a-gibtasticly-good-time-after-almost-30-years"
+  },
+  {
+    "id": "2629d53a-7c80-4b4c-9167-6ac6c53f008a",
+    "title": "112 Operator is free this week on the Epic Games Store for mobile",
+    "description": "Manage riots, handle natural disasters, and become an emergency services hero in 112 Operator, free this week on the Epic Games Store for mobile.",
+    "date": "7h ago",
+    "image": "https://cdn2.unrealengine.com/3p-final-freegames-editorial-header-1920x1080-d1f2a684504f.jpg?resize=1&w=480&h=270&quality=medium",
+    "link": "https://store.epicgames.com/en-US/news/112-operator-free-epic-games-store-for-mobile-august-7-14"
+  },
+  {
+    "id": "de59345f-2a68-4fb0-9f7e-ef62c2cdab75",
+    "title": "Shadowverse: Worlds Beyond beginners guide: 9 tips to get the most out of this anime CCG",
+    "description": "Get free cards, build the best deck, and unleash evolutions to overwhelm your opponents.",
+    "date": "8h ago",
+    "image": "https://cdn2.unrealengine.com/shadowverse-worlds-beyond-beginners-guide-9-tips-to-get-the-most-out-of-this-anime-ccg-1920x1080-ec5fc1e2558f.jpg?resize=1&w=480&h=270&quality=medium",
+    "link": "https://store.epicgames.com/en-US/news/shadowverse-worlds-beyond-beginners-guide-9-tips-to-get-the-most-out-of-this-anime-ccg"
+  },
+  {
+    "id": "71a15f91-07ca-4f9e-8113-8612146e4101",
+    "title": "Play as ninja cheerleaders in Ra Ra Boom, a co-op action game about fighting rogue AI",
+    "description": "Gylee Games' debut is inspired by co-op arcade games, Saturday morning cartoons, and strong women",
+    "date": "2d ago",
+    "image": "https://cdn2.unrealengine.com/play-as-ninja-cheerleaders-in-ra-ra-boom-a-co-op-action-game-about-fighting-rogue-ai-1920x1080-f7d03cbaebe0.png?resize=1&w=480&h=270&quality=medium",
+    "link": "https://store.epicgames.com/en-US/news/play-as-ninja-cheerleaders-in-ra-ra-boom-a-co-op-action-game-about-fighting-rogue-ai"
+  },
+  {
+    "id": "0e52ebfd-d8dc-4f41-a52d-c8676e4f9800",
+    "title": "Hands-on with PowerWash Simulator 2’s new quality-of-life tech",
+    "description": "Scissor lifts, abseiling, and multi-part objectives all improve quality-of-life drastically compared to the first methodical cleaning game.",
+    "date": "2d ago",
+    "image": "https://cdn2.unrealengine.com/powerwash-simulator-2-key-1920x1080-dc319f493aff.jpg?resize=1&w=480&h=270&quality=medium",
+    "link": "https://store.epicgames.com/en-US/news/hands-on-powerwash-simulator-2-new-quality-of-life-tech-surface-cleaner"
+  }
+    ],
     "achievements":[
   {
     "id": "e8a66e75-fa93-4390-8b32-197fd302e3b1",
@@ -32,6 +188,1627 @@
     "achievementHeaderImage": "https://cdn2.unrealengine.com/egs-alanwake2-remedyentertainment-g1c-00-1920x1080-cc2e0448df74.jpg?resize=1&w=480&h=270&quality=medium",
     "secret": false,
     "rarity": "5%"
+  }
+],
+    "dlc&add-onns": [
+  {
+    "id": "44ecd0bf-b9ee-4b3c-8488-e11adfaf7c29",
+    "gameId": "ccbd738a-794e-4031-8e44-713468d4a7e6",
+    "title": "Alan Wake 2: Deluxe Upgrade",
+    "image": "https://cdn1.epicgames.com/offer/c4763f236d08423eb47b4c3008779c84/EGS_AlanWake2DeluxeUpgrade_RemedyEntertainment_AddOn_S2_1200x1600-887292c4cb8bf99eebd713378cf88cd3?resize=1&w=360&h=480&quality=medium",
+    "description": "Unlock the Expansion Pass and exclusive cosmetic content with the Alan Wake 2 Deluxe Upgrade.",
+    "price": 14.60,
+    "discount": 60,
+    "type": "addon"
+  },
+  {
+    "id": "c8b4fbfa-7b4b-45e2-9a42-f46bf7c2a00c",
+    "gameId": "ccbd738a-794e-4031-8e44-713468d4a7e6",
+    "title": "Alan Wake 2 Deluxe Edition",
+    "image": "https://cdn1.epicgames.com/offer/c4763f236d08423eb47b4c3008779c84/EGS_AlanWake2DeluxeEdition_RemedyEntertainment_Editions_S2_1200x1600-db032e8c839da2be59801023a4cdf083?resize=1&w=360&h=480&quality=medium",
+    "description": "Unlock the Expansion Pass and exclusive cosmetic content with the Alan Wake 2 Deluxe Edition.",
+    "price": 51.09,
+    "discount": 0,
+    "type": "edition"
+  },
+  {
+    "id": "f5e12294-a077-46e3-80ec-45b6ddf7566b",
+    "gameId": "b602dc67-a455-4a89-827e-70149c5b3f4e",
+    "title": "Hades II Original Sountrack",
+    "image": "https://cdn1.epicgames.com/spt-assets/ea0a24395cd641d7bbde3e5d78ad462c/hades-ii-wclv5.png?resize=1&w=360&h=480&quality=medium",
+    "description": "",
+    "price": 4.49,
+    "discount": 0,
+    "type": "addon"
+  },
+    {
+    "id": "8f4c9d62-00d3-4163-a296-fc8092b4d84d",
+    "gameId": "47408ffa-f114-4a26-b4f7-da210a33eb54",
+    "title": "The Witcher 3 Red Kit",
+    "image": "https://cdn1.epicgames.com/offer/14ee004dadc142faaaece5a6270fb628/EGS_TheWitcher3REDkit_CDPROJEKTRED_DLC_S2_1200x1600-ac50a0b326e409e8b2cbf03c0fa42094?resize=1&w=360&h=480&quality=medium",
+    "description": "",
+    "price": "Free",
+    "discount": false,
+    "type": "editor"
+  },
+    {
+    "id": "bff7a2a1-313a-423b-aded-e9eb3a34ba12",
+    "gameId": "56387419-7df5-4471-a960-999cf965c66f",
+    "title": "Cyperpunk 2077: Phantom Liberity",
+    "image": "https://cdn1.epicgames.com/offer/77f2b98e2cef40c8a7437518bf420e47/EGS_Cyberpunk2077PhantomLiberty_CDPROJEKTRED_DLC_S2_1200x1600-3acec02a8b11a2c50ba8dd3cb217f1c6?resize=1&w=360&h=480&quality=medium",
+    "description": "",
+    "price": 14.99,
+    "discount": 25,
+    "type": "addon"
+  },
+    {
+    "id": "5a02b9b7-8538-4be6-ac5e-f9d331f06a67",
+    "gameId": "56387419-7df5-4471-a960-999cf965c66f",
+    "title": "Cyperpunk 2077: Ultimate Edition",
+    "image": "https://cdn1.epicgames.com/offer/77f2b98e2cef40c8a7437518bf420e47/EGS_Cyberpunk2077UltimateEdition_CDPROJEKTRED_Editions_S2_1200x1600-81442c61fd09b45ecd03add7c0c3afdd?resize=1&w=360&h=480&quality=medium",
+    "description": "",
+    "price": 39.99,
+    "discount": 45,
+    "type": "edition"
+  },
+    {
+    "id": "c8db614c-de59-473e-9ea0-c2fdf2300793",
+    "gameId": "b7397a92-278d-4b3f-a655-6d9f04b8c37c",
+    "title": "It Takes Two - Friend Pass",
+    "image": "https://cdn1.epicgames.com/offer/8ae7b3c0f490471b967ce26cc2f6e0e6/EGS_ItTakesTwoFriendsPass_Hazelight_Trials_S2_1200x1600-6347b335e7cdd0b50b88e3ca7aca91e4_1200x1600-6347b335e7cdd0b50b88e3ca7aca91e4?resize=1&w=360&h=480&quality=medium",
+    "description": "",
+    "price": "Free",
+    "discount": false,
+    "type": "demo"
+  },
+     {
+    "id": "26944918-ac73-415e-938b-db61d8fb191e",
+    "gameId": "2ee03011-0452-41b9-83bf-c4192df24202",
+    "title": "YellowJacket Pack",
+    "image": "https://cdn1.epicgames.com/offer/fn/EN_FNECO_36-20_RMT_Yellowjacket_Pack_EGS_Portrait_1200x1600_1200x1600-7a25034ec31cc0621617aec957e7dddd?resize=1&w=360&h=480&quality=medium",
+    "description": "",
+    "price": 4.49,
+    "discount": 0,
+    "type": "addon"
+  },
+        {
+    "id": "d8f15d25-6c55-434d-951d-3416c923e226",
+    "gameId": "2ee03011-0452-41b9-83bf-c4192df24202",
+    "title": "Summer Legends Pack",
+    "image": "https://cdn1.epicgames.com/offer/fn/EN_FNECO_30-10_SummerLegendsPack_EGS_1200x1600_1200x1600-d3edcadbfcc0105175748b5c0c09f239?resize=1&w=360&h=480&quality=medium",
+    "description": "",
+    "price": 18.49,
+    "discount": 20,
+    "type": "addon"
+  },
+        {
+    "id": "b127d843-7f34-4126-9d37-0d40479cb0c7",
+    "gameId": "2ee03011-0452-41b9-83bf-c4192df24202",
+    "title": "1000 V-Bucks",
+    "image": "https://cdn1.epicgames.com/offer/fn/FNECO_32-00_VbuckStoreArtUpdate_1000_EGS_1200x1600_1200x1600-e70f8c1bfbd98a4a3d619e9527aeef8e?resize=1&w=360&h=480&quality=medium",
+    "description": "",
+    "price": 8.99,
+    "discount": 0,
+    "type": "addon"
+  },
+        {
+    "id": "a86257e6-5bee-4c61-a31c-2ab1f9431aef",
+    "gameId": "2ee03011-0452-41b9-83bf-c4192df24202",
+    "title": "2800 V-Bucks",
+    "image": "https://cdn1.epicgames.com/offer/fn/FNECO_32-00_VbuckStoreArtUpdate_2800_EGS_1200x1600_1200x1600-380718e8fb23306b6e8a801d27880104?resize=1&w=360&h=480&quality=medium",
+    "description": "",
+    "price": 22.99,
+    "discount": 0,
+    "type": "addon"
+  },
+
+        {
+    "id": "2be109d8-bcd8-44b9-8367-8a889de1ff82",
+    "gameId": "2ee03011-0452-41b9-83bf-c4192df24202",
+    "title": "13500 V-Bucks",
+    "image": "https://cdn1.epicgames.com/offer/fn/FNECO_32-00_VbuckStoreArtUpdate_13500_EGS_1200x1600_1200x1600-d283e52ea33ff79da7d4be0ff86d6e52?resize=1&w=360&h=480&quality=medium",
+    "description": "",
+    "price": 89.99,
+    "discount": 0,
+    "type": "addon"
+  },
+        {
+    "id": "be2c37cc-53cc-4707-afea-ff102b0fca25",
+    "gameId": "0ec568f3-3fb5-4f83-bc63-e1ff43771057",
+    "title": "Assassin’s Creed Mirage: Deluxe Edition",
+    "image": "https://cdn1.epicgames.com/offer/9bcf5a4dc1d54cb6ab1a42f3a70c5cf4/Carousel_BoxArt_1200x1600_1200x1600-7098397fa5b2007b686dc31009bd5055?resize=1&w=360&h=480&quality=medium",
+    "description": "",
+    "price": 23.99,
+    "discount": 10,
+    "type": "edition"
+  },
+        {
+    "id": "6a087b05-d7d8-4506-8e8d-90efdb96c902",
+    "gameId": "0ec568f3-3fb5-4f83-bc63-e1ff43771057",
+    "title": "Assassin’s Creed Mirage Jinn Pack",
+    "image": "https://cdn1.epicgames.com/offer/9bcf5a4dc1d54cb6ab1a42f3a70c5cf4/EGST_StorePortrait_1200x1600_1200x1600-1e4a1251af607f3beb843693c30f1f8c?resize=1&w=360&h=480&quality=medium",
+    "description": "",
+    "price": 9.99,
+    "discount": 0,
+    "type": "addon"
+  },
+        {
+    "id": "4bc4a040-b1e8-42fc-a385-7be88e1fc49c",
+    "gameId": "0ec568f3-3fb5-4f83-bc63-e1ff43771057",
+    "title": "Assassin’s Creed Mirage Guardian Pack",
+    "image": "https://cdn1.epicgames.com/offer/9bcf5a4dc1d54cb6ab1a42f3a70c5cf4/EGST_StorePortrait_1200x1600_1200x1600-72ff514edd25207db6743cdc6b598cf4?resize=1&w=360&h=480&quality=medium",
+    "description": "",
+    "price": 9.99,
+    "discount": 0,
+    "type": "addon"
+  },
+        {
+    "id": "daf51871-78e0-4e82-9787-e01d731b283e",
+    "gameId": "b022fdca-592c-41a7-9bd2-865a0dc995e4",
+    "title": "Tom Clancy's Rainbow Six Siege X - Elite Edition",
+    "image": "https://cdn1.epicgames.com/offer/carnation/EGST_StorePortrait_1200x1600_1200x1600-05f9d6928ef222cd50f7d6ada5c86398?resize=1&w=360&h=480&quality=medium",
+    "description": "",
+    "price": 19.99,
+    "discount": 0,
+    "type": "edition"
+  },
+        {
+    "id": "ab176568-7b99-41d8-a046-f7c2b92584aa",
+    "gameId": "b022fdca-592c-41a7-9bd2-865a0dc995e4",
+    "title": "Tom Clancy's Rainbow Six Siege X - Ultimate Edition",
+    "image": "https://cdn1.epicgames.com/offer/carnation/EGST_StorePortrait_1200x1600_1200x1600-8341f5a48fe6ad8a7ec7ecf1cf83004e?resize=1&w=360&h=480&quality=medium",
+    "description": "",
+    "price": 39.99,
+    "discount": 0,
+    "type": "edition"
+  },
+        {
+    "id": "42ed2261-785d-456c-a4ee-0fc76d2602e3",
+    "gameId": "b022fdca-592c-41a7-9bd2-865a0dc995e4",
+    "title": "5,000 Premier Pack - Rainbow Six Siege",
+    "image": "https://cdn1.epicgames.com/offer/carnation/EGST_StorePortrait_1200x1600_1200x1600-ffa71c067e731b890fc8404c469d0871?resize=1&w=360&h=480&quality=medium",
+    "description": "",
+    "price": 39.99,
+    "discount": 0,
+    "type": "addon"
+  },
+        {
+    "id": "738423aa-c993-4443-83db-0a0b9592c4de",
+    "gameId": "b022fdca-592c-41a7-9bd2-865a0dc995e4",
+    "title": "3,300 Premier Pack - Rainbow Six Siege",
+    "image": "https://cdn1.epicgames.com/offer/carnation/EGST_StorePortrait_1200x1600_1200x1600-159c04ea408a343115adea0af23a2ea6?resize=1&w=360&h=480&quality=medium",
+    "description": "",
+    "price": 19.99,
+    "discount": 0,
+    "type": "addon"
+  },
+        {
+    "id": "7d809db7-5cf4-4262-9062-90460b43a650",
+    "gameId": "ba982536-ba46-43ef-9d72-725f10b13ba6",
+    "title": "Sifu Digital Deluxe Edition",
+    "image": "https://cdn2.unrealengine.com/egs-sifudigitaldeluxeedition-sloclap-editions-s2a-1200x1600-0ae6ff3437f5.jpg?resize=1&w=360&h=480&quality=medium",
+    "description": "",
+    "price": 25.99,
+    "discount": 0,
+    "type": "edition"
+  },
+        {
+    "id": "1d59c527-5f1d-49e8-a9ca-a46b4a19b26c",
+    "gameId": "f2151708-35e5-4df8-ba16-2dec7609168c",
+    "title": "Metro Exodus The Two Colonels",
+    "image": "https://cdn1.epicgames.com/offer/snapdragon/MetroExodus_TheTwoColonels_1200x1600_1200x1600-d1ded687fd175a5f0d9278de890c3e1c?resize=1&w=360&h=480&quality=medium",
+    "description": "",
+    "price": 5.99,
+    "discount": 0,
+    "type": "addon"
+  },
+        {
+    "id": "39b33c00-8e07-45cd-a34f-7d711e3f16c2",
+    "gameId": "e0596de1-0bec-4757-900b-896bc6f337b4",
+    "title": "Dying Light 2 Stay Human: Rais Bundle",
+    "image": "https://cdn1.epicgames.com/offer/87b7846d2eba4bc49eead0854323aba8/EGS_DyingLight2StayHumanRaisBundle_Techland_DLC_S2_1200x1600-16688ca68e8c1988a820f5f11730daf5_1200x1600-16688ca68e8c1988a820f5f11730daf5?resize=1&w=360&h=480&quality=medium",
+    "description": "",
+    "price": 1.99,
+    "discount": 0,
+    "type": "addon"
+  },
+        {
+    "id": "5b8fa96d-71f8-4e8f-8d13-6d8e5aa3f213",
+    "gameId": "e0596de1-0bec-4757-900b-896bc6f337b4",
+    "title": "Dying Light 2 Stay Human: Chicken Bundle",
+    "image": "https://cdn1.epicgames.com/offer/87b7846d2eba4bc49eead0854323aba8/EGS_DyingLight2StayHumanChickenBundle_Techland_DLC_S2_1200x1600-eb4f7c3e75eea28181b49c6a933b0177?resize=1&w=360&h=480&quality=medium",
+    "description": "",
+    "price": 2.99,
+    "discount": 0,
+    "type": "addon"
+  },
+        {
+    "id": "7d6dca85-2a84-485f-9524-53e6e2c1daf4",
+    "gameId": "e0596de1-0bec-4757-900b-896bc6f337b4",
+    "title": "Dying Light 2 Stay Human: Gunslinger Bundle",
+    "image": "https://cdn1.epicgames.com/offer/87b7846d2eba4bc49eead0854323aba8/EGS_DyingLight2StayHumanGunslingerBundle_Techland_DLC_S2_1200x1600-2ecbfc63c7eaa79a26ed5c93a9f30926?resize=1&w=360&h=480&quality=medium",
+    "description": "",
+    "price": 2.99,
+    "discount": 0,
+    "type": "addon"
+  },
+        {
+    "id": "82b8edc3-4c67-4362-ad3b-5ea5a8a21761",
+    "gameId": "e0596de1-0bec-4757-900b-896bc6f337b4",
+    "title": "Dying Light 2 Stay Human: Authory Pack",
+    "image": "https://cdn1.epicgames.com/offer/87b7846d2eba4bc49eead0854323aba8/EGS_DyingLight2StayHumanAuthorityPackPart23_Techland_DLC_S2_1200x1600-d7315fd74d6184cbe8da0187bd925302?resize=1&w=360&h=480&quality=medium",
+    "description": "",
+    "price": 2.99,
+    "discount": 0,
+    "type": "addon"
+  },
+      {
+    "id": "a866bc4c-e052-4c8a-b6c9-4c9cac7bf907",
+    "gameId": "58abf8cb-4c33-4ac7-bdb0-52364ca414d1",
+    "title": "The Sims™ 4 Werewolves",
+    "image": "https://cdn1.epicgames.com/offer/2a14cf8a83b149919a2399504e5686a6/EGS_GP12TheSims4WerewolvesGamePack_Maxis_DLC_S2_1200x1600-087e34a1006fe49c861763bb4558e9fa?resize=1&w=360&h=480&quality=medium",
+    "description": "",
+    "price": 19.99,
+    "discount": 30,
+    "type": "addon"
+  },
+       {
+    "id": "6b47a094-57fa-4c2b-bebd-fe588ac99da9",
+    "gameId": "58abf8cb-4c33-4ac7-bdb0-52364ca414d1",
+    "title": "The Sims™ 4 City Living",
+    "image": "https://cdn1.epicgames.com/offer/2a14cf8a83b149919a2399504e5686a6/EGS_EP03TheSims4CityLiving_ElectronicArts_DLC_S2_1200x1600-93fd5ee21c87eabbd18add4fe6d02e97?resize=1&w=360&h=480&quality=medium",
+    "description": "",
+    "price": 39.99,
+    "discount": 50,
+    "type": "addon"
+  },
+       {
+    "id": "7a2826a8-2ccb-4b0e-817f-7033080d3135",
+    "gameId": "58abf8cb-4c33-4ac7-bdb0-52364ca414d1",
+    "title": "The Sims™ 4 Wedding Story",
+    "image": "https://cdn1.epicgames.com/offer/2a14cf8a83b149919a2399504e5686a6/EGS_GP11TheSims4MyWeddingStoriesGamePack_Maxis_DLC_S2_1200x1600-bd020258446f21b275601c8af08972e3?resize=1&w=360&h=480&quality=medium",
+    "description": "",
+    "price": 19.99,
+    "discount": 30,
+    "type": "addon"
+  }, 
+        {
+    "id": "7d9b307e-479b-4651-9325-5bd4091a06da",
+    "gameId": "58abf8cb-4c33-4ac7-bdb0-52364ca414d1",
+    "title": "The Sims™ 4 Jungle Adventure",
+    "image": "https://cdn1.epicgames.com/offer/2a14cf8a83b149919a2399504e5686a6/EGS_GP06TheSims4JungleAdventure_Maxis_DLC_S2_1200x1600-3b644bfcf086ca7db2646520ea7248a8?resize=1&w=360&h=480&quality=medium",
+    "description": "",
+    "price": 19.99,
+    "discount": 30,
+    "type": "addon"
+  },
+        {
+    "id": "52488740-d847-4a6e-84bd-e67136a3afad",
+    "gameId": "c4e7e419-4778-4120-b7e6-799a8bf1c002",
+    "title": "Dead Space Digital Deluxe Edition",
+    "image": "https://cdn1.epicgames.com/offer/4ec958d5e4b6429aadbc116cee0b6ea0/EGS_DeadSpaceDigitalDeluxeEdition_Motive_Editions_S2_1200x1600-6ee99ca13156798003a710be2e9dfa45?resize=1&w=360&h=480&quality=medium",
+    "description": "",
+    "price": 69.99,
+    "discount": 80,
+    "type": "edition"
+  },
+        {
+    "id": "69517d6c-7be1-4168-9ab7-d354b81faf1a",
+    "gameId": "1392ab64-2fe0-4678-8e5d-7695a9dc2192",
+    "title": "Stellar Blade™ Complete Edition",
+    "image": "https://cdn1.epicgames.com/spt-assets/5013c0fbf0aa4a5e84d948ab5bfe99c6/stellar-blade-s7s4n.jpg?resize=1&w=360&h=480&quality=medium",
+    "description": "",
+    "price": 79.99,
+    "discount": 0,
+    "type": "edition"
+  },
+        {
+    "id": "78f825c6-6438-499c-800f-da4c27a2fce0",
+    "gameId": "1392ab64-2fe0-4678-8e5d-7695a9dc2192",
+    "title": "Stellar Blade™: Twin Expansion Pack",
+    "image": "https://cdn1.epicgames.com/spt-assets/5013c0fbf0aa4a5e84d948ab5bfe99c6/stellar-blade-dh536.jpg?resize=1&w=360&h=480&quality=medium",
+    "description": "",
+    "price": 19.99,
+    "discount": 0,
+    "type": "addon"
+  },
+       {
+    "id": "e3d24f37-2f45-4c6d-ade7-845857798e73",
+    "gameId": "6a16de67-5ab3-4ea4-8f72-94ccc12efced",
+    "title": "Dead By Daylight - Gold Edition",
+    "image": "https://cdn2.unrealengine.com/egs-deadbydaylightgoldedition-behaviourinteractive-editions-s2-1200x1600-738fb46b00fe.jpg?resize=1&w=360&h=480&quality=medium",
+    "description": "",
+    "price": 49.99,
+    "discount": 10,
+    "type": "edition"
+  },
+       {
+    "id": "e328334b-8061-4a43-928b-f529c65208a3",
+    "gameId": "6a16de67-5ab3-4ea4-8f72-94ccc12efced",
+    "title": "Dead by Daylight: Tokyo Ghoul Edition",
+    "image": "https://cdn1.epicgames.com/spt-assets/2b2299be8ae84d679d4dc57c55af1510/dead-by-daylight-1ajh4.jpg?resize=1&w=360&h=480&quality=medium",
+    "description": "",
+    "price": 21.99,
+    "discount": 10,
+    "type": "edition"
+  },
+        {
+    "id": "8b469264-c9de-4351-87d2-6a9b89ad9821",
+    "gameId": "6a16de67-5ab3-4ea4-8f72-94ccc12efced",
+    "title": "Dead by Daylight - A Nightmare on Elm Street™",
+    "image": "https://cdn1.epicgames.com/offer/611482b8586142cda48a0786eb8a127c/EGS_DeadbyDaylightANightmareonElmStreet_BehaviourInteractive_DLC_S2_1200x1600-7b774eb61728934ec4144ace12038281?resize=1&w=360&h=480&quality=medium",
+    "description": "",
+    "price": 4.99,
+    "discount": 0,
+    "type": "addon"
+  },
+        {
+    "id": "19a2dcd7-1fae-4158-b375-e21336dca3da",
+    "gameId": "6a16de67-5ab3-4ea4-8f72-94ccc12efced",
+    "title": "Dead by Daylight - Chucky Chapter",
+    "image": "https://cdn1.epicgames.com/offer/611482b8586142cda48a0786eb8a127c/EGS_DeadbyDaylightChuckyChapter_BehaviourInteractive_DLC_S2_1200x1600-d072335a136880cdf71fe60f2aa60af7?resize=1&w=360&h=480&quality=medium",
+    "description": "",
+    "price": 4.99,
+    "discount": 0,
+    "type": "addon"
+  },
+        {
+    "id": "27bbb475-3e8a-47a4-8a59-35097d97f97e",
+    "gameId": "6a16de67-5ab3-4ea4-8f72-94ccc12efced",
+    "title": "Dead by Daylight - Sadako Rising",
+    "image": "https://cdn1.epicgames.com/offer/611482b8586142cda48a0786eb8a127c/EGS_DeadbyDaylightSadakoRising_BehaviourInteractive_DLC_S2_1200x1600-f0d3d4793e477ac77cb35af21c6713c4?resize=1&w=360&h=480&quality=medium",
+    "description": "",
+    "price": 4.99,
+    "discount": 0,
+    "type": "addon"
+  },
+         {
+    "id": "4f2d55d6-09f5-4128-98d1-576720d4742f",
+    "gameId": "6a16de67-5ab3-4ea4-8f72-94ccc12efced",
+    "title": "Dead by Daylight - Ghost Face®",
+    "image": "https://cdn1.epicgames.com/offer/611482b8586142cda48a0786eb8a127c/EGS_DeadbyDaylightGhostFace_BehaviourInteractive_DLC_S2_1200x1600-924ecb8ef306d3bdc3f90cdcbccb4999?resize=1&w=360&h=480&quality=medium",
+    "description": "",
+    "price": 4.99,
+    "discount": 0,
+    "type": "addon"
+  },
+        {
+    "id": "363fe824-801d-4c5c-a15f-5074b40c6d23",
+    "gameId": "6a16de67-5ab3-4ea4-8f72-94ccc12efced",
+    "title": "Dead by Daylight - Leatherface™",
+    "image": "https://cdn1.epicgames.com/offer/611482b8586142cda48a0786eb8a127c/EGS_DeadbyDaylightLeatherface_BehaviourInteractive_DLC_S2_1200x1600-be62dccbaad182dc7aa601983e7e491d?resize=1&w=360&h=480&quality=medium",
+    "description": "",
+    "price": 4.99,
+    "discount": 0,
+    "type": "addon"
+  },
+         {
+    "id": "878c5d48-c596-4989-82a4-93803a315f14",
+    "gameId": "33d3729d-7afd-4c7e-8eac-7146b09e2390",
+    "title": "Borderlands 4 Deluxe Edition",
+    "image": "https://cdn1.epicgames.com/spt-assets/20d989fc07a447b2af3c59e4fd5f49c7/borderlands-4-a0mrw.jpg?resize=1&w=360&h=480&quality=medium",
+    "description": "",
+    "price": 99.99,
+    "discount": 0,
+    "type": "edition"
+  },
+        {
+    "id": "7aee2f43-583b-410b-b253-f33dde80a42e",
+    "gameId": "33d3729d-7afd-4c7e-8eac-7146b09e2390",
+    "title": "Borderlands 4 Super Deluxe Edition",
+    "image": "https://cdn1.epicgames.com/spt-assets/20d989fc07a447b2af3c59e4fd5f49c7/borderlands-4-1zd0c.jpg?resize=1&w=360&h=480&quality=medium",
+    "description": "",
+    "price": 129.99,
+    "discount": 0,
+    "type": "edition"
+  }
+],
+    "games": [
+  {
+    "id": "ccbd738a-794e-4031-8e44-713468d4a7e6",
+    "title": "Alan Wake 2",
+    "logo": "https://cdn2.unrealengine.com/egs-alanwake2-remedyentertainment-ic1-400x400-5366b10d0f67.png?resize=1&w=480&h=270&quality=medium",
+    "image": "https://cdn1.epicgames.com/offer/c4763f236d08423eb47b4c3008779c84/EGS_AlanWake2_RemedyEntertainment_S2_1200x1600-c7c8091ddac0f9669c8e5905bca88aaa?resize=1&w=360&h=480&quality=medium",
+    "type": "basedgame",
+    "genre": ["Action", "Horror", "Shooter"],
+    "platforms": ["Windows"],
+    "releaseDate": "2023-10-27",
+    "developer": "Remedy Entertainment",
+    "publisher": "Epic Games Publishing",
+    "price": 36.49,
+    "discount": 60,
+    "isFree": false,
+    "language": ["EN", "FR", "DE", "RU"],
+    "rating": 4.8,
+    "ageRating": {
+    "label": "18+",
+    "descriptors": [
+        "Blood and Gore",
+        "Intense Violence",
+        "Nudity",
+        "Strong Language"
+    ]},
+    "shortDescription": "Saga Anderson arrives to investigate ritualistic murders in a small town. Alan Wake pens a dark story to shape the reality around him. These two heroes are somehow connected. Can they become the heroes they need to be?",
+    "fullDescription": [
+    {
+        "heading": "Alan Wake 2: Winner of Time Magazine's Game of the Year; Washington Post's Game of the Year; The Game Awards' Best Game Direction, Best Art Direction and Best Narrative; and Golden Joystick's Critics' Choice Award.",
+        "content": "A string of ritualistic murders threatens Bright Falls, a small-town community surrounded by Pacific Northwest wilderness. Saga Anderson, an accomplished FBI agent with a reputation for solving impossible cases arrives to investigate the murders. Anderson’s case spirals into a nightmare when she discovers pages of a horror story that starts to come true around her."
+    },
+    {
+        "heading": "Solve a Deadly Mystery",
+        "content": "What begins as a small-town murder investigation rapidly spirals into a nightmare journey. Uncover the source of the supernatural darkness in this psychological horror story filled with intense suspense and unexpected twists."
+    },
+    {
+        "heading": "Play As Two Characters",
+        "content": "Experience both Alan Wake’s and Saga Anderson’s stories and see events unfold from different perspectives. Switch between Anderson’s life-or-death race to solve the case and Wake’s desperate attempts to rewrite his reality to escape the depths of the Dark Place."
+    }
+    ],
+    "features": ["Single Player", "Achievement", "Cloud Saves"],
+    "video": "https://www.youtube.com/watch?v=dlQ3FeNu5Yw",
+    "carouselImages": ["https://cdn2.unrealengine.com/egs-alanwake2-remedyentertainment-g1a-02-1920x1080-cee72a709dc4.jpg?resize=1&w=480&h=270&quality=medium",
+                       "https://cdn2.unrealengine.com/egs-alanwake2-remedyentertainment-g1a-03-1920x1080-321a6753e674.jpg?resize=1&w=480&h=270&quality=medium", 
+                       "https://cdn2.unrealengine.com/egs-alanwake2-remedyentertainment-g1a-03-award-1920x1080-9e0de20157f9.jpg?resize=1&w=480&h=270&quality=medium",
+                       "https://cdn2.unrealengine.com/egs-alanwake2-remedyentertainment-g1a-04-1920x1080-9fb3ea8f2ac3.jpg?resize=1&w=480&h=270&quality=medium"]
+  },
+  {
+    "id": "b602dc67-a455-4a89-827e-70149c5b3f4e",
+    "title": "Hades II",
+    "logo": "https://cdn1.epicgames.com/spt-assets/ea0a24395cd641d7bbde3e5d78ad462c/hades-ii-logo-1ig2h.png?resize=1&w=480&h=270&quality=medium",
+    "image": "https://cdn1.epicgames.com/spt-assets/ea0a24395cd641d7bbde3e5d78ad462c/hades-ii-1mvb2.png?resize=1&w=360&h=480&quality=medium",
+    "type": "basedgame",
+    "genre": ["Roguelike", "Action", "RPG"],
+    "platforms": ["Windows"],
+    "releaseDate": "2024-06-05",
+    "developer": "Supergiant Games",
+    "publisher": "Supergiant Games",
+    "price": 14.49,
+    "discount": 20,
+    "isFree": false,
+    "language": ["EN"],
+    "rating": 4.9,
+    "ageRating": {
+    "label": "12+",
+    "descriptors": [
+        "Moderate Violence",
+        "Sexual Innuendo"
+    ]},
+    "shortDescription": "Battle beyond the Underworld using dark sorcery to take on the Titan of Time in this bewitching sequel to the award-winning rogue-like dungeon crawler.",
+    "fullDescription": [],
+    "features": ["Cloud Saves", "Controller Support", "Single Player"],
+    "video": "https://www.youtube.com/embed/2Gv0eQjJ-gY",
+    "carouselImages": ["https://cdn1.epicgames.com/spt-assets/ea0a24395cd641d7bbde3e5d78ad462c/hades-ii-1oyzg.png?resize=1&w=480&h=270&quality=medium",
+                       "https://cdn1.epicgames.com/spt-assets/ea0a24395cd641d7bbde3e5d78ad462c/hades-ii-1p0tt.jpg?resize=1&w=480&h=270&quality=medium",
+                       "https://cdn1.epicgames.com/spt-assets/ea0a24395cd641d7bbde3e5d78ad462c/hades-ii-1uumn.jpg?resize=1&w=480&h=270&quality=medium",
+                       "https://cdn1.epicgames.com/spt-assets/ea0a24395cd641d7bbde3e5d78ad462c/hades-ii-1z0uc.png?resize=1&w=480&h=270&quality=medium" ]
+  },
+  {
+    "id": "47408ffa-f114-4a26-b4f7-da210a33eb54",
+    "title": "The Witcher 3: Wild Hunt",
+    "logo": "https://cdn2.unrealengine.com/egs-thewitcher3wildhuntcompleteedition-cdprojektred-ic1-400x400-39ecddf1cc77.png?resize=1&w=480&h=270&quality=medium",
+    "image": "https://cdn1.epicgames.com/offer/14ee004dadc142faaaece5a6270fb628/EGS_TheWitcher3WildHuntCompleteEdition_CDPROJEKTRED_S2_1200x1600-53a8fb2c0201cd8aea410f2a049aba3f?resize=1&w=360&h=480&quality=medium",
+    "type": "basedgame",
+    "genre": ["RPG", "Open World"],
+    "platforms": ["Windows", "PS5", "Xbox"],
+    "releaseDate": "2015-05-18",
+    "developer": "CD Projekt Red",
+    "publisher": "CD Projekt",
+    "price": 24.96,
+    "discount": 80,
+    "isFree": false,
+    "language": ["EN", "PL", "RU", "FR", "DE"],
+    "rating": 4.8,
+    "ageRating": {
+    "label": "18+",
+    "descriptors": [
+        "Blood and Gore",
+        "Intense Violence",
+        "Nudity",
+        "Strong Language",
+        "Strong Sexual Content",
+        "Use of Alcohol"
+  ]},
+    "shortDescription": "The most awarded game of a generation, now enhanced for the next! Experience The Witcher 3: Wild Hunt and its expansions in this definitive collection, boasting improved visuals and performance, new additional content, Photo Mode, and more!",
+    "fullDescription": [
+    {
+        "heading": "ABOUT THE GAME",
+        "content": "You are Geralt of Rivia, mercenary monster slayer. Before you stands a war-torn, monster-infested continent you can explore at will. Your current contract? Tracking down Ciri — the Child of Prophecy, a living weapon that can alter the shape of the world."
+    },
+    {
+        "heading": "UPDATED FOR A NEW GENERATION",
+        "content": "Behold the dark fantasy world of the Continent like never before! This edition of The Witcher 3: Wild Hunt has been enhanced with numerous visual and technical improvements, including vastly improved level of detail, a range of community created and newly developed mods for the game, real-time ray tracing, and more — all implemented with the power of modern PCs in mind."
+    },
+    {
+        "heading": "PLAY AS A HIGHLY TRAINED MONSTER SLAYER FOR HIRE",
+        "content": "Trained from early childhood and mutated to gain superhuman skills, strength, and reflexes, witchers are a counterbalance to the monster-infested world in which they live. Gruesomely destroy foes as a professional monster hunter armed with a range of upgradeable weapons, mutating potions, and combat magic. Hunt down a wide variety of exotic monsters, from savage beasts prowling mountain passes to cunning supernatural predators lurking in the shadowy back alleys of densely populated cities. Invest your rewards to upgrade your weaponry and buy custom armor, or spend them on horse races, card games, fist fighting, and other pleasures life brings."
+    }
+    ],
+    "features": ["Story Rich", "Fantasy"],
+    "video": "https://www.youtube.com/watch?v=c0i88t0Kacs",
+    "carouselImages": ["https://cdn2.unrealengine.com/egs-thewitcher3wildhuntcompleteedition-cdprojektred-g1a-03-1920x1080-24c8f2997f41.jpg?resize=1&w=480&h=270&quality=medium",
+                       "https://cdn2.unrealengine.com/egs-thewitcher3wildhuntcompleteedition-cdprojektred-g1a-05-1920x1080-ac4ebacf1833.jpg?resize=1&w=480&h=270&quality=medium",
+                       "https://cdn2.unrealengine.com/egs-thewitcher3wildhuntcompleteedition-cdprojektred-g1a-06-1920x1080-888a74f299d6.jpg?resize=1&w=480&h=270&quality=medium",
+                       "https://cdn2.unrealengine.com/egs-thewitcher3wildhuntcompleteedition-cdprojektred-g1c-00-1920x1080-ee8358cd8883.jpg?resize=1&w=480&h=270&quality=medium"]
+  },
+  {
+    "id": "56387419-7df5-4471-a960-999cf965c66f",
+    "title": "Cyberpunk 2077",
+    "logo": "https://cdn2.unrealengine.com/egs-cyberpunk2077-cdprojektred-ic1-400x400-82b90aa9a275.png?resize=1&w=480&h=270&quality=medium",
+    "image": "https://cdn1.epicgames.com/offer/77f2b98e2cef40c8a7437518bf420e47/EGS_Cyberpunk2077_CDPROJEKTRED_S2_03_1200x1600-b1847981214ac013383111fc457eb9c5?resize=1&w=360&h=480&quality=medium",
+    "type": "basedgame",
+    "genre": ["RPG", "Adventure", "Action"],
+    "platforms": ["Windows", "PS5", "Xbox"],
+    "releaseDate": "2020-12-10",
+    "developer": "CD Projekt Red",
+    "publisher": "CD Projekt",
+    "price": 29.99,
+    "discount": 60,
+    "isFree": false,
+    "language": ["EN", "PL", "DE", "RU"],
+    "rating": 4.7,
+    "ageRating": {
+    "label": "18+",
+    "descriptors": [
+        "Blood and Gore",
+        "Intense Violence",
+        "Nudity",
+        "Strong Language",
+        "Strong Sexual Content",
+        "Use of Drugs and Alcohol"
+  ]},
+    "shortDescription": "Cyberpunk 2077 is an open-world, action-adventure RPG set in the megalopolis of Night City, where you play as a cyberpunk mercenary wrapped up in a do-or-die fight for survival. Improved and featuring all-new free additional content, customize your character and playstyle as you take on jobs, build a reputation, and unlock upgrades. The relationships you forge and the choices you make will shape the story and the world around you. Legends are made here. What will yours be?",
+    "fullDescription": [],
+    "features": ["Open World", "Futuristic"],
+    "video": "https://www.youtube.com/watch?v=8X2kIfS6fb8",
+    "carouselImages": ["https://cdn2.unrealengine.com/egs-cyberpunk2077-cdprojektred-g1a-14-1920x1080-944469dc7d4b.jpg?resize=1&w=480&h=270&quality=medium",
+                       "https://cdn2.unrealengine.com/egs-cyberpunk2077-cdprojektred-g1a-15-1920x1080-75c88f01adc8.jpg?resize=1&w=480&h=270&quality=medium",
+                       "https://cdn2.unrealengine.com/egs-cyberpunk2077-cdprojektred-g1a-16-1920x1080-85f7d3d3f549.jpg?resize=1&w=480&h=270&quality=medium",
+                       "https://cdn2.unrealengine.com/egs-cyberpunk2077-cdprojektred-g1a-17-1920x1080-bb4129963c11.jpg?resize=1&w=480&h=270&quality=medium"]
+  },
+  {
+    "id": "b7397a92-278d-4b3f-a655-6d9f04b8c37c",
+    "title": "It Takes Two",
+    "logo": "https://cdn2.unrealengine.com/egs-ittakestwo-hazelight-ic1-400x400-10a8bec2a659.png?resize=1&w=480&h=270&quality=medium",
+    "image": "https://cdn1.epicgames.com/offer/8ae7b3c0f490471b967ce26cc2f6e0e6/EGS_ItTakesTwo_Hazelight_S2_1200x1600-5c82de2d2e21a841dd06ec27e082777e_1200x1600-5c82de2d2e21a841dd06ec27e082777e?resize=1&w=360&h=480&quality=medium",
+    "type": "basedgame",
+    "genre": ["Adventure", "Platformer"],
+    "platforms": ["Windows", "PS5", "Xbox"],
+    "releaseDate": "2023-02-25",
+    "developer": "Hazelight",
+    "publisher": "Electronic Arts",
+    "price": 39.99,
+    "discount": 0,
+    "isFree": false,
+    "language": ["EN", "JP", "FR", "DE"],
+    "rating": 4.2,
+    "ageRating": {
+    "label": "12+",
+    "descriptors": [
+        "Animated Blood",
+        "Comic Mischief",
+        "Fantasy Violence",
+        "Language",
+        "Users Interact"
+  ]},
+     "shortDescription": "Embark on the craziest journey of your life in It Takes Two. Invite a friend to join for free with Friend’s Pass* and work together across a huge variety of gleefully disruptive gameplay challenges.",
+     "fullDescription": [
+         {
+        "heading": "PURE CO-OP PERFECTION",
+        "content": "Invite a friend to join for free with Friend’s Pass*, and experience a thrilling adventure built purely for two. Choose from couch or online co-op with split-screen play, and face ever-changing challenges where working together is the only way forward."
+    },
+    {
+        "heading": "GLEEFULLY DISRUPTIVE GAMEPLAY",
+        "content": "From rampaging vacuum cleaners to suave love gurus – with It Takes Two, you never know what you’re up against next. Filled with genre-bending challenges and new character abilities to master in every level, you’ll experience a metaphorical merging of gameplay and narrative that pushes the boundaries of interactive storytelling."
+    },
+    {
+        "heading": "A UNIVERSAL TALE OF RELATIONSHIPS",
+        "content": "Discover a touching and heartfelt story of the challenges in getting along. Help Cody and May learn how to overcome their differences. Meet a diverse cast of strange and endearing characters. Join forces, and go on an adventure you’ll treasure – together!"
+    }
+     ],
+    "features": ["Achievement", "Co-op"],
+    "video": "https://www.youtube.com/watch?v=ohClxMmNLQQ",
+    "carouselImages": ["https://cdn2.unrealengine.com/egs-ittakestwo-hazelight-g1a-04-1920x1080-35cfcbcf0851.jpg?resize=1&w=480&h=270&quality=mediumg",
+                       "https://cdn2.unrealengine.com/egs-ittakestwo-hazelight-g1a-05-1920x1080-74e4df3b0d0b.jpg?resize=1&w=480&h=270&quality=medium",
+                        "https://cdn2.unrealengine.com/egs-ittakestwo-hazelight-g1a-06-1920x1080-369cad296949.jpg?resize=1&w=480&h=270&quality=medium",
+                        "https://cdn2.unrealengine.com/egs-ittakestwo-hazelight-g1c-00-1920x1080-ddefff1a1789.jpg?resize=1&w=480&h=270&quality=medium"]
+  },
+  {
+    "id": "2ee03011-0452-41b9-83bf-c4192df24202",
+    "title": "Fortnite",
+    "logo": "https://cdn2.unrealengine.com/24br-s24-egs-launcher-logo-350x100-350x100-b63249f937d9.png?resize=1&w=480&h=270&quality=medium",
+    "image": "https://cdn1.epicgames.com/offer/fn/FNECO_36-10_ForbiddenFruit_EGS_Launcher_KeyArt_Blade_1200x1600_1200x1600-9eb41f23a725f28a00996272bf654e8e?resize=1&w=360&h=480&quality=medium",
+    "type": "basedgame",
+    "genre": ["Battle Royale", "Shooter"],
+    "platforms": ["Windows", "PS5", "Xbox", "Switch"],
+    "releaseDate": "2017-07-25",
+    "developer": "Epic Games",
+    "publisher": "Epic Games",
+    "price": 0,
+    "discount": 0,
+    "isFree": true,
+    "language": ["EN", "FR", "DE", "RU"],
+    "rating": 4.3,
+    "ageRating": {
+    "label": "12+",
+    "descriptors": [
+        "Violence",
+        "Users Interact",
+        "In-Game Purchases"
+  ]},
+    "shortDescription": "Create, play, and battle with friends for free in Fortnite. Be the last player standing in Battle Royale and Zero Build, experience a concert or live event, or discover over a million creator made games, including racing, parkour, zombie survival, and more. Each Fortnite island has an individual age rating so you can find the one that's right for you and your friends. Find it all in Fortnite ... Drop In.",
+    "fullDescription": [],
+    "features": ["Multiplayer", "Live Service"],
+    "video": "https://www.youtube.com/watch?v=__1ss5tFbwM",
+    "carouselImages": ["https://cdn2.unrealengine.com/en-fnbr-36-10-timberstake-egs-blade-2560x1440-2560x1440-39c4584ce690.jpg?resize=1&w=480&h=270&quality=medium",
+                       "https://cdn2.unrealengine.com/en-fnferal-34-30-sonylauncher-coverartpdp-3840x2160-logo-3840x2160-2da38487164d.png?resize=1&w=480&h=270&quality=medium",
+                       "https://cdn2.unrealengine.com/en-fnfig-36-00-c1s4-egs-launcher-keyart-og-blade-2560x1440-2560x1440-584bcfc7226a.jpg?resize=1&w=480&h=270&quality=medium",
+                       "https://cdn2.unrealengine.com/en-fnleco-36-20-luminaryhypatia-starterpack-psd-firstparty-1920x1080-1920x1080-43bf50fcf0ca.jpg?resize=1&w=854&h=480&quality=medium"]
+  },
+  {
+    "id": "0ec568f3-3fb5-4f83-bc63-e1ff43771057",
+    "title": "Assassin’s Creed Mirage",
+    "logo": "https://cdn2.unrealengine.com/epic-launch-logo-400x172-c0289bc57588.png?resize=1&w=480&h=270&quality=medium",
+    "image": "https://cdn1.epicgames.com/offer/9bcf5a4dc1d54cb6ab1a42f3a70c5cf4/Carousel_BoxArt_1200x1600_1200x1600-38bda67bb1290f58e8a18ddc38a3c0ec?resize=1&w=360&h=480&quality=medium",
+    "type": "basedgame",
+    "genre": ["Action", "Stealth"],
+    "platforms": ["Windows", "PS5", "Xbox"],
+    "releaseDate": "2023-10-05",
+    "developer": "Ubisoft",
+    "publisher": "Ubisoft",
+    "price": 49.99,
+    "discount": 20,
+    "isFree": false,
+    "language": ["EN", "FR", "AR", "TR"],
+    "rating": 4.4,
+    "ageRating": {
+    "label": "18+",
+    "descriptors": [
+        "Blood and Gore",
+        "Intense Violence",
+        "Drug Reference",
+        "Strong Language",
+        "Users Interact",
+        "In-Game Purchases"
+  ]},
+     "shortDescription": "Experience the story of Basim, a cunning street thief with nightmarish visions, seeking answers and justice as he navigates the bustling streets of ninth-century Baghdad. Through a mysterious, ancient organization known as the Hidden Ones, he will become a deadly Master Assassin and change his fate in ways he never could have imagined.",
+     "fullDescription": [],
+    "features": ["Stealth", "Parkour"],
+    "video": "https://www.youtube.com/watch?v=x55lAlFtXmw",
+    "carouselImages": ["https://cdn2.unrealengine.com/air-assassination-ac1-gold1920x1080-1920x1080-cb3af9126f5c.jpg?resize=1&w=480&h=270&quality=medium",
+                       "https://cdn2.unrealengine.com/bagdad-vista-final-3840x2160-053259da6873.jpg?resize=1&w=480&h=270&quality=medium",
+                       "https://cdn2.unrealengine.com/bureau-concept-gold-candidate1920x1080-1920x1080-bf39631f989d.png?resize=1&w=480&h=270&quality=medium",
+                       "https://cdn2.unrealengine.com/chocking-smoke-bomb-gold-rgb-1080p-1920x1080-cd8a2bb24a91.png?resize=1&w=480&h=270&quality=medium"]
+  },
+  {
+    "id": "b022fdca-592c-41a7-9bd2-865a0dc995e4",
+    "title": "Tom Clancy's Rainbow Six Siege X - Free Access",
+    "logo": "https://cdn2.unrealengine.com/egst-logo-400x400-400x400-d83297d388ae.png?resize=1&w=480&h=270&quality=medium",
+    "image": "https://cdn1.epicgames.com/offer/carnation/EGST_StorePortrait_1200x1600_1200x1600-e36efcc989efe5e5572cc9b58909ac6e?resize=1&w=360&h=480&quality=medium",
+    "type": "basedgame",
+    "genre": ["Action", "Shooter", "Strategy"],
+    "platforms": ["Windows", "Xbox"],
+    "releaseDate": "2015-09-06",
+    "developer": "Ubisoft",
+    "publisher": "Ubisoft",
+    "price": 0,
+    "discount": 0,
+    "isFree": true,
+    "language": ["EN", "FR", "AR", "TR"],
+    "rating": 4.5,
+    "ageRating": {
+    "label": "18+",
+    "descriptors": [
+        "Blood",
+        "Drug Reference",
+        "Strong Language",
+        "Violence",
+        "Users Interact",
+        "In-Game Purchases"
+  ]},
+    "shortDescription": "Rainbow Six Siege X is the reference in tactical team shooters, where elite strategy and execution triumph. Enjoy free access to Quick Match, Unranked and Dual Front game modes with a selection of operators.",
+     "fullDescription": [
+         {
+        "heading": "Tom Clancy's Rainbow Six Siege X - Free Access",
+        "content": "Rainbow Six Siege X is the reference in tactical team shooters, where elite strategy and execution triumph. Enjoy free access to Quick Match, Unranked and Dual Front game modes with a selection of operators."
+    },
+    {
+        "heading": "TOOLS OF DESTRUCTION",
+        "content": "Destruction is more than chaos, it is a key tool for your success. Use the environment to your advantage — turn walls into windows of opportunity. Use state-of-the-art technology to track enemy movements, shatter walls to create new lines of sight, and manipulate your surroundings to secure the tactical advantage."
+    },
+    {
+        "heading": "FROM RECRUIT TO ELITE",
+        "content": "A solid onboarding journey for new players, including a new clearance level path, helping you learn progressively the basics and build the skills and confidence before jumping into tactical action."
+    }
+     ],
+    "features": ["Co-op", "Competetive", "Multiplayer"],
+    "video": "https://www.youtube.com/watch?v=BI9fgQY0d5I",
+    "carouselImages": ["https://cdn2.unrealengine.com/kwm-r6s2402-screenshots-2160p-01-reinforcement-nohud-v3-3840x2160-8f3b838526be.jpg?resize=1&w=480&h=270&quality=medium",
+                       "https://cdn2.unrealengine.com/kwm-r6s2402-screenshots-2160p-02-droning-nohud-v3-3840x2160-ef293c0a954e.jpg?resize=1&w=480&h=270&quality=medium",
+                       "https://cdn2.unrealengine.com/kwm-r6s2402-screenshots-2160p-03-rappelling-nohud-v3-3840x2160-55fd932a0e11.jpg?resize=1&w=480&h=270&quality=medium",
+                       "https://cdn2.unrealengine.com/kwm-r6s2402-screenshots-2160p-05-defensecoordination-nohud-v3-3840x2160-609a149397f4.jpg?resize=1&w=480&h=270&quality=medium"]
+  },
+  {
+    "id": "ba982536-ba46-43ef-9d72-725f10b13ba6",
+    "title": "Sifu",
+    "logo": "https://cdn2.unrealengine.com/egs-greeneye-sloclap-ic1-400x400-7f5493d6af29.png?resize=1&w=480&h=270&quality=medium",
+    "image": "https://cdn1.epicgames.com/offer/b7b42e2078524ab386a8b2a9856ef557/EGS_SIFUStandardEdition_Sloclap_S4_1200x1600-32aca69d756abfcc25f8581942a6162b_1200x1600-32aca69d756abfcc25f8581942a6162b?resize=1&w=360&h=480&quality=medium",
+    "type": "basedgame",
+    "genre": ["Action", "Fighting", "Indie"],
+    "platforms": ["Windows", "PS5"],
+    "releaseDate": "2022-02-08",
+    "developer": "Sloclap",
+    "publisher": "Sloclap",
+    "price": 39.99,
+    "discount": 25,
+    "isFree": false,
+    "language": ["EN", "FR", "CN"],
+    "rating": 4.7,
+    "ageRating": {
+    "label": "18+",
+    "descriptors": [
+        "Blood",
+        "Drug Reference",
+        "Strong Language",
+        "Violence"
+  ]},
+    "shortDescription": "Sifu is a realistic third-person brawler with tight Kung Fu combat mechanics and cinematic martial arts action embarking you on a path for revenge.",
+     "fullDescription": [
+         {
+        "heading": "New content available | Enter the Arenas",
+        "content": "Itching for some more good ol' Kung Fu action? The Arenas free expansion adds an entirely new game mode, featuring 15 dynamic locations and 120 challenges that will put your Kung Fu to the test! Gear up for spectacular combats, brutal opponents, and endless opportunities to refine your moves."
+    },
+    {
+        "heading": "Learning by fire",
+        "content": "Your enemies don’t wait their turn, and they don’t broadcast their intent. Dodge, parry, strike, use combos and be like water making its way through captivating environments. Learn how to master your art, whether by fighting through the underbelly of a nightclub, scrambling through a refined gallery to avoid getting surrounded, or vertically navigating a towering office building."
+    },
+    {
+        "heading": "Adaptation is survival",
+        "content": "Careful positioning and clever use of the environment to your advantage are key to your survival. Use everything at your disposal: throwable objects, makeshift weapons, windows, and ledges. The odds are stacked against you, and you will be offered no mercy."
+    }
+     ],
+    "features": ["Controller", "Single Player"],
+    "video": "https://www.youtube.com/watch?v=1FQ1YO3Ks2U",
+    "carouselImages": ["https://cdn2.unrealengine.com/egs-sifustandardedition-sloclap-g1a-05-1920x1080-1e028de5e661.jpg?resize=1&w=480&h=270&quality=medium",
+                       "https://cdn2.unrealengine.com/egs-sifustandardedition-sloclap-g1a-06-1920x1080-66e086a82055.jpg?resize=1&w=480&h=270&quality=medium",
+                        "https://cdn2.unrealengine.com/egs-sifustandardedition-sloclap-g1a-07-1920x1080-b79fe52bb072.jpg?resize=1&w=480&h=270&quality=medium",
+                        "https://cdn2.unrealengine.com/egs-sifustandardedition-sloclap-g1a-08-1920x1080-b89d9b05bd9f.jpg?resize=1&w=480&h=270&quality=medium"]
+  },
+  {
+    "id": "d7ff936f-1364-4644-afdd-4de4b6ca3d09",
+    "title": "Anno 117: Pax Romana",
+    "logo": "https://cdn2.unrealengine.com/egst-logo-400x400-400x400-cd184c9b3956.png?resize=1&w=480&h=270&quality=medium",
+    "image": "https://cdn1.epicgames.com/offer/525cf92ef772437e98805aeb6e234b2a/EGST_StorePortrait_1200x1600_1200x1600-6eaef08ab42924ccb270ea329f122ca7?resize=1&w=360&h=480&quality=medium",
+    "type": "basedgame",
+    "genre": ["Strategy", "CityBuilder" , "Simulation", "RTS"],
+    "platforms": ["Windows", "PS5", "Xbox"],
+    "releaseDate": "2023-09-19",
+    "developer": "Ubisoft",
+    "publisher": "Ubisoft",
+    "price": 59.99,
+    "discount": 0,
+    "isFree": false,
+    "language": ["EN", "FR", "DE"],
+    "rating": 4.1,
+    "ageRating": {
+      "label": "18+",
+      "descriptors": []},
+    "shortDescription": "The genre-defining builder franchise returns in a Roman Empire setting. How you build and govern will shape your story. Lead with rebellion or unite cultures? The cost of peace is yours to decide.",
+     "fullDescription": [
+         {
+        "heading": "EXPERIENCE THE PREMIER BUILDER",
+        "content": "Build your provinces with unmatched detail, flexibility, and scale. Watch kids chase dogs through the streets or thousands cheer in the arena. Build upon the land that you see, from the beautiful heartland of Latium to the mysterious Celtic wetlands of Albion…where no civilized Roman wants to be."
+    },
+    {
+        "heading": "BECOME A ROMAN GOVERNOR",
+        "content": "Design the cities of your dreams at the peak of the Roman Empire as you balance your people's needs with the relentless demands of the emperor. Forge alliances across the empire or showcase your might with strategic land battles and naval combat. You may even defy the emperor himself—but not without consequences."
+    },
+    {
+        "heading": "CHOOSE THE FATE OF YOUR PROVINCES",
+        "content": "Every decision you make as governor matters. Will you honor local Celtic culture or enforce Roman traditions? Grow your provinces through diplomacy and commerce or conquer through military strength. Your choices will shape not only the future of your citizens and your provinces, but your own story as well."
+    }
+     ],
+    "features": [],
+    "video": "https://www.youtube.com/watch?v=GBXNl88yeW4",
+    "carouselImages": ["https://cdn2.unrealengine.com/01-temple-png-3840x2160-3840x2160-d1543e828745.png?resize=1&w=480&h=270&quality=medium",
+                       "https://cdn2.unrealengine.com/02-city-png-3840x2160-3840x2160-c8c1c5410ede.png?resize=1&w=480&h=270&quality=medium",
+                        "https://cdn2.unrealengine.com/03-ships-png-3840x2160-3840x2160-7a4d8db6dd74.png?resize=1&w=480&h=270&quality=medium",
+                        "https://cdn2.unrealengine.com/04-albion-png-3840x2160-3840x2160-d8c67862dddc.jpeg?resize=1&w=480&h=270&quality=medium"]
+  },
+  {
+    "id": "c40c131c-9cbf-4109-a7a6-43091eadc778",
+    "title": "The Medium",
+    "logo": "https://cdn2.unrealengine.com/egs-themedium-blooberteam-ic1-400x84-217316323.png?resize=1&w=480&h=270&quality=medium",
+    "image": "https://cdn1.epicgames.com/e192c537dd6d47ce9a9b00b643c3cdb9/offer/EGS_TheMedium_BlooberTeam_S2-1200x1600-ae6bf4c64b365f9d90dba125c562f59a.jpg?resize=1&w=360&h=480&quality=medium",
+    "type": "basedgame",
+    "genre": ["Adventure", "Horror"],
+    "platforms": ["Windows"],
+    "releaseDate": "2023-02-15",
+    "developer": "Bloober Team",
+    "publisher": "Bloober Team S.A",
+    "price": 38.99,
+    "discount": 0,
+    "isFree": false,
+    "language": ["EN", "FR", "DE", "ES"],
+    "rating": 4.5,
+    "ageRating": {
+      "label": "18+",
+      "descriptors": [
+        "Blood",
+        "Strong Language",
+        "Violence"
+  ]},
+    "shortDescription": "The Medium is a story-focused third-person psychological horror game that features innovative dual-reality gameplay and an original soundtrack co-composed by Arkadiusz Reikowski and Akira Yamaoka.",
+     "fullDescription": [
+         {
+        "heading": "The Medium",
+        "content": "Wield unique psychic abilities reserved for those with the gift. Travel between the realities or explore them both at the very same time. Use the Out of Body experience to investigate places where your real-world self can’t go. Create energy shields and deliver powerful spirit blasts to survive the spirit world and its otherworldly dangers."}
+     ],
+    "features": ["Singleplayer", "Cloud Save"],
+    "video": "https://www.youtube.com/watch?v=MgZBEtJpbdM",
+    "carouselImages": [
+      "https://cdn2.unrealengine.com/egs-themedium-blooberteam-g1a-01-1920x1080-166951234.jpg?resize=1&w=480&h=270&quality=medium",
+      "https://cdn2.unrealengine.com/egs-themedium-blooberteam-g1a-02-1920x1080-166951244.jpg?resize=1&w=480&h=270&quality=medium",
+      "https://cdn2.unrealengine.com/egs-themedium-blooberteam-g1a-07-1920x1080-217320307.jpg?resize=1&w=480&h=270&quality=medium",
+        "https://cdn2.unrealengine.com/egs-themedium-blooberteam-g1a-09-1920x1080-217318266.jpg?resize=1&w=480&h=270&quality=medium"
+    ]
+  },
+  {
+    "id": "e60e2836-b803-4e4c-99c0-a349a7eaa63b",
+    "title": "The Last of Us™ Part II Remastered",
+    "logo": "https://cdn2.unrealengine.com/egs-thelastofuspartiiremastered-naughtydogllcnixxessoftwareirongalaxy-ic1-400x400-f9559e8c5104.png?resize=1&w=480&h=270&quality=medium",
+    "image": "https://cdn1.epicgames.com/offer/7713e3fa4b234e0d8f553044205d53b6/EGS_TheLastofUsPartIIRemastered_NaughtyDogLLCNixxesSoftwareIronGalaxy_S2_1200x1600-2e13755a6b3fec2ee9dbcc231a1cf39c?resize=1&w=360&h=480&quality=medium",
+    "type": "basedgame",
+    "genre": ["Action", "Adventure"],
+    "platforms": ["Windows"],
+    "releaseDate": "2025-01-10",
+    "developer": "Naughty Dog LLC, Nixxes Software, Iron Galaxy",
+    "publisher": "PlayStation Publishing LLC",
+    "price": 49.99,
+    "discount": 0,
+    "isFree": false,
+    "language": ["EN", "RU", "FR", "PL"],
+    "rating": 4.8,
+    "ageRating": {
+      "label": "18+",
+      "descriptors": [
+        "Intense Violence",
+        "Blood and Gore",
+        "Nudity",
+        "Sexual Content",
+        "Strong Language",
+        "Use of Drugs"
+  ]},
+    "shortDescription": "Experience the winner of over 300 Game of the Year awards, remastered with graphical enhancements, new gameplay modes like the roguelike survival experience No Return, and more.",
+     "fullDescription": [],
+    "features": ["Achievement", "Cloud Save", "Single Player"],
+    "video": "https://www.youtube.com/watch?v=-llaUBqovHw",
+    "carouselImages": [
+      "https://cdn2.unrealengine.com/egs-thelastofuspartiiremastered-naughtydogllcnixxessoftwareirongalaxy-g1a-01-1920x1080-31a0ce925a6f.jpg?resize=1&w=480&h=270&quality=medium",
+      "https://cdn2.unrealengine.com/egs-thelastofuspartiiremastered-naughtydogllcnixxessoftwareirongalaxy-g1a-03-1920x1080-b05654dd8141.jpg?resize=1&w=480&h=270&quality=medium",
+      "https://cdn2.unrealengine.com/egs-thelastofuspartiiremastered-naughtydogllcnixxessoftwareirongalaxy-g1a-04-1920x1080-8ebe1726476c.jpg?resize=1&w=480&h=270&quality=medium",
+        "https://cdn2.unrealengine.com/egs-thelastofuspartiiremastered-naughtydogllcnixxessoftwareirongalaxy-g1a-05-1920x1080-5ace9d4d524f.jpg?resize=1&w=480&h=270&quality=medium"
+    ]
+  },
+  {
+    "id": "0a4fd7af-6ac4-4edf-a050-3477addd8ddc",
+    "title": "Apex Legends™",
+    "logo": "https://cdn1.epicgames.com/spt-assets/5dcd88f4e2094a698ebffa43438edc33/apex-legends-logo-uerv4.png?resize=1&w=480&h=270&quality=medium",
+    "image": "https://cdn1.epicgames.com/spt-assets/5dcd88f4e2094a698ebffa43438edc33/apex-legends-15tbt.jpg?resize=1&w=360&h=480&quality=medium",
+    "type": "basedgame",
+    "genre": ["Action"],
+    "platforms": ["Windows"],
+    "releaseDate": "2018-05-19",
+    "developer": "Respawn",
+    "publisher": "Electronic Arts",
+    "price": 0,
+    "discount": 0,
+    "isFree": true,
+    "language": ["EN", "RU", "DE", "PL"],
+    "rating": 4.2,
+    "ageRating": {
+      "label": "12+",
+      "descriptors": [
+        "Blood",
+        "Violence",
+        "Users Interact",
+        "In-Game Purchases"
+  ]},
+     "shortDescription": "Conquer with character in Apex Legends, a free-to-play* Hero shooter where legendary characters with powerful abilities team up to battle for fame & fortune on the fringes of the Frontier.",
+     "fullDescription": [
+         {
+        "heading": "A Roster of Legendary Characters",
+        "content": "Master a growing roster of powerful Legends, each with their own unique personality, strengths, and abilities that are easy to pick up, but challenging to truly master."
+    },
+    {
+        "heading": "Build Your Crew",
+        "content": "Choose your Legend and combine their unique skills together with other players to form the ultimate crew."
+    },
+    {
+        "heading": "Strategic Squad Play",
+        "content": "Whether you're battling on a massive floating city in Battle Royale or dueling in limited time modes, you'll need to think fast. Master your Legend's unique abilities and coordinate with your teammates to discover new tactics and powerful combinations."
+    }
+     ],
+    "features": ["Competetive", "Online Multiplayer"],
+    "video": "https://www.youtube.com/watch?v=oQtHENM_GZU",
+    "carouselImages": [
+      "https://cdn1.epicgames.com/spt-assets/5dcd88f4e2094a698ebffa43438edc33/apex-legends-1hzrr.jpg?resize=1&w=480&h=270&quality=medium",
+      "https://cdn1.epicgames.com/spt-assets/5dcd88f4e2094a698ebffa43438edc33/apex-legends-1iz89.jpg?resize=1&w=480&h=270&quality=medium",
+      "https://cdn1.epicgames.com/spt-assets/5dcd88f4e2094a698ebffa43438edc33/apex-legends-3hsbv.jpg?resize=1&w=480&h=270&quality=medium",
+      "https://cdn1.epicgames.com/spt-assets/5dcd88f4e2094a698ebffa43438edc33/apex-legends-10mwi.jpg?resize=1&w=480&h=270&quality=medium"
+    ]
+  },
+  {
+    "id": "359ea6ad-ff3e-4f17-9888-08e85ac0cc32",
+    "title": "Valorant",
+    "logo": "https://cdn2.unrealengine.com/egs-valorant-riotgames-ic1-400x270-ee924f75e8d4.png?resize=1&w=480&h=270&quality=medium",
+    "image": "https://cdn1.epicgames.com/offer/cbd5b3d310a54b12bf3fe8c41994174f/EGS_VALORANT_RiotGames_S2_1200x1600-e4f9165ef5ef86fc591575bdec066bb6?resize=1&w=360&h=480&quality=medium",
+    "type": "basedgame",
+    "genre": ["Shooter", "Action"],
+    "platforms": ["Windows"],
+    "releaseDate": "2021-02-08",
+    "developer": "Riot Games",
+    "publisher": "Riot Games",
+    "price": 0,
+    "discount": 0,
+    "isFree": true,
+    "language": ["EN", "ZH", "FR", "ES"],
+    "rating": 4.5,
+    "ageRating": {
+      "label": "12+",
+      "descriptors": [
+        "Blood",
+        "Violence",
+        "Users Interact",
+        "In-Game Purchases"
+  ]},
+    "shortDescription": "VALORANT is a character-based 5v5 tactical shooter set on the global stage. Outwit, outplay, and outshine your competition with tactical abilities, precise gunplay, and adaptive teamwork.",
+     "fullDescription": [
+         {
+        "heading": "DEFY THE LIMITS FOR FREE IN VALORANT",
+        "content": "Blend your style and experience on a global, competitive stage. Attack and defend your side using sharp gunplay and tactical abilities. And, with one life per-round, you'll have to think faster than your opponent if you want to survive."
+    },
+    {
+        "heading": "CREATIVITY IS YOUR GREATEST WEAPON",
+        "content": "More than guns and bullets, you’ll choose an Agent armed with adaptive, swift, and lethal abilities that create opportunities to let your gunplay shine. Each map is purpose-built for team strategies, spectacular plays, and clutch moments. Make the plays others will imitate for years to come."
+    }
+     ],
+    "features": ["Competetive", "Multiplayer"],
+    "video": "https://www.youtube.com/watch?v=e_E9W2vsRbQ",
+    "carouselImages": [
+      "https://cdn2.unrealengine.com/egs-valorant-riotgames-g1a-02-1920x1080-580683fffe0f.jpg?resize=1&w=480&h=270&quality=medium",
+      "https://cdn2.unrealengine.com/egs-valorant-riotgames-g1a-05-1920x1080-42cf018303e5.jpg?resize=1&w=480&h=270&quality=medium",
+      "https://cdn2.unrealengine.com/egs-valorant-riotgames-g1a-06-1920x1080-c525ac170f37.jpg?resize=1&w=480&h=270&quality=medium",
+        "https://cdn2.unrealengine.com/egs-valorant-riotgames-g1a-08-1920x1080-a5e711aeae90.jpg?resize=1&w=480&h=270&quality=medium"
+    ]
+  },
+  {
+    "id": "f2151708-35e5-4df8-ba16-2dec7609168c",
+    "title": "Metro Exodus",
+    "logo": "https://cdn2.unrealengine.com/Diesel%2Fproduct%2Fsnapdragon%2Fgame-logo_metro-exodus_white-2850x1450-743d6f022397d13a1604aa766a1d3768b086211b.png?resize=1&w=480&h=270&quality=medium",
+    "image": "https://cdn1.epicgames.com/salesEvent/salesEvent/MetroExodus-PCEnhancedEdition_S2_1200x1600-64a550825c1427140460cc3a86cafdb5?resize=1&w=360&h=480&quality=medium",
+    "type": "basedgame",
+    "genre": ["Shooter", "Action", "First Person"],
+    "platforms": ["Windows"],
+    "releaseDate": "2019-02-15",
+    "developer": "4A Games",
+    "publisher": "Deep Silver",
+    "price": 29.99,
+    "discount": 0,
+    "isFree": false,
+    "language": ["EN", "RU", "UA", "PL"],
+    "rating": 4.8,
+    "ageRating": {
+    "label": "18+",
+    "descriptors": [
+        "Blood and Gore",
+        "Intense Violence",
+        "Strong Language",
+        "Use of Drugs"
+  ]},
+    "shortDescription": "Metro Exodus is an epic, story-driven first person shooter from 4A Games that blends deadly combat and stealth with exploration and survival horror in one of the most immersive game worlds ever created.",
+     "fullDescription": [],
+    "features": ["FPS", "Atmospheric", "Survival"],
+    "video": "https://www.youtube.com/watch?v=cM4yaHY6qas",
+    "carouselImages": [
+      "https://cdn2.unrealengine.com/Diesel%2Fproduct%2Fsnapdragon%2Fhome%2FM3_Carousel_01_1200x674_1547830973734-1200x674-628cade0c42a3c58b2a1bd24cc9aebb7e8332b6a.jpg?resize=1&w=480&h=270&quality=medium",
+      "https://cdn2.unrealengine.com/Diesel%2Fproduct%2Fsnapdragon%2Fhome%2FM3_Carousel_02_1200x674_1547830965646-1200x674-3e63f0877aa8b3b0e056b29f25b49b0564ac991d.jpg?resize=1&w=480&h=270&quality=medium",
+      "https://cdn2.unrealengine.com/Diesel%2Fproduct%2Fsnapdragon%2Fhome%2FM3_Carousel_03_1200x674_1547830969460-1200x674-bb7618315d6ea629f5b1a3573d8d1e12f4d9e03f.jpg?resize=1&w=480&h=270&quality=medium",
+      "https://cdn2.unrealengine.com/Diesel%2Fproduct%2Fsnapdragon%2Fhome%2FM3_Carousel_04_1200x674_1547830971850-1200x674-b7a7825cba039e6d6e6306a637e43e737be22884.jpg?resize=1&w=480&h=270&quality=medium"
+    ]
+  },
+  {
+    "id": "e0596de1-0bec-4757-900b-896bc6f337b4",
+    "title": "Dying Light 2 Stay Human - Reloaded Edition",
+    "logo": "https://cdn2.unrealengine.com/egs-dyinglight2stayhumanreloadededition-techland-ic1-200x200-114488f25bc7.png?resize=1&w=480&h=270&quality=medium",
+    "image": "https://cdn1.epicgames.com/offer/87b7846d2eba4bc49eead0854323aba8/EGS_DyingLight2StayHumanReloadedEdition_Techland_S2_1200x1600-76cef594ff94fbac64a8af1ebe4c7590?resize=1&w=360&h=480&quality=medium",
+    "type": "basedgame",
+    "genre": ["Action", "First Person", "Horror", "Open World", "RPG", "Survival"],
+    "platforms": ["Windows", "PS5"],
+    "releaseDate": "2022-04-19",
+    "developer": "Techland",
+    "publisher": "Techland",
+    "price": 34.99,
+    "discount": 0,
+    "isFree": false,
+    "language": ["EN", "FR", "JP", "RU"],
+    "rating": 4.6,
+    "ageRating": {
+      "label": "18+",
+      "descriptors": [
+        "Blood and Gore",
+        "Intense Violence",
+        "Strong Language",
+        "Suggestive Themes",
+        "Use of Alcohol"
+  ]},
+    "shortDescription": "Now with guns! With the Reloaded Edition, the arsenal at your disposal has grown massively. Be creative with your combat or outrun your foes as you enjoy the perks of more than 10 post-launch updates. Good luck out there, and stay human!",
+     "fullDescription": [
+         {
+        "heading": "A WORLD AFTER THE APOCALYPSE",
+        "content": "Fifteen years ago, humanity was devastated by the Fall — a catastrophic event that would change the world forever. With the Harran virus spreading around the globe, people quickly found out that all hope for tomorrow is lost. By 2036, only a few settlements remain, and humanity is slowly dying, making way for the new species out there — a horde of relentless zombies."
+    },
+    {
+        "heading": "DAY’S FOR THE LIVING, NIGHT’S FOR THE INFECTED",
+        "content": "Not all fights can be won. Sometimes it’s best to run and, thankfully, you have the skills for it. Parkour lets you escape when odds are not in your favor. Jump from rooftop to rooftop, swing across the cityscape, ride ziplines, and much more."
+    },
+    {
+        "heading": "GET BRUTAL AND BE CREATIVE ABOUT IT",
+        "content": "In a world as dangerous as this one, only the strongest survive. Whether you prefer to smash, slice or dismember those who stand in your way, you have to be creative about it to make it through. And who says you need weapons? Utilize the entirety of your parkour moveset to get the jump on your enemies. Learn the ways of combat and parkour to feel the crunch of skulls and slices of flesh as you swing weapons or use your moves to fend off any forms of danger."
+    }
+     ],
+    "features": ["Multiplayer", "Co-op", "Single Player", "Achievement", "Cloud Saves", "Controller Support"],
+    "video": "https://www.youtube.com/watch?v=68bZ1LKKh7Q",
+    "carouselImages": [
+      "https://cdn2.unrealengine.com/egs-dyinglight2stayhuman-techland-g1a-03-1920x1080-5acfeff80697.jpg?resize=1&w=480&h=270&quality=medium",
+      "https://cdn2.unrealengine.com/egs-dyinglight2stayhuman-techland-g1a-04-1920x1080-01df52f79ade.jpg?resize=1&w=480&h=270&quality=medium",
+      "https://cdn2.unrealengine.com/egs-dyinglight2stayhuman-techland-g1a-05-1920x1080-1c5ac325c83a.jpg?resize=1&w=480&h=270&quality=medium",
+      "https://cdn2.unrealengine.com/egs-dyinglight2stayhuman-techland-g1a-06-1920x1080-40f55c566ef9.jpg?resize=1&w=480&h=270&quality=medium"
+    ]
+  },
+  {
+    "id": "58abf8cb-4c33-4ac7-bdb0-52364ca414d1",
+    "title": "The Sims™ 4",
+    "logo": "https://cdn2.unrealengine.com/egs-thesims4-electronicarts-ic1-400x400-b8a3c66fbb00.png?resize=1&w=480&h=270&quality=medium",
+    "image": "https://cdn1.epicgames.com/offer/2a14cf8a83b149919a2399504e5686a6/EGS_TheSims4_ElectronicArts_S2_1200x1600-ceadc3bd1e6f885ad64d9f115f51f5c0?resize=1&w=360&h=480&quality=medium",
+    "type": "basedgame",
+    "genre": ["Simulation"],
+    "platforms": ["Windows"],
+    "releaseDate": "2023-02-10",
+    "developer": "Maxis",
+    "publisher": "Electronic Arts",
+    "price": 0,
+    "discount": 0,
+    "isFree": true,
+    "language": ["EN", "PL", "DE", "RU"],
+    "rating": 4.6,
+    "ageRating": {
+      "label": "12+",
+      "descriptors": [
+            "Crude Humor",
+            "Sexual Themes",
+            "Violence"
+  ]},
+    "shortDescription": "The Sims 4 is free to download! Unleash your imagination and create a unique world of Sims that’s an expression of you. Choose how Sims look, act, and dress, then manage the ups and downs of their everyday lives.",
+     "fullDescription": [
+         {
+        "heading": "Create Unique Sims",
+        "content": "A variety of Sims are yours to shape and mold, each with distinct appearances, dynamic personalities and inspiring aspirations. Use powerful customization features to bring your imagination to life. Create yourself, your favorite celebrities, your fantasy or your friends! Change your Sims’ clothing to reflect your mood. Give your Sims depth and purpose with quirky traits and great ambitions."
+    },
+    {
+        "heading": "Build the Perfect Home",
+        "content": "Design the ideal homes for your Sims using Build Mode. Construct the home of your dreams by planning the layout, choosing furnishings and altering the landscape and terrain. You can even add a pool, basement and garden. Hate what you’ve done with the place? Scrap it and rebuild effortlessly with new ideas and designs."
+    },
+    {
+        "heading": "Explore Vibrant Worlds",
+        "content": "Your Sims can visit new communities to expand their social circle, hang out with friends or throw unforgettable parties."
+    },
+         {
+        "heading": "Play with Life",
+        "content": "Your choices shape every aspect of your Sims’ lives, from birth to adulthood. Along the way, develop skills, pursue hobbies, find your Sims’ calling, start new families and much more."
+    } 
+     ],
+    "features": ["Single Player"],
+    "video": "https://www.youtube.com/watch?v=DyNv44QR14g",
+    "carouselImages": [
+      "https://cdn2.unrealengine.com/egs-thesims4-electronicarts-g1a-00-1920x1080-acc697b40374.jpg?resize=1&w=480&h=270&quality=medium",
+      "https://cdn2.unrealengine.com/egs-thesims4-electronicarts-g1a-01-1920x1080-b3d100d2f962.jpg?resize=1&w=480&h=270&quality=medium",
+      "https://cdn2.unrealengine.com/egs-thesims4-electronicarts-g1a-02-1920x1080-808aa26370f4.jpg?resize=1&w=480&h=270&quality=medium",
+        "https://cdn2.unrealengine.com/egs-thesims4-maxis-g1c-00-1920x1080-7f6d3b7aedec.jpg?resize=1&w=480&h=270&quality=medium"
+    ]
+  },
+  {
+    "id": "c4e7e419-4778-4120-b7e6-799a8bf1c002",
+    "title": "Dead Space",
+    "logo": "https://cdn2.unrealengine.com/egs-deadspace-motivestudio-ic1-400x400-06964eb642fc.png?resize=1&w=480&h=270&quality=medium",
+    "image": "https://cdn1.epicgames.com/offer/4ec958d5e4b6429aadbc116cee0b6ea0/EGS_DeadSpace_MotiveStudio_S2_1200x1600-551c16d068cab45b02149e15a43c2413?resize=1&w=360&h=480&quality=medium",
+    "type": "basedgame",
+    "genre": ["Horror", "Action", "Survival"],
+    "platforms": ["Windows", "PS5"],
+    "releaseDate": "2023-01-27",
+    "developer": "Motive Studio",
+    "publisher": "Electronic Arts",
+    "price": 59.99,
+    "discount": 10,
+    "isFree": false,
+    "language": ["EN", "DE", "RU"],
+    "rating": 4.7,
+    "ageRating": {
+      "label": "18+",
+      "descriptors": [
+        "Blood and Gore",
+        "Intense Violence",
+        "Strong Language",
+        "Horror Themes",
+        "Mature Content"
+  ]},
+     "shortDescription": "The sci-fi survival horror classic returns, completely rebuilt to offer an even more immersive experience – including visual, audio, and gameplay improvements.",
+     "fullDescription": [
+         {
+        "heading": "Humanity Ends Here",
+        "content": "Isaac Clarke is an everyman engineer on a mission to repair the USG Ishimura, only to discover the ship's crew has been slaughtered and his beloved partner, Nicole, is lost somewhere on board."
+    },
+    {
+        "heading": "IMMERSE YOURSELF IN NEXT-GEN SCI-FI HORROR",
+        "content": "A sci-fi horror classic returns fully rebuilt from the ground up with elevated visual fidelity and 3D atmospheric audio. From the frighteningly detailed rooms and workspaces of a slaughtered crew to the eerie atmospheric sounds of a desolate spaceship, you’ll explore a stunning sci-fi setting full of unpredictable and tense moments without interruption."
+    },
+    {
+        "heading": "UNRAVEL THE MYSTERY ABOARD THE USG ISHIMURA",
+        "content": "What starts as a routine repair mission for engineer Isaac Clarke and the crew of the USG Kellion quickly turns into a battle for survival as the truth behind the horrors on board begins to unravel. Following an expanded narrative experience, uncover the dark secrets behind the events aboard the USG Ishimura through the final logs of the ill-fated crew and your encounters with the few survivors that remain."
+    },
+         {
+        "heading": "IMPROVISE TO SURVIVE",
+        "content": "Confront the nightmare aboard the USG Ishimura with genre-defining strategic gameplay. Repurpose and upgrade Isaac’s engineering tools to creatively defeat enemies with precision."
+    } 
+     ],
+    "features": ["Achievement", "Single Player"],
+    "video": "https://www.youtube.com/watch?v=ctQl9wa3ydE",
+    "carouselImages": [
+      "https://cdn2.unrealengine.com/egs-deadspace-motivestudio-g1a-01-1920x1080-90654a08bd6c.jpg?resize=1&w=480&h=270&quality=medium",
+      "https://cdn2.unrealengine.com/egs-deadspace-motivestudio-g1a-02-1920x1080-35fd266e8c77.jpg?resize=1&w=480&h=270&quality=medium",
+      "https://cdn2.unrealengine.com/egs-deadspace-motivestudio-g1a-05-1920x1080-2d8cffe985a8.jpg?resize=1&w=480&h=270&quality=medium",
+        "https://cdn2.unrealengine.com/egs-deadspace-motivestudio-g1a-06-1920x1080-10917e2ce7fd.jpg?resize=1&w=480&h=270&quality=medium"
+    ]
+  },
+  {
+    "id": "1392ab64-2fe0-4678-8e5d-7695a9dc2192",
+    "title": "Stellar Blade",
+    "logo": "https://cdn1.epicgames.com/spt-assets/5013c0fbf0aa4a5e84d948ab5bfe99c6/project-sailor-logo-1wwr8.png?resize=1&w=480&h=270&quality=medium",
+    "image": "https://cdn1.epicgames.com/spt-assets/5013c0fbf0aa4a5e84d948ab5bfe99c6/project-sailor-q8ze4.jpg?resize=1&w=360&h=480&quality=medium",
+    "type": "basedgame",
+    "genre": ["Action", "Adventure"],
+    "platforms": ["PS5"],
+    "releaseDate": "2024-04-26",
+    "developer": "Shift Up",
+    "publisher": "Sony Interactive Entertainment",
+    "price": 69.99,
+    "discount": 0,
+    "isFree": false,
+    "language": ["EN", "KO", "JP"],
+    "rating": 4.8,
+    "ageRating": {
+      "label": "18+",
+      "descriptors": [
+        "Strong Violence",
+        "Blood and Gore",
+        "Suggestive Themes",
+        "Partial Nudity",
+        "Strong Language"
+  ]},
+    "shortDescription": "Save humanity from extinction in post-apocalyptic action-adventure Stellar Blade™. Experience blistering combat and a twisting storyline as you unravel the mysteries of Earth’s downfall.",
+     "fullDescription": [
+         {
+        "heading": "Reclaim earth for humankind",
+        "content": "Save humanity from extinction in post-apocalyptic action-adventure Stellar Blade™. Experience blistering combat and a twisting storyline as you unravel the mysteries of Earth’s downfall.Save humanity from extinction in post-apocalyptic action-adventure Stellar Blade™. Experience blistering combat and a twisting storyline as you unravel the mysteries of Earth’s downfall."
+    } ],
+    "features": ["Cloud Saves", "Controller Support", "Single Player"],
+    "video": "https://www.youtube.com/watch?v=DSznLWimMlU",
+    "carouselImages": [
+      "https://cdn1.epicgames.com/spt-assets/5013c0fbf0aa4a5e84d948ab5bfe99c6/stellar-blade-1d6s5.jpg?resize=1&w=480&h=270&quality=medium",
+      "https://cdn1.epicgames.com/spt-assets/5013c0fbf0aa4a5e84d948ab5bfe99c6/stellar-blade-1h7pc.jpg?resize=1&w=480&h=270&quality=medium",
+      "https://cdn1.epicgames.com/spt-assets/5013c0fbf0aa4a5e84d948ab5bfe99c6/stellar-blade-1qgqs.jpg?resize=1&w=480&h=270&quality=medium",
+      "https://cdn1.epicgames.com/spt-assets/5013c0fbf0aa4a5e84d948ab5bfe99c6/stellar-blade-1vvte.jpg?resize=1&w=480&h=270&quality=medium"
+    ]
+  },
+  {
+    "id": "6a16de67-5ab3-4ea4-8f72-94ccc12efced",
+    "title": "Dead by Daylight",
+    "logo": "https://cdn2.unrealengine.com/egs-deadbydaylight-behaviourinteractive-ic1-200x200-a41440806a53.png?resize=1&w=480&h=270&quality=medium",
+    "image": "https://cdn1.epicgames.com/offer/611482b8586142cda48a0786eb8a127c/EGS_DeadbyDaylight_BehaviourInteractive_S2_1200x1600-a1c30209e3b9fb63144daa9b5670f503?resize=1&w=360&h=480&quality=medium",
+    "type": "basedgame",
+    "genre": ["Action", "Survival"],
+    "platforms": ["Windows"],
+    "releaseDate": "2016-06-14",
+    "developer": "Behaviour Interactive",
+    "publisher": "Behaviour Interactive",
+    "price": 19.99,
+    "discount": 10,
+    "isFree": false,
+    "language": ["EN", "FR", "DE", "RU"],
+    "rating": 4.5,
+    "ageRating": {
+      "label": "18+",
+      "descriptors": [
+        "Blood and Gore",
+        "Intense Violence",
+        "Strong Language",
+        "Horror Themes",
+        "Mature Content"
+  ]},
+    "shortDescription": "Dead by Daylight is a multiplayer (4vs1) horror game where one player takes on the role of the savage Killer, and the other four players play as Survivors, trying to escape the Killer and avoid being caught and killed.",
+     "fullDescription": [
+         {
+        "heading": "Death Is Not an Escape.",
+        "content": "Dead by Daylight is a multiplayer (4vs1) horror game where one player takes on the role of the savage Killer, and the other four players play as Survivors, trying to escape the Killer and avoid being caught, tortured and killed."
+    },
+    {
+        "heading": "Survive Together… Or Not",
+        "content": "Survivors can either cooperate with the others or be selfish. Your chance of survival will vary depending on whether you work together as a team or if you go at it alone. Will you be able to outwit the Killer and escape their Killing Ground?"
+    },
+    {
+        "heading": "Where Am I?",
+        "content": "Each level is procedurally generated, so you'll never know what to expect. Random spawn points mean you will never feel safe as the world and its danger change every time you play."
+    },
+         {
+        "heading": "A Feast for Killers",
+        "content": "Dead by Daylight draws from all corners of the horror world. As a Killer you can play as anything from a powerful Slasher to terrifying paranormal entities. Familiarize yourself with your Killing Grounds and master each Killer's unique power to be able to hunt, catch and sacrifice your victims."
+    } 
+     ],
+    "features": ["Online Multiplayer"],
+    "video": "https://www.youtube.com/watch?v=_lsEERSC0Go",
+    "carouselImages": [
+      "https://cdn2.unrealengine.com/egs-deadbydaylight-behaviourinteractive-g1a-02-1920x1080-04e754d3e831.jpg?resize=1&w=480&h=270&quality=medium",
+      "https://cdn2.unrealengine.com/egs-deadbydaylight-behaviourinteractive-g1a-03-1920x1080-725ff21ce818.jpg?resize=1&w=480&h=270&quality=medium",
+      "https://cdn2.unrealengine.com/egs-deadbydaylight-behaviourinteractive-g1a-04-1920x1080-4332487e7bd9.jpg?resize=1&w=480&h=270&quality=medium",
+        "https://cdn2.unrealengine.com/egs-deadbydaylight-behaviourinteractive-g1a-08-1920x1080-456152115509.jpg?resize=1&w=480&h=270&quality=medium"
+    ]
+  },
+        {
+    "id": "58ae896a-771d-429b-af17-a5dc3ca1e94b",
+    "title": "Dying Light: The Beast",
+    "logo": "https://cdn1.epicgames.com/spt-assets/de233d312aff40918d6969f476912143/dying-light-the-beast-logo-qtmcg.png?resize=1&w=480&h=270&quality=medium",
+    "image": "https://cdn1.epicgames.com/spt-assets/de233d312aff40918d6969f476912143/dying-light-the-beast-1vm2l.jpg?resize=1&w=360&h=480&quality=medium",
+    "type": "basedgame",
+    "genre": ["Action", "Adventure", "First Person", "Horrow"],
+    "platforms": ["Windows"],
+    "releaseDate": "upcoming",
+    "developer": "Techland",
+    "publisher": "Techland",
+    "price": 49.99,
+    "discount": 0,
+    "isFree": false,
+    "language": ["EN", "FR", "DE", "RU"],
+    "rating": 4.4,
+    "ageRating": {
+      "label": "18+",
+      "descriptors": [
+        "Blood and Gore",
+        "Intense Violence",
+        "Strong Language",
+        "Suggestive Themes",
+        "Use of Alcohol"
+  ]},
+    "shortDescription": "Crane is back! Continue his story in this new standalone adventure.",
+     "fullDescription": [
+         {
+        "heading": "Crane is back! Continue his story in this new standalone adventure.",
+        "content": "Dying Light: The Beast is a thrilling standalone zombie adventure set in the post-apocalyptic Castor Woods, a once-popular tourist destination. After 13 years of enduring experiments, you escape and hunt down your captors to seek retribution, only to discover there’s far more at stake. While the region is not as populated as it once was, there are still people and factions here, as well as plenty of horrors."
+    },
+    {
+        "heading": "BECOME THE LEGENDARY HERO",
+        "content": "You are Kyle Crane, the man whose selflessness during the initial virus outbreak saved many from a fate worse than death. After more than a decade in captivity, you find yourself in a world that’s changed, and not for the better. Now, you’ll need to use the survival skills that kept you alive all those years ago to save even more innocent lives."
+    },
+    {
+        "heading": "EXPLORE A TIGHTLY-CRAFTED OPEN WORLD",
+        "content": "Welcome to Castor Woods! This once-bustling tourist destination is home to a diminishing number of survivors and an increasing population of zombies. Featuring natural landmarks, small villages and industrial complexes, the setting offers diverse traversal options, whether it’s using your parkour skills to gain the upper hand on your enemies or hopping into an abandoned 4x4 to outrun the horrors of the night."
+    },
+         {
+        "heading": "UNLEASH THE BEAST TO SURVIVE",
+        "content": "They caged you like an animal. Years of brutal experimentation took its toll, but the zombie DNA and yours are now intertwined so that you are able to unleash a beast-like power. It flows through your veins. No one can take it from you. Use it. And you’ll discover it’s not just a curse."
+    } 
+     ],
+    "features": ["Single Player", "Co-op", "Controller Support"],
+    "video": "https://www.youtube.com/watch?v=M0GCr2P9510",
+    "carouselImages": [
+      "https://cdn1.epicgames.com/spt-assets/de233d312aff40918d6969f476912143/dying-light-the-beast-1poa0.jpg?resize=1&w=480&h=270&quality=medium",
+      "https://cdn1.epicgames.com/spt-assets/de233d312aff40918d6969f476912143/dying-light-the-beast-112jr.jpg?resize=1&w=480&h=270&quality=medium",
+      "https://cdn1.epicgames.com/spt-assets/de233d312aff40918d6969f476912143/dying-light-the-beast-1v922.jpg?resize=1&w=480&h=270&quality=medium",
+        "https://cdn1.epicgames.com/spt-assets/de233d312aff40918d6969f476912143/dying-light-the-beast-12aln.jpg?resize=1&w=480&h=270&quality=medium"
+    ]
+  },
+        {
+    "id": "df09e8b5-1f04-4f1c-923c-03d88d3fc7d0",
+    "title": "WUCHANG: Fallen Feathers",
+    "logo": "https://cdn1.epicgames.com/spt-assets/61237a4bad9f482a9ad1a1ac74520bba/wuchang-fallen-feathers-logo-n8maf.png?resize=1&w=480&h=270&quality=medium",
+    "image": "https://cdn1.epicgames.com/spt-assets/61237a4bad9f482a9ad1a1ac74520bba/wuchang-fallen-feathers-462u7.jpg?resize=1&w=360&h=480&quality=medium",
+    "type": "basedgame",
+    "genre": ["Action", "Adventure", "RPG"],
+    "platforms": ["Windows"],
+    "releaseDate": "2025-07-24",
+    "developer": "Leenzee",
+    "publisher": "505 Games",
+    "price": 34.99,
+    "discount": 0,
+    "isFree": false,
+    "language": ["EN", "FR", "KO", "RU"],
+    "rating": 3.7,
+    "ageRating": {
+      "label": "18+",
+      "descriptors": [
+        "Blood and Gore",
+        "Intense Violence",
+        "Strong Language",
+        "Suggestive Themes",
+        "Use of Alcohol"
+  ]},
+    "shortDescription": "WUCHANG: Fallen Feathers is a soulslike, action RPG set in the land of Shu during the dark and tumultuous late Ming Dynasty, plagued with warring factions and a mysterious illness spawning monstrous creatures.",
+     "fullDescription": [
+         {
+        "heading": "",
+        "content": "WUCHANG: Fallen Feathers is a soulslike, action RPG set in the land of Shu during the dark and tumultuous late Ming Dynasty, plagued with warring factions and a mysterious illness spawning monstrous creatures."
+    },
+    {
+        "heading": "",
+        "content": "Immerse yourself in a rich storyline, dynamic combat system, and breathtaking visuals that offer an unforgettable adventure through lands veiled in chaos and death. Will you reveal the truths of Wuchang's curse and bring peace to Shu, or will you succumb to the encroaching horrors? The fate of the land rests in your hands."
+    },
+    {
+        "heading": "",
+        "content": "Battle against grotesque abominations, drawing on ancient lore to challenge the creeping darkness that threatens the humanity that remains. Your quest for truth will take you through forgotten temples, overgrown ruins, and shadowed paths fraught with peril. As you piece together Wuchang's lost memories, your choices will lead you to one of several endings—each determined by the choices made, secrets unearthed and the allies you choose to trust." 
+    }],
+    "features": ["Single Player", "Cloud Saves"],
+    "video": "https://www.youtube.com/watch?v=KMMMNGV9LqI",
+    "carouselImages": [
+      "https://cdn1.epicgames.com/spt-assets/61237a4bad9f482a9ad1a1ac74520bba/wuchang-1ecd6.jpg?resize=1&w=480&h=270&quality=medium",
+      "https://cdn1.epicgames.com/spt-assets/61237a4bad9f482a9ad1a1ac74520bba/wuchang-1tw5a.jpg?resize=1&w=480&h=270&quality=medium",
+      "https://cdn1.epicgames.com/spt-assets/61237a4bad9f482a9ad1a1ac74520bba/wuchang-8f2td.jpg?resize=1&w=480&h=270&quality=medium",
+        "https://cdn1.epicgames.com/spt-assets/61237a4bad9f482a9ad1a1ac74520bba/wuchang-11i7i.jpg?resize=1&w=480&h=270&quality=medium"
+    ]
+  },
+        {
+    "id": "71cfcc21-f1c2-456f-9204-6f0e24c2b079",
+    "title": "Battlefield™ 6",
+    "logo": "https://cdn2.unrealengine.com/egs-battlefield6-battlefieldstudios-ic1-400x400-14385c7eadce.png?resize=1&w=480&h=270&quality=medium",
+    "image": "https://cdn1.epicgames.com/offer/a14a02aa3c8143729605eaf7c93d7501/EGS_Battlefield6_BattlefieldStudios_S2_1200x1600-a88625a836120c55650c83d17a010c25?resize=1&w=360&h=480&quality=medium",
+    "type": "basedgame",
+    "genre": ["Shooter"],
+    "platforms": ["Windows"],
+    "releaseDate": "upcoming",
+    "developer": "Battlefield Studios",
+    "publisher": "Electronic Arts",
+    "price": 59.99,
+    "discount": 0,
+    "isFree": false,
+    "language": ["EN", "FR", "DE", "RU"],
+    "rating": 4.1,
+    "ageRating": {
+      "label": "18+",
+      "descriptors": [
+        "Blood and Gore",
+        "Intense Violence",
+        "Strong Language",
+        "Suggestive Themes",
+        "Use of Alcohol"
+  ]},
+    "shortDescription": "Lock & load for the ultimate all-out warfare experience. Tune in on July 31 for the Multiplayer Reveal.",
+     "fullDescription": [],
+    "features": ["Multiplayer"],
+    "video": "https://www.youtube.com/watch?v=pgNCgJG0vnY",
+    "carouselImages": [
+      "https://cdn2.unrealengine.com/egs-battlefield6-battlefieldstudios-g1a-00-1920x1080-71f660e12b95.jpg?resize=1&w=480&h=270&quality=medium",
+      "https://cdn2.unrealengine.com/egs-battlefield6-battlefieldstudios-g1a-01-1920x1080-a44498a7c61b.jpg?resize=1&w=480&h=270&quality=medium",
+      "https://cdn2.unrealengine.com/egs-battlefield6-battlefieldstudios-g1a-02-1920x1080-cd9b70a09320.jpg?resize=1&w=480&h=270&quality=medium",
+        "https://cdn2.unrealengine.com/egs-battlefield6-battlefieldstudios-g1a-03-1920x1080-500bb8390d95.jpg?resize=1&w=480&h=270&quality=medium"
+    ]
+  },
+        {
+    "id": "0ae46f26-7b0b-45ed-9d36-9348c8a5e8e8",
+    "title": "Out of Time",
+    "logo": "https://cdn1.epicgames.com/spt-assets/bdec776c26534fbf9c36d08fb9ba2899/out-of-time-logo-7deyy.png?resize=1&w=480&h=270&quality=medium",
+    "image": "https://cdn1.epicgames.com/spt-assets/bdec776c26534fbf9c36d08fb9ba2899/out-of-time-1exk6.png?resize=1&w=360&h=480&quality=medium",
+    "type": "basedgame",
+    "genre": ["Fantasy", "Action", "Rogue-Lite"],
+    "platforms": ["Windows"],
+    "releaseDate": "upcoming",
+    "developer": "Manticore Games",
+    "publisher": "Manticore Games",
+    "price": 11.99,
+    "discount": 0,
+    "isFree": false,
+    "language": ["EN", "FR", "DE", "RU"],
+    "rating": 3.1,
+    "ageRating": {
+      "label": "18+",
+      "descriptors": [
+        "Blood and Gore",
+        "Intense Violence"
+  ]},
+    "shortDescription": "Battle through collapsing and colliding timelines in this chaotic, multiplayer co-op roguelike where your gear shapes your power, your team ensures your survival, and every run rewrites reality.",
+     "fullDescription": [
+         {
+        "heading": "Welcome to the end of everything. Please gear up responsibly.",
+        "content": "Out of Time throws you and your squad into the Tangle - a cosmic anomaly where the rules of space, time, and logic have been shattered following a catastrophe, known as The Shattering. Trapped in this unstable new reality, you must ready yourselves to fight through collapsing worlds in the hope to survive. Mix and match gear sets, tether to allies for shared power boosts, and navigate shifting eras filled with tangle-infested hordes, mini-game challenges, and a healthy dose of chaos."
+    },
+    {
+        "heading": "Gear-Defined Chaos",
+        "content": "Build your playstyle around dozens of unique weapons and gear sets, each unlocking totally unique abilities and mini-games. Combine DPS firepower, supportive heals and buffs, or a healthy dose of Tank to create your own playstyle."
+    },
+    {
+        "heading": "Tethered Teamwork",
+        "content": "Stay close or suffer the consequences. The Tether System rewards proximity with shared buffs, healing, and stats - but break away and you risk not only yourself, but your entire team. Collaboration isn’t optional - it’s the core of survival." 
+    }],
+    "features": ["Multiplayer", "Co-op"],
+    "video": "https://www.youtube.com/watch?v=u6dqiw_fDOM",
+    "carouselImages": [
+      "https://cdn1.epicgames.com/spt-assets/bdec776c26534fbf9c36d08fb9ba2899/out-of-time-1jo4j.jpg?resize=1&w=480&h=270&quality=medium",
+      "https://cdn1.epicgames.com/spt-assets/bdec776c26534fbf9c36d08fb9ba2899/out-of-time-10uzj.jpg?resize=1&w=480&h=270&quality=medium",
+      "https://cdn1.epicgames.com/spt-assets/bdec776c26534fbf9c36d08fb9ba2899/out-of-time-10x3d.jpg?resize=1&w=480&h=270&quality=medium",
+        "https://cdn1.epicgames.com/spt-assets/bdec776c26534fbf9c36d08fb9ba2899/out-of-time-22fe0.jpg?resize=1&w=480&h=270&quality=medium"
+    ]
+  },
+      {
+    "id": "ef3cd401-e94d-48f3-b17f-11187d79b5f9",
+    "title": "Marvel Rivals",
+    "logo": "https://cdn1.epicgames.com/spt-assets/eb15454c010f4a748498cd3a62096a52/marvel-rivals-logo-1cozi.png?resize=1&w=480&h=270&quality=medium",
+    "image": "https://cdn1.epicgames.com/spt-assets/eb15454c010f4a748498cd3a62096a52/marvel-rivals-wq3mr.png?resize=1&w=360&h=480&quality=medium",
+    "type": "basedgame",
+    "genre": ["Action", "Shooter"],
+    "platforms": ["Windows"],
+    "releaseDate": "2024-06-24",
+    "developer": "NetEase Games",
+    "publisher": "NetEase Games",
+    "price": 0,
+    "discount": 0,
+    "isFree": true,
+    "language": ["EN", "FR", "DE", "RU"],
+    "rating": 4.1,
+    "ageRating": {
+      "label": "12+",
+      "descriptors": [
+        "Fantasy Violence",
+        "Mild Language"
+  ]},
+    "shortDescription": "Marvel Rivals is a Super Hero Team-Based PVP Shooter! Assemble an all-star Marvel squad, devise countless strategies by combining powers to form unique Team-Up skills and fight in destructible, ever-changing battlefields across the continually evolving Marvel universe!",
+     "fullDescription": [],
+    "features": ["Multiplayer", "Co-op", "Competetive"],
+    "video": "https://www.youtube.com/watch?v=kIhLPAWKKsg",
+    "carouselImages": [
+      "https://cdn1.epicgames.com/spt-assets/eb15454c010f4a748498cd3a62096a52/marvel-rivals-1icjl.jpg?resize=1&w=480&h=270&quality=medium",
+      "https://cdn1.epicgames.com/spt-assets/eb15454c010f4a748498cd3a62096a52/marvel-rivals-1p1an.jpg?resize=1&w=480&h=270&quality=medium",
+      "https://cdn1.epicgames.com/spt-assets/eb15454c010f4a748498cd3a62096a52/marvel-rivals-1qxda.jpg?resize=1&w=480&h=270&quality=medium",
+        "https://cdn1.epicgames.com/spt-assets/eb15454c010f4a748498cd3a62096a52/marvel-rivals-1s96x.png?resize=1&w=480&h=270&quality=medium"
+    ]
+  },
+        {
+    "id": "a3092996-b17e-4abd-b989-af87bb65b83c",
+    "title": "Wuthering Waves",
+    "logo": "https://cdn1.epicgames.com/spt-assets/c1586295960b46f88bbfeec32c199e0e/wuthering-waves-logo-69l28.png?resize=1&w=480&h=270&quality=medium",
+    "image": "https://cdn1.epicgames.com/spt-assets/c1586295960b46f88bbfeec32c199e0e/wuthering-waves-uw6vy.jpg?resize=1&w=360&h=480&quality=medium",
+    "type": "basedgame",
+    "genre": ["Action", "Open World", "RPG"],
+    "platforms": ["Windows"],
+    "releaseDate": "2024-05-23",
+    "developer": "KURO GAMES",
+    "publisher": "KURO GAMES",
+    "price": 0,
+    "discount": 0,
+    "isFree": true,
+    "language": ["EN", "FR", "DE", "RU"],
+    "rating": 4.2,
+    "ageRating": {
+      "label": "12+",
+      "descriptors": [
+        "Fantasy Violence",
+        "Mild Language"
+  ]},
+    "shortDescription": "Wuthering Waves is a story-rich open-world action RPG with a high degree of freedom. You wake from your slumber as Rover, joined by a vibrant cast of Resonators on a journey to reclaim your lost memories and surmount the Lament.",
+     "fullDescription": [
+         {
+        "heading": "",
+        "content": "Welcome aboard, roving voyager. Upon the shores lay the silent embers of a world during the Ebb Tide. Desolated by the Lament, the erstwhile creations and earthly beings are left static."
+    },
+    {
+        "heading": "",
+        "content": "But they strike back, strong enough to penetrate the silence. Humanity has risen anew from the ashes of the apocalypse. And you, Rover, are poised for an adventure of Awakening. Companions to meet, enemies to conquer, new powers to gain, hidden truths to unveil, and unseen spectacles to behold... A vast world of endless possibilities awaits. The choice rests in your hands. Be the answer, be the leader, and follow the sounds to arrive at a new future. As Wuthering Waves echo endlessly, mankind set sail on a new journey."
+    },
+    {
+        "heading": "",
+        "content": "Embrace high degrees of freedom in immersive overworld explorations. Utilize flight, grapple and wall dash to travel great distances and overcome obstacles with little strain for stamina consumed." 
+    }],
+    "features": ["Controller Support", "Co-op"],
+    "video": "https://www.youtube.com/watch?v=R8htow_6tRc",
+    "carouselImages": [
+      "https://cdn1.epicgames.com/spt-assets/c1586295960b46f88bbfeec32c199e0e/wuthering-waves-1d8lw.jpg?resize=1&w=480&h=270&quality=medium",
+      "https://cdn1.epicgames.com/spt-assets/c1586295960b46f88bbfeec32c199e0e/wuthering-waves-17j4h.jpg?resize=1&w=480&h=270&quality=medium",
+      "https://cdn1.epicgames.com/spt-assets/c1586295960b46f88bbfeec32c199e0e/wuthering-waves-13482.jpg?resize=1&w=480&h=270&quality=medium",
+        "https://cdn1.epicgames.com/spt-assets/c1586295960b46f88bbfeec32c199e0e/wuthering-waves-zjsf9.jpg?resize=1&w=480&h=270&quality=medium"
+    ]
+  },
+        {
+    "id": "33d3729d-7afd-4c7e-8eac-7146b09e2390",
+    "title": "Borderlands®4",
+    "logo": "https://cdn1.epicgames.com/spt-assets/20d989fc07a447b2af3c59e4fd5f49c7/borderlands-4-logo-58fgu.png?resize=1&w=480&h=270&quality=medium",
+    "image": "https://cdn1.epicgames.com/spt-assets/20d989fc07a447b2af3c59e4fd5f49c7/borderlands-4-fnnpo.jpg?resize=1&w=360&h=480&quality=medium",
+    "type": "basedgame",
+    "genre": ["Shooter", "RPG"],
+    "platforms": ["Windows"],
+    "releaseDate": "upcoming",
+    "developer": "Gearbox",
+    "publisher": "2K",
+    "price": 69.99,
+    "discount": 0,
+    "isFree": false,
+    "language": ["EN", "FR", "DE", "RU"],
+    "rating": 4.1,
+    "ageRating": {
+      "label": "12+",
+      "descriptors": [
+        "Fantasy Violence",
+        "Mild Language"
+  ]},
+    "shortDescription": "Borderlands 4 is a mayhem-fueled looter shooter, jam-packed with billions of weapons, deadly enemies, and intense co-op action. Break free from a dangerous hidden planet as one of four new badass Vault Hunters.",
+     "fullDescription": [
+         {
+        "heading": "BE A BADASS",
+        "content": "Become an unstoppable force of battle, blasting through enemies with an all-new arsenal of outrageous weaponry. Move across the Borderlands like never before—double jumping, gliding, dodging, grappling, and more—dealing death from every direction. Explode each encounter with devastating Action Skills that unleash your Vault Hunter's unique abilities. Craft your perfect build with branching skill trees and a deep, rewarding loot chase full of wild weapons and powerful gear."
+    },
+    {
+        "heading": "FIGHT SOLO OR CO-OP",
+        "content": "Wreaking havoc across Kairos is awesome alone and even better with friends in 4-player online co-op.** Borderlands 4 is designed for co-op from the ground up; whether you're hunting for loot, tackling missions, or wandering freely, level scaling and individual difficulty keeps the party together and having fun."
+    },
+    {
+        "heading": "LESS BORDERS, MORE LANDS",
+        "content": "Freely explore a vast and dangerous world rife with warring factions. Hop on your hover bike and ride through lush fields, towering peaks, and deadly deserts full of fearsome enemies, dynamic events, and engaging quests with unforgettable characters. Unite the people of Kairos and ignite a revolution, tackling this adventure however you see fit in a seamless Borderlands experience." 
+    }],
+    "features": ["Controller Support", "Co-op"],
+    "video": "https://www.youtube.com/watch?v=onY6y4NZ-t4",
+    "carouselImages": [
+      "https://cdn1.epicgames.com/spt-assets/20d989fc07a447b2af3c59e4fd5f49c7/borderlands-4-1d8lr.jpg?resize=1&w=480&h=270&quality=medium",
+      "https://cdn1.epicgames.com/spt-assets/20d989fc07a447b2af3c59e4fd5f49c7/borderlands-4-1ual5.jpg?resize=1&w=480&h=270&quality=medium",
+      "https://cdn1.epicgames.com/spt-assets/20d989fc07a447b2af3c59e4fd5f49c7/borderlands-4-4xqdn.jpg?resize=1&w=480&h=270&quality=medium",
+        "https://cdn1.epicgames.com/spt-assets/20d989fc07a447b2af3c59e4fd5f49c7/borderlands-4-cwir2.jpg?resize=1&w=480&h=270&quality=medium"
+    ]
+  },
+        {
+    "id": "e4615327-7444-490b-a7aa-ef41625aa167",
+    "title": "Tides of Annihilation",
+    "logo": "https://cdn1.epicgames.com/spt-assets/2f8a03caff764b6ba175c9ee1784d99b/tides-of-annihilation-logo-13udy.png?resize=1&w=480&h=270&quality=medium",
+    "image": "https://cdn1.epicgames.com/spt-assets/2f8a03caff764b6ba175c9ee1784d99b/tides-of-annihilation-2h07l.png?resize=1&w=360&h=480&quality=medium",
+    "type": "basedgame",
+    "genre": ["Action", "Adventure", "RPG"],
+    "platforms": ["Windows"],
+    "releaseDate": "upcoming",
+    "developer": "Eclipse Glow Games",
+    "publisher": "Eclipse Glow Games",
+    "price": 49.99,
+    "discount": 0,
+    "isFree": false,
+    "language": ["EN", "RU"],
+    "rating": 4.4,
+    "ageRating": {
+      "label": "16+",
+      "descriptors": [
+        "Strong Violence"
+  ]},
+    "shortDescription": "Tides of Annihilation is a fantasy action-adventure inspired by Arthurian legend. Uncover the mystery of an otherworldly invasion in a shattered London, unleashing hordes of enemies. As Gwendolyn, fight alongside spectral knights to piece a broken world back together.",
+     "fullDescription": [
+         {
+        "heading": "About this game",
+        "content": "London lies in ruin, torn apart by an abrupt invasion from another realm. As Gwendolyn, the city’s last surviving inhabitant, you will face off against otherworldly foes as she navigates a world where reality and fantasy intertwine, unravelling the mysteries binding this shattered existence."
+    },
+    {
+        "heading": "Unveil the Secret of Tides and Piece Together a Broken World",
+        "content": "A once-vibrant London has been torn asunder into an eerie reflection of itself—its buildings distorted, lifeforms transformed, and its history shrouded in shadow. Venture into this devastated world to uncover hidden truths and find a way to save your family, city, and the very fabric of reality itself."
+    },
+    {
+        "heading": "Harness the Power of Knights and Build Your Order",
+        "content": "Experience a unique knightly combat system that allows you to command a band of over ten legendary knights. Inspired by Arthurian lore, each knight brings unique skills and abilities to your team. Combine their powers to craft your own battle strategies, unleashing awe-inspiring cooperative attacks. Forge a path to victory with your personalised Order of Knights." 
+    }],
+    "features": ["Controller Support", "Single Player"],
+    "video": "https://www.youtube.com/watch?v=JJ3fDz_xCio",
+    "carouselImages": [
+      "https://cdn1.epicgames.com/spt-assets/2f8a03caff764b6ba175c9ee1784d99b/tides-of-annihilation-1d6qq.png?resize=1&w=480&h=270&quality=medium",
+      "https://cdn1.epicgames.com/spt-assets/2f8a03caff764b6ba175c9ee1784d99b/tides-of-annihilation-1vi70.png?resize=1&w=480&h=270&quality=medium",
+      "https://cdn1.epicgames.com/spt-assets/2f8a03caff764b6ba175c9ee1784d99b/tides-of-annihilation-1xoek.png?resize=1&w=480&h=270&quality=medium",
+        "https://cdn1.epicgames.com/spt-assets/2f8a03caff764b6ba175c9ee1784d99b/tides-of-annihilation-gj0xi.png?resize=1&w=480&h=270&quality=medium"
+    ]
   }
 ]
 }
