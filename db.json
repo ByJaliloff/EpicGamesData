@@ -195,11 +195,39 @@
     "id": "44ecd0bf-b9ee-4b3c-8488-e11adfaf7c29",
     "gameId": "ccbd738a-794e-4031-8e44-713468d4a7e6",
     "title": "Alan Wake 2: Deluxe Upgrade",
+    "logo": "https://cdn2.unrealengine.com/egs-alanwake2-remedyentertainment-ic1-400x400-5366b10d0f67.png?resize=1&w=480&h=270&quality=medium",
     "image": "https://cdn1.epicgames.com/offer/c4763f236d08423eb47b4c3008779c84/EGS_AlanWake2DeluxeUpgrade_RemedyEntertainment_AddOn_S2_1200x1600-887292c4cb8bf99eebd713378cf88cd3?resize=1&w=360&h=480&quality=medium",
-    "description": "Unlock the Expansion Pass and exclusive cosmetic content with the Alan Wake 2 Deluxe Upgrade.",
     "price": 14.60,
+    "genre": ["Action", "Horror", "Shooter"],
+    "platforms": ["Windows"],
+    "releaseDate": "2023-10-27",
+    "developer": "Remedy Entertainment",
+    "publisher": "Epic Games Publishing",
     "discount": 60,
-    "type": "addon"
+    "isFree": false,
+    "language": ["EN", "FR", "DE", "RU"],
+    "shortDescription": "Unlock the Expansion Pass and exclusive cosmetic content with the Alan Wake 2 Deluxe Upgrade.",
+    "fullDescription": [
+    {
+        "heading": "Alan Wake 2 Deluxe Upgrade includes:",
+        "content": "The Deluxe Upgrade gives players access to both the Lake House and Night Springs additional story content via the Expansion Pass."
+    },
+    {
+        "heading": "The Lake House Expansion",
+        "content": "As Agent Estevez, you’ll explore the twisted halls of the Lake House, a FBC facility researching forces beyond comprehension, and unravel the dark secrets hidden within."
+    },
+    {
+        "heading": "Night Springs Expansion",
+        "content": "Night Springs allows you to play as several fan-favorite characters from the Remedy Universe, through three highly stylized episodes. While similar to previously known characters, they are different—Night Springs versions of themselves."
+    }
+    ],
+    "features": ["Single Player", "Achievement", "Cloud Saves"],
+    "type": "addon",
+    "video": "https://www.youtube.com/watch?v=dlQ3FeNu5Yw",
+    "carouselImages": ["https://cdn2.unrealengine.com/egs-alanwake2-remedyentertainment-g1a-02-1920x1080-cee72a709dc4.jpg?resize=1&w=480&h=270&quality=medium",
+                       "https://cdn2.unrealengine.com/egs-alanwake2-remedyentertainment-g1a-03-1920x1080-321a6753e674.jpg?resize=1&w=480&h=270&quality=medium", 
+                       "https://cdn2.unrealengine.com/egs-alanwake2-remedyentertainment-g1a-03-award-1920x1080-9e0de20157f9.jpg?resize=1&w=480&h=270&quality=medium",
+                       "https://cdn2.unrealengine.com/egs-alanwake2-remedyentertainment-g1a-04-1920x1080-9fb3ea8f2ac3.jpg?resize=1&w=480&h=270&quality=medium"]
   },
   {
     "id": "c8b4fbfa-7b4b-45e2-9a42-f46bf7c2a00c",
