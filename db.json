@@ -233,21 +233,64 @@
     "id": "c8b4fbfa-7b4b-45e2-9a42-f46bf7c2a00c",
     "gameId": "ccbd738a-794e-4031-8e44-713468d4a7e6",
     "title": "Alan Wake 2 Deluxe Edition",
+    "logo": "https://cdn2.unrealengine.com/egs-alanwake2-remedyentertainment-ic1-400x400-5366b10d0f67.png?resize=1&w=480&h=270&quality=medium",
     "image": "https://cdn1.epicgames.com/offer/c4763f236d08423eb47b4c3008779c84/EGS_AlanWake2DeluxeEdition_RemedyEntertainment_Editions_S2_1200x1600-db032e8c839da2be59801023a4cdf083?resize=1&w=360&h=480&quality=medium",
-    "description": "Unlock the Expansion Pass and exclusive cosmetic content with the Alan Wake 2 Deluxe Edition.",
     "price": 51.09,
+    "genre": ["Action", "Horror", "Shooter"],
+    "platforms": ["Windows"],
+    "releaseDate": "2023-10-27",
+    "developer": "Remedy Entertainment",
+    "publisher": "Epic Games Publishing",
     "discount": 0,
-    "type": "edition"
+    "isFree": false,
+    "language": ["EN", "FR", "DE", "RU"],
+    "shortDescription": "Unlock the Expansion Pass and exclusive cosmetic content with the Alan Wake 2 Deluxe Upgrade.",
+    "fullDescription": [
+    {
+        "heading": "Alan Wake 2 Deluxe Upgrade includes:",
+        "content": "The Deluxe Upgrade gives players access to both the Lake House and Night Springs additional story content via the Expansion Pass."
+    },
+    {
+        "heading": "The Lake House Expansion",
+        "content": "As Agent Estevez, you’ll explore the twisted halls of the Lake House, a FBC facility researching forces beyond comprehension, and unravel the dark secrets hidden within."
+    },
+    {
+        "heading": "Night Springs Expansion",
+        "content": "Night Springs allows you to play as several fan-favorite characters from the Remedy Universe, through three highly stylized episodes. While similar to previously known characters, they are different—Night Springs versions of themselves."
+    }
+    ],
+    "features": ["Single Player", "Achievement", "Cloud Saves"],
+    "type": "edition",
+    "video": "https://www.youtube.com/watch?v=dlQ3FeNu5Yw",
+    "carouselImages": ["https://cdn2.unrealengine.com/egs-alanwake2-remedyentertainment-g1a-02-1920x1080-cee72a709dc4.jpg?resize=1&w=480&h=270&quality=medium",
+                       "https://cdn2.unrealengine.com/egs-alanwake2-remedyentertainment-g1a-03-1920x1080-321a6753e674.jpg?resize=1&w=480&h=270&quality=medium", 
+                       "https://cdn2.unrealengine.com/egs-alanwake2-remedyentertainment-g1a-03-award-1920x1080-9e0de20157f9.jpg?resize=1&w=480&h=270&quality=medium",
+                       "https://cdn2.unrealengine.com/egs-alanwake2-remedyentertainment-g1a-04-1920x1080-9fb3ea8f2ac3.jpg?resize=1&w=480&h=270&quality=medium"]
   },
   {
     "id": "f5e12294-a077-46e3-80ec-45b6ddf7566b",
     "gameId": "b602dc67-a455-4a89-827e-70149c5b3f4e",
     "title": "Hades II Original Sountrack",
     "image": "https://cdn1.epicgames.com/spt-assets/ea0a24395cd641d7bbde3e5d78ad462c/hades-ii-wclv5.png?resize=1&w=360&h=480&quality=medium",
-    "description": "",
+    "logo": "https://cdn1.epicgames.com/spt-assets/ea0a24395cd641d7bbde3e5d78ad462c/hades-ii-logo-1ig2h.png?resize=1&w=480&h=270&quality=medium",
+    "genre": ["Roguelike", "Action", "RPG"],
+    "platforms": ["Windows"],
+    "releaseDate": "2024-06-05",
+    "developer": "Supergiant Games",
+    "publisher": "Supergiant Games",
     "price": 4.49,
     "discount": 0,
-    "type": "addon"
+    "isFree": false,
+    "language": ["EN"],
+    "type": "addon",
+    "shortDescription": "Battle beyond the Underworld using dark sorcery to take on the Titan of Time in this bewitching sequel to the award-winning rogue-like dungeon crawler.",
+    "fullDescription": [],
+    "features": ["Cloud Saves", "Controller Support", "Single Player"],
+    "video": "https://www.youtube.com/watch?v=fNracXPHEic&list=PL53mjgVKFq7yeq21XhibC8izNSVlPCsNP",
+    "carouselImages": ["https://cdn1.epicgames.com/spt-assets/ea0a24395cd641d7bbde3e5d78ad462c/hades-ii-181tw.png?resize=1&w=480&h=270&quality=medium",
+                       "https://cdn1.epicgames.com/spt-assets/ea0a24395cd641d7bbde3e5d78ad462c/hades-ii-1p0tt.jpg?resize=1&w=480&h=270&quality=medium",
+                       "https://cdn1.epicgames.com/spt-assets/ea0a24395cd641d7bbde3e5d78ad462c/hades-ii-1uumn.jpg?resize=1&w=480&h=270&quality=medium",
+                       "https://cdn1.epicgames.com/spt-assets/ea0a24395cd641d7bbde3e5d78ad462c/hades-ii-1z0uc.png?resize=1&w=480&h=270&quality=medium" ]
   },
     {
     "id": "8f4c9d62-00d3-4163-a296-fc8092b4d84d",
