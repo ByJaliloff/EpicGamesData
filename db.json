@@ -11,6 +11,18 @@
     "role": "super_admin",
     "createdAt": "2025-07-25T00:00:00.000Z",
     "isActive": true,
+    "lastLogin":null  },
+        {
+    "id": "2222",
+    "firstName": "Azer",
+    "lastName": "Raphiyev",
+    "email": "raphiyev@gmail.com",
+    "password": "Azer1234",
+    "phone": "+994707357379",
+    "birthday": "17.06.2003",
+    "role": "user",
+    "createdAt": "2025-08-15T00:00:00.000Z",
+    "isActive": true,
     "lastLogin":null  }
         
     ],
@@ -195,252 +207,813 @@
     "id": "44ecd0bf-b9ee-4b3c-8488-e11adfaf7c29",
     "gameId": "ccbd738a-794e-4031-8e44-713468d4a7e6",
     "title": "Alan Wake 2: Deluxe Upgrade",
+    "logo": "https://cdn2.unrealengine.com/egs-alanwake2-remedyentertainment-ic1-400x400-5366b10d0f67.png?resize=1&w=480&h=270&quality=medium",
     "image": "https://cdn1.epicgames.com/offer/c4763f236d08423eb47b4c3008779c84/EGS_AlanWake2DeluxeUpgrade_RemedyEntertainment_AddOn_S2_1200x1600-887292c4cb8bf99eebd713378cf88cd3?resize=1&w=360&h=480&quality=medium",
-    "description": "Unlock the Expansion Pass and exclusive cosmetic content with the Alan Wake 2 Deluxe Upgrade.",
     "price": 14.60,
+    "genre": ["Action", "Horror", "Shooter"],
+    "platforms": ["Windows"],
+    "releaseDate": "2023-10-27",
+    "developer": "Remedy Entertainment",
+    "publisher": "Epic Games Publishing",
     "discount": 60,
-    "type": "addon"
+    "isFree": false,
+    "language": ["EN", "FR", "DE", "RU"],
+    "shortDescription": "Unlock the Expansion Pass and exclusive cosmetic content with the Alan Wake 2 Deluxe Upgrade.",
+    "fullDescription": [
+    {
+        "heading": "Alan Wake 2 Deluxe Upgrade includes:",
+        "content": "The Deluxe Upgrade gives players access to both the Lake House and Night Springs additional story content via the Expansion Pass."
+    },
+    {
+        "heading": "The Lake House Expansion",
+        "content": "As Agent Estevez, you’ll explore the twisted halls of the Lake House, a FBC facility researching forces beyond comprehension, and unravel the dark secrets hidden within."
+    },
+    {
+        "heading": "Night Springs Expansion",
+        "content": "Night Springs allows you to play as several fan-favorite characters from the Remedy Universe, through three highly stylized episodes. While similar to previously known characters, they are different—Night Springs versions of themselves."
+    }
+    ],
+    "features": ["Single Player", "Achievement", "Cloud Saves"],
+    "type": "addon",
+    "video": "https://www.youtube.com/watch?v=dlQ3FeNu5Yw",
+    "carouselImages": ["https://cdn2.unrealengine.com/egs-alanwake2-remedyentertainment-g1a-02-1920x1080-cee72a709dc4.jpg?resize=1&w=480&h=270&quality=medium",
+                       "https://cdn2.unrealengine.com/egs-alanwake2-remedyentertainment-g1a-03-1920x1080-321a6753e674.jpg?resize=1&w=480&h=270&quality=medium", 
+                       "https://cdn2.unrealengine.com/egs-alanwake2-remedyentertainment-g1a-03-award-1920x1080-9e0de20157f9.jpg?resize=1&w=480&h=270&quality=medium",
+                       "https://cdn2.unrealengine.com/egs-alanwake2-remedyentertainment-g1a-04-1920x1080-9fb3ea8f2ac3.jpg?resize=1&w=480&h=270&quality=medium"]
   },
   {
     "id": "c8b4fbfa-7b4b-45e2-9a42-f46bf7c2a00c",
     "gameId": "ccbd738a-794e-4031-8e44-713468d4a7e6",
     "title": "Alan Wake 2 Deluxe Edition",
+    "logo": "https://cdn2.unrealengine.com/egs-alanwake2-remedyentertainment-ic1-400x400-5366b10d0f67.png?resize=1&w=480&h=270&quality=medium",
     "image": "https://cdn1.epicgames.com/offer/c4763f236d08423eb47b4c3008779c84/EGS_AlanWake2DeluxeEdition_RemedyEntertainment_Editions_S2_1200x1600-db032e8c839da2be59801023a4cdf083?resize=1&w=360&h=480&quality=medium",
-    "description": "Unlock the Expansion Pass and exclusive cosmetic content with the Alan Wake 2 Deluxe Edition.",
     "price": 51.09,
+    "genre": ["Action", "Horror", "Shooter"],
+    "platforms": ["Windows"],
+    "releaseDate": "2023-10-27",
+    "developer": "Remedy Entertainment",
+    "publisher": "Epic Games Publishing",
     "discount": 0,
-    "type": "edition"
+    "isFree": false,
+    "language": ["EN", "FR", "DE", "RU"],
+    "shortDescription": "Unlock the Expansion Pass and exclusive cosmetic content with the Alan Wake 2 Deluxe Upgrade.",
+    "fullDescription": [
+    {
+        "heading": "Alan Wake 2 Deluxe Upgrade includes:",
+        "content": "The Deluxe Upgrade gives players access to both the Lake House and Night Springs additional story content via the Expansion Pass."
+    },
+    {
+        "heading": "The Lake House Expansion",
+        "content": "As Agent Estevez, you’ll explore the twisted halls of the Lake House, a FBC facility researching forces beyond comprehension, and unravel the dark secrets hidden within."
+    },
+    {
+        "heading": "Night Springs Expansion",
+        "content": "Night Springs allows you to play as several fan-favorite characters from the Remedy Universe, through three highly stylized episodes. While similar to previously known characters, they are different—Night Springs versions of themselves."
+    }
+    ],
+    "features": ["Single Player", "Achievement", "Cloud Saves"],
+    "type": "edition",
+    "video": "https://www.youtube.com/watch?v=dlQ3FeNu5Yw",
+    "carouselImages": ["https://cdn2.unrealengine.com/egs-alanwake2-remedyentertainment-g1a-02-1920x1080-cee72a709dc4.jpg?resize=1&w=480&h=270&quality=medium",
+                       "https://cdn2.unrealengine.com/egs-alanwake2-remedyentertainment-g1a-03-1920x1080-321a6753e674.jpg?resize=1&w=480&h=270&quality=medium", 
+                       "https://cdn2.unrealengine.com/egs-alanwake2-remedyentertainment-g1a-03-award-1920x1080-9e0de20157f9.jpg?resize=1&w=480&h=270&quality=medium",
+                       "https://cdn2.unrealengine.com/egs-alanwake2-remedyentertainment-g1a-04-1920x1080-9fb3ea8f2ac3.jpg?resize=1&w=480&h=270&quality=medium"]
   },
   {
     "id": "f5e12294-a077-46e3-80ec-45b6ddf7566b",
     "gameId": "b602dc67-a455-4a89-827e-70149c5b3f4e",
     "title": "Hades II Original Sountrack",
     "image": "https://cdn1.epicgames.com/spt-assets/ea0a24395cd641d7bbde3e5d78ad462c/hades-ii-wclv5.png?resize=1&w=360&h=480&quality=medium",
-    "description": "",
+    "logo": "https://cdn1.epicgames.com/spt-assets/ea0a24395cd641d7bbde3e5d78ad462c/hades-ii-logo-1ig2h.png?resize=1&w=480&h=270&quality=medium",
+    "genre": ["Roguelike", "Action", "RPG"],
+    "platforms": ["Windows"],
+    "releaseDate": "2024-06-05",
+    "developer": "Supergiant Games",
+    "publisher": "Supergiant Games",
     "price": 4.49,
     "discount": 0,
-    "type": "addon"
+    "isFree": false,
+    "language": ["EN"],
+    "type": "addon",
+    "shortDescription": "Battle beyond the Underworld using dark sorcery to take on the Titan of Time in this bewitching sequel to the award-winning rogue-like dungeon crawler.",
+    "fullDescription": [],
+    "features": ["Cloud Saves", "Controller Support", "Single Player"],
+    "video": "https://www.youtube.com/watch?v=fNracXPHEic&list=PL53mjgVKFq7yeq21XhibC8izNSVlPCsNP",
+    "carouselImages": ["https://cdn1.epicgames.com/spt-assets/ea0a24395cd641d7bbde3e5d78ad462c/hades-ii-181tw.png?resize=1&w=480&h=270&quality=medium",
+                       "https://cdn1.epicgames.com/spt-assets/ea0a24395cd641d7bbde3e5d78ad462c/hades-ii-1p0tt.jpg?resize=1&w=480&h=270&quality=medium",
+                       "https://cdn1.epicgames.com/spt-assets/ea0a24395cd641d7bbde3e5d78ad462c/hades-ii-1uumn.jpg?resize=1&w=480&h=270&quality=medium",
+                       "https://cdn1.epicgames.com/spt-assets/ea0a24395cd641d7bbde3e5d78ad462c/hades-ii-1z0uc.png?resize=1&w=480&h=270&quality=medium" ]
   },
     {
     "id": "8f4c9d62-00d3-4163-a296-fc8092b4d84d",
     "gameId": "47408ffa-f114-4a26-b4f7-da210a33eb54",
     "title": "The Witcher 3 Red Kit",
+    "logo": "https://cdn2.unrealengine.com/egs-thewitcher3wildhuntcompleteedition-cdprojektred-ic1-400x400-39ecddf1cc77.png?resize=1&w=480&h=270&quality=medium",
     "image": "https://cdn1.epicgames.com/offer/14ee004dadc142faaaece5a6270fb628/EGS_TheWitcher3REDkit_CDPROJEKTRED_DLC_S2_1200x1600-ac50a0b326e409e8b2cbf03c0fa42094?resize=1&w=360&h=480&quality=medium",
-    "description": "",
-    "price": "Free",
-    "discount": false,
-    "type": "editor"
+    "genre": ["RPG", "Open World"],
+    "platforms": ["Windows", "PS5", "Xbox"],
+    "releaseDate": "2015-05-18",
+    "developer": "CD Projekt Red",
+    "publisher": "CD Projekt",
+    "price": 0,
+    "discount": 0,
+    "isFree": true,
+    "language": ["EN", "PL", "RU", "FR", "DE"],
+    "type": "editor",
+    "shortDescription": "The most awarded game of a generation, now enhanced for the next! Experience The Witcher 3: Wild Hunt and its expansions in this definitive collection, boasting improved visuals and performance, new additional content, Photo Mode, and more!",
+    "fullDescription": [
+    {
+        "heading": "ABOUT THE GAME",
+        "content": "You are Geralt of Rivia, mercenary monster slayer. Before you stands a war-torn, monster-infested continent you can explore at will. Your current contract? Tracking down Ciri — the Child of Prophecy, a living weapon that can alter the shape of the world."
+    },
+    {
+        "heading": "UPDATED FOR A NEW GENERATION",
+        "content": "Behold the dark fantasy world of the Continent like never before! This edition of The Witcher 3: Wild Hunt has been enhanced with numerous visual and technical improvements, including vastly improved level of detail, a range of community created and newly developed mods for the game, real-time ray tracing, and more — all implemented with the power of modern PCs in mind."
+    },
+    {
+        "heading": "PLAY AS A HIGHLY TRAINED MONSTER SLAYER FOR HIRE",
+        "content": "Trained from early childhood and mutated to gain superhuman skills, strength, and reflexes, witchers are a counterbalance to the monster-infested world in which they live. Gruesomely destroy foes as a professional monster hunter armed with a range of upgradeable weapons, mutating potions, and combat magic. Hunt down a wide variety of exotic monsters, from savage beasts prowling mountain passes to cunning supernatural predators lurking in the shadowy back alleys of densely populated cities. Invest your rewards to upgrade your weaponry and buy custom armor, or spend them on horse races, card games, fist fighting, and other pleasures life brings."
+    }
+    ],
+    "features": ["Story Rich", "Fantasy"],
+    "video": "https://www.youtube.com/watch?v=c0i88t0Kacs",
+    "carouselImages": ["https://cdn2.unrealengine.com/egs-thewitcher3wildhuntcompleteedition-cdprojektred-g1a-03-1920x1080-24c8f2997f41.jpg?resize=1&w=480&h=270&quality=medium",
+                       "https://cdn2.unrealengine.com/egs-thewitcher3wildhuntcompleteedition-cdprojektred-g1a-05-1920x1080-ac4ebacf1833.jpg?resize=1&w=480&h=270&quality=medium",
+                       "https://cdn2.unrealengine.com/egs-thewitcher3wildhuntcompleteedition-cdprojektred-g1a-06-1920x1080-888a74f299d6.jpg?resize=1&w=480&h=270&quality=medium",
+                       "https://cdn2.unrealengine.com/egs-thewitcher3wildhuntcompleteedition-cdprojektred-g1c-00-1920x1080-ee8358cd8883.jpg?resize=1&w=480&h=270&quality=medium"]
   },
     {
     "id": "bff7a2a1-313a-423b-aded-e9eb3a34ba12",
     "gameId": "56387419-7df5-4471-a960-999cf965c66f",
     "title": "Cyperpunk 2077: Phantom Liberity",
     "image": "https://cdn1.epicgames.com/offer/77f2b98e2cef40c8a7437518bf420e47/EGS_Cyberpunk2077PhantomLiberty_CDPROJEKTRED_DLC_S2_1200x1600-3acec02a8b11a2c50ba8dd3cb217f1c6?resize=1&w=360&h=480&quality=medium",
-    "description": "",
+    "logo": "https://cdn2.unrealengine.com/egs-cyberpunk2077-cdprojektred-ic1-400x400-82b90aa9a275.png?resize=1&w=480&h=270&quality=medium",
+    "genre": ["RPG", "Adventure", "Action"],
+    "platforms": ["Windows", "PS5", "Xbox"],
+    "releaseDate": "2023-09-23",
+    "developer": "CD Projekt Red",
+    "publisher": "CD Projekt",
     "price": 14.99,
     "discount": 25,
+    "isFree": false,
+    "language": ["EN", "PL", "DE", "RU"],
+    "rating": 4.7,
+    "shortDescription": "Cyberpunk 2077 is an open-world, action-adventure RPG set in the megalopolis of Night City, where you play as a cyberpunk mercenary wrapped up in a do-or-die fight for survival. Improved and featuring all-new free additional content, customize your character and playstyle as you take on jobs, build a reputation, and unlock upgrades. The relationships you forge and the choices you make will shape the story and the world around you. Legends are made here. What will yours be?",
+    "fullDescription": [],
+    "features": ["Open World", "Futuristic"],
+    "video": "https://www.youtube.com/watch?v=sJbexcm4Trk",
+    "carouselImages": ["https://cdn1.epicgames.com/offer/77f2b98e2cef40c8a7437518bf420e47/EGS_Cyberpunk2077PhantomLiberty_CDPROJEKTRED_DLC_G1A_03_1920x1080-c04a4c3949ccac6f4ef3b852a3b75354?resize=1&w=480&h=270&quality=medium",
+                       "https://cdn1.epicgames.com/offer/77f2b98e2cef40c8a7437518bf420e47/EGS_Cyberpunk2077PhantomLiberty_CDPROJEKTRED_DLC_G1A_02_1920x1080-d1ac5bfb88f4c9d80f9322e5eed1ff29?resize=1&w=480&h=270&quality=medium",
+                       "https://cdn1.epicgames.com/offer/77f2b98e2cef40c8a7437518bf420e47/EGS_Cyberpunk2077PhantomLiberty_CDPROJEKTRED_DLC_G1A_04_1920x1080-01482c38a6b8d07c44b7f55ebe974df7?resize=1&w=480&h=270&quality=medium",
+                       "https://cdn1.epicgames.com/offer/77f2b98e2cef40c8a7437518bf420e47/EGS_Cyberpunk2077PhantomLiberty_CDPROJEKTRED_DLC_G1A_05_1920x1080-ff86afce5396d8a44500d28a10701e14?resize=1&w=480&h=270&quality=medium"],
     "type": "addon"
   },
     {
     "id": "5a02b9b7-8538-4be6-ac5e-f9d331f06a67",
     "gameId": "56387419-7df5-4471-a960-999cf965c66f",
     "title": "Cyperpunk 2077: Ultimate Edition",
+    "logo": "https://cdn2.unrealengine.com/egs-cyberpunk2077-cdprojektred-ic1-400x400-82b90aa9a275.png?resize=1&w=480&h=270&quality=medium",
     "image": "https://cdn1.epicgames.com/offer/77f2b98e2cef40c8a7437518bf420e47/EGS_Cyberpunk2077UltimateEdition_CDPROJEKTRED_Editions_S2_1200x1600-81442c61fd09b45ecd03add7c0c3afdd?resize=1&w=360&h=480&quality=medium",
-    "description": "",
+    "genre": ["RPG", "Adventure", "Action"],
+    "platforms": ["Windows", "PS5", "Xbox"],
+    "releaseDate": "2020-12-10",
+    "developer": "CD Projekt Red",
+    "publisher": "CD Projekt",
     "price": 39.99,
     "discount": 45,
-    "type": "edition"
+    "type": "edition",
+    "isFree": false,
+    "language": ["EN", "PL", "DE", "RU"],
+    "rating": 4.7,
+    "shortDescription": "Cyberpunk 2077 is an open-world, action-adventure RPG set in the megalopolis of Night City, where you play as a cyberpunk mercenary wrapped up in a do-or-die fight for survival. Improved and featuring all-new free additional content, customize your character and playstyle as you take on jobs, build a reputation, and unlock upgrades. The relationships you forge and the choices you make will shape the story and the world around you. Legends are made here. What will yours be?",
+    "fullDescription": [],
+    "features": ["Open World", "Futuristic"],
+    "video": "https://www.youtube.com/watch?v=sJbexcm4Trk",
+    "carouselImages": ["https://cdn1.epicgames.com/offer/77f2b98e2cef40c8a7437518bf420e47/EGS_Cyberpunk2077PhantomLiberty_CDPROJEKTRED_DLC_G1A_03_1920x1080-c04a4c3949ccac6f4ef3b852a3b75354?resize=1&w=480&h=270&quality=medium",
+                       "https://cdn1.epicgames.com/offer/77f2b98e2cef40c8a7437518bf420e47/EGS_Cyberpunk2077PhantomLiberty_CDPROJEKTRED_DLC_G1A_02_1920x1080-d1ac5bfb88f4c9d80f9322e5eed1ff29?resize=1&w=480&h=270&quality=medium",
+                       "https://cdn1.epicgames.com/offer/77f2b98e2cef40c8a7437518bf420e47/EGS_Cyberpunk2077PhantomLiberty_CDPROJEKTRED_DLC_G1A_04_1920x1080-01482c38a6b8d07c44b7f55ebe974df7?resize=1&w=480&h=270&quality=medium",
+                       "https://cdn1.epicgames.com/offer/77f2b98e2cef40c8a7437518bf420e47/EGS_Cyberpunk2077PhantomLiberty_CDPROJEKTRED_DLC_G1A_05_1920x1080-ff86afce5396d8a44500d28a10701e14?resize=1&w=480&h=270&quality=medium"],
+        
+    "type": "edition"        
   },
     {
     "id": "c8db614c-de59-473e-9ea0-c2fdf2300793",
     "gameId": "b7397a92-278d-4b3f-a655-6d9f04b8c37c",
     "title": "It Takes Two - Friend Pass",
+    "logo": "https://cdn2.unrealengine.com/egs-ittakestwo-hazelight-ic1-400x400-10a8bec2a659.png?resize=1&w=480&h=270&quality=medium",
     "image": "https://cdn1.epicgames.com/offer/8ae7b3c0f490471b967ce26cc2f6e0e6/EGS_ItTakesTwoFriendsPass_Hazelight_Trials_S2_1200x1600-6347b335e7cdd0b50b88e3ca7aca91e4_1200x1600-6347b335e7cdd0b50b88e3ca7aca91e4?resize=1&w=360&h=480&quality=medium",
-    "description": "",
-    "price": "Free",
-    "discount": false,
+    "genre": ["Adventure", "Platformer"],
+    "platforms": ["Windows", "PS5", "Xbox"],
+    "releaseDate": "2023-02-25",
+    "developer": "Hazelight",
+    "publisher": "Electronic Arts",
+    "price": 0,
+    "discount": 0,
+    "isFree": true,
+    "language": ["EN", "JP", "FR", "DE"],
+    "shortDescription": "Embark on the craziest journey of your life in It Takes Two. Invite a friend to join for free with Friend’s Pass* and work together across a huge variety of gleefully disruptive gameplay challenges.",
+     "fullDescription": [
+         {
+        "heading": "PURE CO-OP PERFECTION",
+        "content": "Invite a friend to join for free with Friend’s Pass*, and experience a thrilling adventure built purely for two. Choose from couch or online co-op with split-screen play, and face ever-changing challenges where working together is the only way forward."
+    },
+    {
+        "heading": "GLEEFULLY DISRUPTIVE GAMEPLAY",
+        "content": "From rampaging vacuum cleaners to suave love gurus – with It Takes Two, you never know what you’re up against next. Filled with genre-bending challenges and new character abilities to master in every level, you’ll experience a metaphorical merging of gameplay and narrative that pushes the boundaries of interactive storytelling."
+    },
+    {
+        "heading": "A UNIVERSAL TALE OF RELATIONSHIPS",
+        "content": "Discover a touching and heartfelt story of the challenges in getting along. Help Cody and May learn how to overcome their differences. Meet a diverse cast of strange and endearing characters. Join forces, and go on an adventure you’ll treasure – together!"
+    }
+     ],
+    "features": ["Achievement", "Co-op"],
+    "video": "https://www.youtube.com/watch?v=PnZKsLMjuc0",
+    "carouselImages": ["https://cdn2.unrealengine.com/egs-ittakestwofriendspass-hazelight-trials-g1a-02-1920x1080-0c116ec113f1.jpg?resize=1&w=480&h=270&quality=medium",
+                       "https://cdn2.unrealengine.com/egs-ittakestwofriendspass-hazelight-trials-g1a-03-1920x1080-7487d095f8c6.jpg?resize=1&w=480&h=270&quality=medium",
+                        "https://cdn2.unrealengine.com/egs-ittakestwo-hazelight-g1a-06-1920x1080-369cad296949.jpg?resize=1&w=480&h=270&quality=medium",
+                        "https://cdn2.unrealengine.com/egs-ittakestwo-hazelight-g1c-00-1920x1080-ddefff1a1789.jpg?resize=1&w=480&h=270&quality=medium"],
     "type": "demo"
   },
      {
     "id": "26944918-ac73-415e-938b-db61d8fb191e",
     "gameId": "2ee03011-0452-41b9-83bf-c4192df24202",
-    "title": "YellowJacket Pack",
-    "image": "https://cdn1.epicgames.com/offer/fn/EN_FNECO_36-20_RMT_Yellowjacket_Pack_EGS_Portrait_1200x1600_1200x1600-7a25034ec31cc0621617aec957e7dddd?resize=1&w=360&h=480&quality=medium",
-    "description": "",
+    "title": "Bee Positive Pack",
+    "image": "https://cdn1.epicgames.com/offer/fn/EN_FNECO_37-00_BeePositivePack_EGS_Portrait_1200x1600_1200x1600-0dbdf1e3ab31b5cf0184eb7694183827?resize=1&w=360&h=480&quality=medium",
+    "logo": "https://cdn2.unrealengine.com/24br-s24-egs-launcher-logo-350x100-350x100-b63249f937d9.png?resize=1&w=480&h=270&quality=medium",
+    "genre": ["Battle Royale", "Shooter"],
+    "platforms": ["Windows", "PS5", "Xbox", "Switch"],
+    "releaseDate": "2017-07-25",
+    "developer": "Epic Games",
+    "publisher": "Epic Games",
+    "isFree": false,
+    "language": ["EN", "FR", "DE", "RU"],
     "price": 4.49,
     "discount": 0,
+    "shortDescription": "Create, play, and battle with friends for free in Fortnite. Be the last player standing in Battle Royale and Zero Build, experience a concert or live event, or discover over a million creator made games, including racing, parkour, zombie survival, and more. Each Fortnite island has an individual age rating so you can find the one that's right for you and your friends. Find it all in Fortnite ... Drop In.",
+    "fullDescription": [],
+    "features": ["Multiplayer", "Live Service"],
+    "video": "https://www.youtube.com/watch?v=__1ss5tFbwM",
+    "carouselImages": ["https://cdn1.epicgames.com/offer/fn/EN_FNECO_37-00_BeePositivePack_EGS_Landscape_2560x1440_2560x1440-5077a4724e91c565e508470e818c9cd7",
+                       "https://cdn2.unrealengine.com/en-fnferal-34-30-sonylauncher-coverartpdp-3840x2160-logo-3840x2160-2da38487164d.png?resize=1&w=480&h=270&quality=medium",
+                       "https://cdn2.unrealengine.com/en-fnfig-36-00-c1s4-egs-launcher-keyart-og-blade-2560x1440-2560x1440-584bcfc7226a.jpg?resize=1&w=480&h=270&quality=medium",
+                       "https://cdn2.unrealengine.com/en-fnleco-36-20-luminaryhypatia-starterpack-psd-firstparty-1920x1080-1920x1080-43bf50fcf0ca.jpg?resize=1&w=854&h=480&quality=medium"],
     "type": "addon"
   },
         {
     "id": "d8f15d25-6c55-434d-951d-3416c923e226",
     "gameId": "2ee03011-0452-41b9-83bf-c4192df24202",
-    "title": "Summer Legends Pack",
-    "image": "https://cdn1.epicgames.com/offer/fn/EN_FNECO_30-10_SummerLegendsPack_EGS_1200x1600_1200x1600-d3edcadbfcc0105175748b5c0c09f239?resize=1&w=360&h=480&quality=medium",
-    "description": "",
+    "title": "Hexed & Haunted Pack",
+    "logo": "https://cdn2.unrealengine.com/24br-s24-egs-launcher-logo-350x100-350x100-b63249f937d9.png?resize=1&w=480&h=270&quality=medium",
+    "image": "https://cdn1.epicgames.com/offer/fn/EN_FNECO37-00_RMT_HexedHauntedPack_StW_Starter_Pack_EGS_Portrait_1200x1600_1200x1600-e032a8c6187d597ce8758158b42e8622?resize=1&w=360&h=480&quality=medium",
+    "genre": ["Battle Royale", "Shooter"],
+    "platforms": ["Windows", "PS5", "Xbox", "Switch"],
+    "releaseDate": "2017-07-25",
+    "developer": "Epic Games",
+    "publisher": "Epic Games",
     "price": 18.49,
     "discount": 20,
-    "type": "addon"
+    "isFree": false,
+    "language": ["EN", "FR", "DE", "RU"],
+    "type": "addon",
+    "shortDescription": "Create, play, and battle with friends for free in Fortnite. Be the last player standing in Battle Royale and Zero Build, experience a concert or live event, or discover over a million creator made games, including racing, parkour, zombie survival, and more. Each Fortnite island has an individual age rating so you can find the one that's right for you and your friends. Find it all in Fortnite ... Drop In.",
+    "fullDescription": [],
+    "features": ["Multiplayer", "Live Service"],
+    "video": "https://www.youtube.com/watch?v=__1ss5tFbwM",
+    "carouselImages": ["https://cdn1.epicgames.com/offer/fn/EN_FNECO37-00_RMT_HexedHauntedPack_StW_Starter_Pack_EGS_Landscape_2560x1440_2560x1440-a07419ce02603d05ab6b701c06cda187",
+                       "https://cdn2.unrealengine.com/en-fnferal-34-30-sonylauncher-coverartpdp-3840x2160-logo-3840x2160-2da38487164d.png?resize=1&w=480&h=270&quality=medium",
+                       "https://cdn2.unrealengine.com/en-fnfig-36-00-c1s4-egs-launcher-keyart-og-blade-2560x1440-2560x1440-584bcfc7226a.jpg?resize=1&w=480&h=270&quality=medium",
+                       "https://cdn2.unrealengine.com/en-fnleco-36-20-luminaryhypatia-starterpack-psd-firstparty-1920x1080-1920x1080-43bf50fcf0ca.jpg?resize=1&w=854&h=480&quality=medium"]
   },
         {
     "id": "b127d843-7f34-4126-9d37-0d40479cb0c7",
     "gameId": "2ee03011-0452-41b9-83bf-c4192df24202",
     "title": "1000 V-Bucks",
+    "logo": "https://cdn2.unrealengine.com/24br-s24-egs-launcher-logo-350x100-350x100-b63249f937d9.png?resize=1&w=480&h=270&quality=medium",
     "image": "https://cdn1.epicgames.com/offer/fn/FNECO_32-00_VbuckStoreArtUpdate_1000_EGS_1200x1600_1200x1600-e70f8c1bfbd98a4a3d619e9527aeef8e?resize=1&w=360&h=480&quality=medium",
-    "description": "",
+    "genre": ["Battle Royale", "Shooter"],
+    "platforms": ["Windows", "PS5", "Xbox", "Switch"],
+    "releaseDate": "2017-07-25",
+    "developer": "Epic Games",
+    "publisher": "Epic Games",
     "price": 8.99,
     "discount": 0,
-    "type": "addon"
+    "isFree": false,
+    "language": ["EN", "FR", "DE", "RU"],
+    "type": "addon",
+    "shortDescription": "Create, play, and battle with friends for free in Fortnite. Be the last player standing in Battle Royale and Zero Build, experience a concert or live event, or discover over a million creator made games, including racing, parkour, zombie survival, and more. Each Fortnite island has an individual age rating so you can find the one that's right for you and your friends. Find it all in Fortnite ... Drop In.",
+    "fullDescription": [],
+    "features": ["Multiplayer", "Live Service"],
+    "video": "",
+    "carouselImages": ["https://cdn1.epicgames.com/offer/fn/FNECO_32-00_VbuckStoreArtUpdate_1000_EGS_2560x1440_2560x1440-b882abaa9eaf0b7e22a68b846f756092?resize=1&w=480&h=270&quality=medium",
+                       "",
+                       "",
+                       ""]
   },
         {
     "id": "a86257e6-5bee-4c61-a31c-2ab1f9431aef",
     "gameId": "2ee03011-0452-41b9-83bf-c4192df24202",
     "title": "2800 V-Bucks",
+    "logo": "https://cdn2.unrealengine.com/24br-s24-egs-launcher-logo-350x100-350x100-b63249f937d9.png?resize=1&w=480&h=270&quality=medium",
     "image": "https://cdn1.epicgames.com/offer/fn/FNECO_32-00_VbuckStoreArtUpdate_2800_EGS_1200x1600_1200x1600-380718e8fb23306b6e8a801d27880104?resize=1&w=360&h=480&quality=medium",
-    "description": "",
+    "genre": ["Battle Royale", "Shooter"],
+    "platforms": ["Windows", "PS5", "Xbox", "Switch"],
+    "releaseDate": "2017-07-25",
+    "developer": "Epic Games",
+    "publisher": "Epic Games",
     "price": 22.99,
     "discount": 0,
-    "type": "addon"
+    "isFree": false,
+    "language": ["EN", "FR", "DE", "RU"],
+    "type": "addon",
+    "shortDescription": "Create, play, and battle with friends for free in Fortnite. Be the last player standing in Battle Royale and Zero Build, experience a concert or live event, or discover over a million creator made games, including racing, parkour, zombie survival, and more. Each Fortnite island has an individual age rating so you can find the one that's right for you and your friends. Find it all in Fortnite ... Drop In.",
+    "fullDescription": [],
+    "features": ["Multiplayer", "Live Service"],
+    "video": "",
+    "carouselImages": ["https://cdn1.epicgames.com/offer/fn/FNECO_32-00_VbuckStoreArtUpdate_2800_EGS_2560x1440_2560x1440-eb1953342c1007d14b5c50113549ad83?resize=1&w=480&h=270&quality=medium",
+                       "",
+                       "",
+                       ""]
   },
 
         {
     "id": "2be109d8-bcd8-44b9-8367-8a889de1ff82",
     "gameId": "2ee03011-0452-41b9-83bf-c4192df24202",
     "title": "13500 V-Bucks",
+    "logo": "https://cdn2.unrealengine.com/24br-s24-egs-launcher-logo-350x100-350x100-b63249f937d9.png?resize=1&w=480&h=270&quality=medium",
     "image": "https://cdn1.epicgames.com/offer/fn/FNECO_32-00_VbuckStoreArtUpdate_13500_EGS_1200x1600_1200x1600-d283e52ea33ff79da7d4be0ff86d6e52?resize=1&w=360&h=480&quality=medium",
-    "description": "",
+    "genre": ["Battle Royale", "Shooter"],
+    "platforms": ["Windows", "PS5", "Xbox", "Switch"],
+    "releaseDate": "2017-07-25",
+    "developer": "Epic Games",
+    "publisher": "Epic Games",
     "price": 89.99,
     "discount": 0,
-    "type": "addon"
+    "isFree": false,
+    "language": ["EN", "FR", "DE", "RU"],
+    "type": "addon",
+    "shortDescription": "Create, play, and battle with friends for free in Fortnite. Be the last player standing in Battle Royale and Zero Build, experience a concert or live event, or discover over a million creator made games, including racing, parkour, zombie survival, and more. Each Fortnite island has an individual age rating so you can find the one that's right for you and your friends. Find it all in Fortnite ... Drop In.",
+    "fullDescription": [],
+    "features": ["Multiplayer", "Live Service"],
+    "video": "",
+    "carouselImages": ["https://cdn1.epicgames.com/offer/fn/FNECO_32-00_VbuckStoreArtUpdate_13500_EGS_2560x1440_2560x1440-a0f9b05ac22e58857eff1edcbbd18501?resize=1&w=480&h=270&quality=medium",
+                       "",
+                       "",
+                       ""]
   },
         {
     "id": "be2c37cc-53cc-4707-afea-ff102b0fca25",
     "gameId": "0ec568f3-3fb5-4f83-bc63-e1ff43771057",
     "title": "Assassin’s Creed Mirage: Deluxe Edition",
+    "logo": "https://cdn2.unrealengine.com/logo-350x100-350x100-cb978e0f76b3.png?resize=1&w=480&h=270&quality=medium",
     "image": "https://cdn1.epicgames.com/offer/9bcf5a4dc1d54cb6ab1a42f3a70c5cf4/Carousel_BoxArt_1200x1600_1200x1600-7098397fa5b2007b686dc31009bd5055?resize=1&w=360&h=480&quality=medium",
-    "description": "",
+    "genre": ["Action", "Stealth"],
+    "platforms": ["Windows", "PS5", "Xbox"],
+    "releaseDate": "2023-10-05",
+    "developer": "Ubisoft",
+    "publisher": "Ubisoft",
     "price": 23.99,
     "discount": 10,
-    "type": "edition"
+    "isFree": false,
+    "language": ["EN", "FR", "AR", "TR"],
+    "rating": 4.4,
+    "type": "edition",
+    "shortDescription": "Experience the story of Basim, a cunning street thief with nightmarish visions, seeking answers and justice as he navigates the bustling streets of ninth-century Baghdad. Through a mysterious, ancient organization known as the Hidden Ones, he will become a deadly Master Assassin and change his fate in ways he never could have imagined.",
+     "fullDescription": [],
+    "features": ["Stealth", "Parkour"],
+    "video": "https://www.youtube.com/watch?v=x55lAlFtXmw",
+    "carouselImages": ["https://cdn2.unrealengine.com/air-assassination-ac1-gold1920x1080-1920x1080-cb3af9126f5c.jpg?resize=1&w=480&h=270&quality=medium",
+                       "https://cdn2.unrealengine.com/bagdad-vista-final-3840x2160-053259da6873.jpg?resize=1&w=480&h=270&quality=medium",
+                       "https://cdn2.unrealengine.com/bureau-concept-gold-candidate1920x1080-1920x1080-bf39631f989d.png?resize=1&w=480&h=270&quality=medium",
+                       "https://cdn2.unrealengine.com/chocking-smoke-bomb-gold-rgb-1080p-1920x1080-cd8a2bb24a91.png?resize=1&w=480&h=270&quality=medium"]
   },
         {
     "id": "6a087b05-d7d8-4506-8e8d-90efdb96c902",
     "gameId": "0ec568f3-3fb5-4f83-bc63-e1ff43771057",
     "title": "Assassin’s Creed Mirage Jinn Pack",
+    "logo": "https://cdn1.epicgames.com/offer/9bcf5a4dc1d54cb6ab1a42f3a70c5cf4/EGST_Logo_400x400_400x400-fe3e20bba7277e230cf803feec564d18?resize=1&w=480&h=270&quality=medium",
     "image": "https://cdn1.epicgames.com/offer/9bcf5a4dc1d54cb6ab1a42f3a70c5cf4/EGST_StorePortrait_1200x1600_1200x1600-1e4a1251af607f3beb843693c30f1f8c?resize=1&w=360&h=480&quality=medium",
-    "description": "",
+    "genre": ["Action", "Stealth"],
+    "platforms": ["Windows", "PS5", "Xbox"],
+    "releaseDate": "2023-10-05",
+    "developer": "Ubisoft",
+    "publisher": "Ubisoft",
     "price": 9.99,
     "discount": 0,
-    "type": "addon"
+    "isFree": false,
+    "language": ["EN", "FR", "AR", "TR"],
+    "type": "addon",
+    "shortDescription": "Experience the story of Basim, a cunning street thief with nightmarish visions, seeking answers and justice as he navigates the bustling streets of ninth-century Baghdad. Through a mysterious, ancient organization known as the Hidden Ones, he will become a deadly Master Assassin and change his fate in ways he never could have imagined.",
+     "fullDescription": [],
+    "features": ["Stealth", "Parkour"],
+    "video": "https://www.youtube.com/watch?v=x55lAlFtXmw",
+    "carouselImages": ["https://cdn1.epicgames.com/offer/9bcf5a4dc1d54cb6ab1a42f3a70c5cf4/EGST_Edition_Thumbnail_1920X1080_1920x1080-8c8839c568de0d821f92063b29b8a6ea",
+                       "https://cdn2.unrealengine.com/bagdad-vista-final-3840x2160-053259da6873.jpg?resize=1&w=480&h=270&quality=medium",
+                       "https://cdn2.unrealengine.com/bureau-concept-gold-candidate1920x1080-1920x1080-bf39631f989d.png?resize=1&w=480&h=270&quality=medium",
+                       "https://cdn2.unrealengine.com/chocking-smoke-bomb-gold-rgb-1080p-1920x1080-cd8a2bb24a91.png?resize=1&w=480&h=270&quality=medium"]
   },
         {
     "id": "4bc4a040-b1e8-42fc-a385-7be88e1fc49c",
     "gameId": "0ec568f3-3fb5-4f83-bc63-e1ff43771057",
     "title": "Assassin’s Creed Mirage Guardian Pack",
+    "logo": "https://cdn1.epicgames.com/offer/9bcf5a4dc1d54cb6ab1a42f3a70c5cf4/EGST_Logo_400x400_400x400-49a54d8993a9e7bde4d157a7ff35bb61?resize=1&w=480&h=270&quality=medium",
     "image": "https://cdn1.epicgames.com/offer/9bcf5a4dc1d54cb6ab1a42f3a70c5cf4/EGST_StorePortrait_1200x1600_1200x1600-72ff514edd25207db6743cdc6b598cf4?resize=1&w=360&h=480&quality=medium",
-    "description": "",
+    "genre": ["Action", "Stealth"],
+    "platforms": ["Windows", "PS5", "Xbox"],
+    "releaseDate": "2023-10-05",
+    "developer": "Ubisoft",
+    "publisher": "Ubisoft",
     "price": 9.99,
     "discount": 0,
-    "type": "addon"
+    "isFree": false,
+    "language": ["EN", "FR", "AR", "TR"],
+    "type": "addon",
+    "shortDescription": "Experience the story of Basim, a cunning street thief with nightmarish visions, seeking answers and justice as he navigates the bustling streets of ninth-century Baghdad. Through a mysterious, ancient organization known as the Hidden Ones, he will become a deadly Master Assassin and change his fate in ways he never could have imagined.",
+     "fullDescription": [],
+    "features": ["Stealth", "Parkour"],
+    "video": "https://www.youtube.com/watch?v=x55lAlFtXmw",
+    "carouselImages": ["https://cdn1.epicgames.com/offer/9bcf5a4dc1d54cb6ab1a42f3a70c5cf4/EGST_Edition_Thumbnail_1920X1080_1920x1080-0b4b156cf108ca10d07e648e46353943",
+                       "https://cdn2.unrealengine.com/bagdad-vista-final-3840x2160-053259da6873.jpg?resize=1&w=480&h=270&quality=medium",
+                       "https://cdn2.unrealengine.com/bureau-concept-gold-candidate1920x1080-1920x1080-bf39631f989d.png?resize=1&w=480&h=270&quality=medium",
+                       "https://cdn2.unrealengine.com/chocking-smoke-bomb-gold-rgb-1080p-1920x1080-cd8a2bb24a91.png?resize=1&w=480&h=270&quality=medium"]
   },
         {
     "id": "daf51871-78e0-4e82-9787-e01d731b283e",
     "gameId": "b022fdca-592c-41a7-9bd2-865a0dc995e4",
     "title": "Tom Clancy's Rainbow Six Siege X - Elite Edition",
+    "logo": "https://cdn1.epicgames.com/offer/carnation/EGST_Logo_400x400_400x400-dbacf89a10a3ca108eb7d1ce5a59b47a?resize=1&w=480&h=270&quality=medium",
     "image": "https://cdn1.epicgames.com/offer/carnation/EGST_StorePortrait_1200x1600_1200x1600-05f9d6928ef222cd50f7d6ada5c86398?resize=1&w=360&h=480&quality=medium",
-    "description": "",
+    "genre": ["Action", "Shooter", "Strategy"],
+    "platforms": ["Windows", "Xbox"],
+    "releaseDate": "2015-09-06",
+    "developer": "Ubisoft",
+    "publisher": "Ubisoft",
     "price": 19.99,
     "discount": 0,
-    "type": "edition"
+    "isFree": false,
+    "language": ["EN", "FR", "AR", "TR"],
+    "rating": 4.5,
+    "type": "edition",
+    "shortDescription": "Rainbow Six Siege X is the reference in tactical team shooters, where elite strategy and execution triumph. Enjoy free access to Quick Match, Unranked and Dual Front game modes with a selection of operators.",
+     "fullDescription": [
+         {
+        "heading": "Tom Clancy's Rainbow Six Siege X - Free Access",
+        "content": "Rainbow Six Siege X is the reference in tactical team shooters, where elite strategy and execution triumph. Enjoy free access to Quick Match, Unranked and Dual Front game modes with a selection of operators."
+    },
+    {
+        "heading": "TOOLS OF DESTRUCTION",
+        "content": "Destruction is more than chaos, it is a key tool for your success. Use the environment to your advantage — turn walls into windows of opportunity. Use state-of-the-art technology to track enemy movements, shatter walls to create new lines of sight, and manipulate your surroundings to secure the tactical advantage."
+    },
+    {
+        "heading": "FROM RECRUIT TO ELITE",
+        "content": "A solid onboarding journey for new players, including a new clearance level path, helping you learn progressively the basics and build the skills and confidence before jumping into tactical action."
+    }
+     ],
+    "features": ["Co-op", "Competetive", "Multiplayer"],
+    "video": "https://www.youtube.com/watch?v=BI9fgQY0d5I",
+    "carouselImages": ["https://cdn1.epicgames.com/offer/carnation/EGST_StoreLandscape_2560x1440_2560x1440-4a61435aa92b17f04642dfc4a4473cbf",
+                       "https://cdn2.unrealengine.com/kwm-r6s2402-screenshots-2160p-02-droning-nohud-v3-3840x2160-ef293c0a954e.jpg?resize=1&w=480&h=270&quality=medium",
+                       "https://cdn2.unrealengine.com/kwm-r6s2402-screenshots-2160p-03-rappelling-nohud-v3-3840x2160-55fd932a0e11.jpg?resize=1&w=480&h=270&quality=medium",
+                       "https://cdn2.unrealengine.com/kwm-r6s2402-screenshots-2160p-05-defensecoordination-nohud-v3-3840x2160-609a149397f4.jpg?resize=1&w=480&h=270&quality=medium"]
   },
         {
     "id": "ab176568-7b99-41d8-a046-f7c2b92584aa",
     "gameId": "b022fdca-592c-41a7-9bd2-865a0dc995e4",
     "title": "Tom Clancy's Rainbow Six Siege X - Ultimate Edition",
+    "logo": "https://cdn1.epicgames.com/offer/carnation/EGST_Logo_400x400_400x400-5708dc871f3ec56021703a554b01023d?resize=1&w=480&h=270&quality=medium",
     "image": "https://cdn1.epicgames.com/offer/carnation/EGST_StorePortrait_1200x1600_1200x1600-8341f5a48fe6ad8a7ec7ecf1cf83004e?resize=1&w=360&h=480&quality=medium",
-    "description": "",
+    "genre": ["Action", "Shooter", "Strategy"],
+    "platforms": ["Windows", "Xbox"],
+    "releaseDate": "2015-09-06",
+    "developer": "Ubisoft",
+    "publisher": "Ubisoft",
     "price": 39.99,
     "discount": 0,
-    "type": "edition"
+    "isFree": false,
+    "language": ["EN", "FR", "AR", "TR"],
+    "type": "edition",
+    "shortDescription": "Rainbow Six Siege X is the reference in tactical team shooters, where elite strategy and execution triumph. Enjoy free access to Quick Match, Unranked and Dual Front game modes with a selection of operators.",
+     "fullDescription": [
+         {
+        "heading": "Tom Clancy's Rainbow Six Siege X - Free Access",
+        "content": "Rainbow Six Siege X is the reference in tactical team shooters, where elite strategy and execution triumph. Enjoy free access to Quick Match, Unranked and Dual Front game modes with a selection of operators."
+    },
+    {
+        "heading": "TOOLS OF DESTRUCTION",
+        "content": "Destruction is more than chaos, it is a key tool for your success. Use the environment to your advantage — turn walls into windows of opportunity. Use state-of-the-art technology to track enemy movements, shatter walls to create new lines of sight, and manipulate your surroundings to secure the tactical advantage."
+    },
+    {
+        "heading": "FROM RECRUIT TO ELITE",
+        "content": "A solid onboarding journey for new players, including a new clearance level path, helping you learn progressively the basics and build the skills and confidence before jumping into tactical action."
+    }
+     ],
+    "features": ["Co-op", "Competetive", "Multiplayer"],
+    "video": "https://www.youtube.com/watch?v=BI9fgQY0d5I",
+    "carouselImages": ["https://cdn1.epicgames.com/offer/carnation/EGST_StoreLandscape_2560x1440_2560x1440-0c7f6d53ff5013f344680751994de4e1",
+                       "https://cdn2.unrealengine.com/kwm-r6s2402-screenshots-2160p-02-droning-nohud-v3-3840x2160-ef293c0a954e.jpg?resize=1&w=480&h=270&quality=medium",
+                       "https://cdn2.unrealengine.com/kwm-r6s2402-screenshots-2160p-03-rappelling-nohud-v3-3840x2160-55fd932a0e11.jpg?resize=1&w=480&h=270&quality=medium",
+                       "https://cdn2.unrealengine.com/kwm-r6s2402-screenshots-2160p-05-defensecoordination-nohud-v3-3840x2160-609a149397f4.jpg?resize=1&w=480&h=270&quality=medium"]
   },
         {
     "id": "42ed2261-785d-456c-a4ee-0fc76d2602e3",
     "gameId": "b022fdca-592c-41a7-9bd2-865a0dc995e4",
     "title": "5,000 Premier Pack - Rainbow Six Siege",
+    "logo": "https://cdn1.epicgames.com/offer/carnation/EGST_Logo_400x400_400x400-afd86547649adba6a261e93340221648?resize=1&w=480&h=270&quality=medium",
     "image": "https://cdn1.epicgames.com/offer/carnation/EGST_StorePortrait_1200x1600_1200x1600-ffa71c067e731b890fc8404c469d0871?resize=1&w=360&h=480&quality=medium",
-    "description": "",
+    "genre": ["Action", "Shooter", "Strategy"],
+    "platforms": ["Windows", "Xbox"],
+    "releaseDate": "2015-09-06",
+    "developer": "Ubisoft",
+    "publisher": "Ubisoft",
     "price": 39.99,
     "discount": 0,
-    "type": "addon"
+    "isFree": false,
+    "language": ["EN", "FR", "AR", "TR"],
+    "type": "addon",
+    "shortDescription": "Rainbow Six Siege X is the reference in tactical team shooters, where elite strategy and execution triumph. Enjoy free access to Quick Match, Unranked and Dual Front game modes with a selection of operators.",
+     "fullDescription": [
+         {
+        "heading": "Tom Clancy's Rainbow Six Siege X - Free Access",
+        "content": "Rainbow Six Siege X is the reference in tactical team shooters, where elite strategy and execution triumph. Enjoy free access to Quick Match, Unranked and Dual Front game modes with a selection of operators."
+    },
+    {
+        "heading": "TOOLS OF DESTRUCTION",
+        "content": "Destruction is more than chaos, it is a key tool for your success. Use the environment to your advantage — turn walls into windows of opportunity. Use state-of-the-art technology to track enemy movements, shatter walls to create new lines of sight, and manipulate your surroundings to secure the tactical advantage."
+    },
+    {
+        "heading": "FROM RECRUIT TO ELITE",
+        "content": "A solid onboarding journey for new players, including a new clearance level path, helping you learn progressively the basics and build the skills and confidence before jumping into tactical action."
+    }
+     ],
+    "features": ["Co-op", "Competetive", "Multiplayer"],
+    "video": "https://www.youtube.com/watch?v=BI9fgQY0d5I",
+    "carouselImages": ["https://cdn1.epicgames.com/offer/carnation/EGST_StoreLandscape_2560x1440_2560x1440-78216955ba902b27581f6f325c6769c1",
+                       "https://cdn2.unrealengine.com/kwm-r6s2402-screenshots-2160p-02-droning-nohud-v3-3840x2160-ef293c0a954e.jpg?resize=1&w=480&h=270&quality=medium",
+                       "https://cdn2.unrealengine.com/kwm-r6s2402-screenshots-2160p-03-rappelling-nohud-v3-3840x2160-55fd932a0e11.jpg?resize=1&w=480&h=270&quality=medium",
+                       "https://cdn2.unrealengine.com/kwm-r6s2402-screenshots-2160p-05-defensecoordination-nohud-v3-3840x2160-609a149397f4.jpg?resize=1&w=480&h=270&quality=medium"]
   },
         {
     "id": "738423aa-c993-4443-83db-0a0b9592c4de",
     "gameId": "b022fdca-592c-41a7-9bd2-865a0dc995e4",
     "title": "3,300 Premier Pack - Rainbow Six Siege",
+    "logo": "https://cdn1.epicgames.com/offer/carnation/EGST_Logo_400x400_400x400-c4ff0b38905fececf2f9410ce1872df7?resize=1&w=480&h=270&quality=medium",
     "image": "https://cdn1.epicgames.com/offer/carnation/EGST_StorePortrait_1200x1600_1200x1600-159c04ea408a343115adea0af23a2ea6?resize=1&w=360&h=480&quality=medium",
-    "description": "",
+    "genre": ["Action", "Shooter", "Strategy"],
+    "platforms": ["Windows", "Xbox"],
+    "releaseDate": "2015-09-06",
+    "developer": "Ubisoft",
+    "publisher": "Ubisoft",
     "price": 19.99,
     "discount": 0,
-    "type": "addon"
+    "isFree": false,
+    "language": ["EN", "FR", "AR", "TR"],
+    "type": "addon",
+    "shortDescription": "Rainbow Six Siege X is the reference in tactical team shooters, where elite strategy and execution triumph. Enjoy free access to Quick Match, Unranked and Dual Front game modes with a selection of operators.",
+     "fullDescription": [
+         {
+        "heading": "Tom Clancy's Rainbow Six Siege X - Free Access",
+        "content": "Rainbow Six Siege X is the reference in tactical team shooters, where elite strategy and execution triumph. Enjoy free access to Quick Match, Unranked and Dual Front game modes with a selection of operators."
+    },
+    {
+        "heading": "TOOLS OF DESTRUCTION",
+        "content": "Destruction is more than chaos, it is a key tool for your success. Use the environment to your advantage — turn walls into windows of opportunity. Use state-of-the-art technology to track enemy movements, shatter walls to create new lines of sight, and manipulate your surroundings to secure the tactical advantage."
+    },
+    {
+        "heading": "FROM RECRUIT TO ELITE",
+        "content": "A solid onboarding journey for new players, including a new clearance level path, helping you learn progressively the basics and build the skills and confidence before jumping into tactical action."
+    }
+     ],
+    "features": ["Co-op", "Competetive", "Multiplayer"],
+    "video": "https://www.youtube.com/watch?v=BI9fgQY0d5I",
+    "carouselImages": ["https://cdn1.epicgames.com/offer/carnation/EGST_StoreLandscape_2560x1440_2560x1440-8ce9683424551569ef149c849860d31c",
+                       "https://cdn2.unrealengine.com/kwm-r6s2402-screenshots-2160p-02-droning-nohud-v3-3840x2160-ef293c0a954e.jpg?resize=1&w=480&h=270&quality=medium",
+                       "https://cdn2.unrealengine.com/kwm-r6s2402-screenshots-2160p-03-rappelling-nohud-v3-3840x2160-55fd932a0e11.jpg?resize=1&w=480&h=270&quality=medium",
+                       "https://cdn2.unrealengine.com/kwm-r6s2402-screenshots-2160p-05-defensecoordination-nohud-v3-3840x2160-609a149397f4.jpg?resize=1&w=480&h=270&quality=medium"]
   },
         {
     "id": "7d809db7-5cf4-4262-9062-90460b43a650",
     "gameId": "ba982536-ba46-43ef-9d72-725f10b13ba6",
     "title": "Sifu Digital Deluxe Edition",
+    "logo": "https://cdn2.unrealengine.com/egs-greeneye-sloclap-ic1-400x400-7f5493d6af29.png?resize=1&w=480&h=270&quality=medium",
     "image": "https://cdn2.unrealengine.com/egs-sifudigitaldeluxeedition-sloclap-editions-s2a-1200x1600-0ae6ff3437f5.jpg?resize=1&w=360&h=480&quality=medium",
-    "description": "",
+    "genre": ["Action", "Fighting", "Indie"],
+    "platforms": ["Windows", "PS5"],
+    "releaseDate": "2022-02-08",
+    "developer": "Sloclap",
+    "publisher": "Sloclap",
     "price": 25.99,
     "discount": 0,
-    "type": "edition"
+    "isFree": false,
+    "language": ["EN", "FR", "CN"],
+    "rating": 4.7,
+    "type": "edition",
+    "shortDescription": "Sifu is a realistic third-person brawler with tight Kung Fu combat mechanics and cinematic martial arts action embarking you on a path for revenge.",
+     "fullDescription": [
+         {
+        "heading": "New content available | Enter the Arenas",
+        "content": "Itching for some more good ol' Kung Fu action? The Arenas free expansion adds an entirely new game mode, featuring 15 dynamic locations and 120 challenges that will put your Kung Fu to the test! Gear up for spectacular combats, brutal opponents, and endless opportunities to refine your moves."
+    },
+    {
+        "heading": "Learning by fire",
+        "content": "Your enemies don’t wait their turn, and they don’t broadcast their intent. Dodge, parry, strike, use combos and be like water making its way through captivating environments. Learn how to master your art, whether by fighting through the underbelly of a nightclub, scrambling through a refined gallery to avoid getting surrounded, or vertically navigating a towering office building."
+    },
+    {
+        "heading": "Adaptation is survival",
+        "content": "Careful positioning and clever use of the environment to your advantage are key to your survival. Use everything at your disposal: throwable objects, makeshift weapons, windows, and ledges. The odds are stacked against you, and you will be offered no mercy."
+    }
+     ],
+    "features": ["Controller", "Single Player"],
+    "video": "https://www.youtube.com/watch?v=1FQ1YO3Ks2U",
+    "carouselImages": ["https://cdn2.unrealengine.com/egs-sifustandardedition-sloclap-g1a-05-1920x1080-1e028de5e661.jpg?resize=1&w=480&h=270&quality=medium",
+                       "https://cdn2.unrealengine.com/egs-sifustandardedition-sloclap-g1a-06-1920x1080-66e086a82055.jpg?resize=1&w=480&h=270&quality=medium",
+                        "https://cdn2.unrealengine.com/egs-sifustandardedition-sloclap-g1a-07-1920x1080-b79fe52bb072.jpg?resize=1&w=480&h=270&quality=medium",
+                        "https://cdn2.unrealengine.com/egs-sifustandardedition-sloclap-g1a-08-1920x1080-b89d9b05bd9f.jpg?resize=1&w=480&h=270&quality=medium"]
   },
         {
     "id": "1d59c527-5f1d-49e8-a9ca-a46b4a19b26c",
     "gameId": "f2151708-35e5-4df8-ba16-2dec7609168c",
     "title": "Metro Exodus The Two Colonels",
+    "logo": "https://cdn1.epicgames.com/offer/snapdragon/en_MetroExodus_TwoColonels_IC1_1000x1000-91ddfc087698146b02ebc9b514badb02?resize=1&w=480&h=270&quality=medium",
     "image": "https://cdn1.epicgames.com/offer/snapdragon/MetroExodus_TheTwoColonels_1200x1600_1200x1600-d1ded687fd175a5f0d9278de890c3e1c?resize=1&w=360&h=480&quality=medium",
-    "description": "",
+    "genre": ["Shooter", "Action", "First Person"],
+    "platforms": ["Windows"],
+    "releaseDate": "2019-02-15",
+    "developer": "4A Games",
+    "publisher": "Deep Silver",
     "price": 5.99,
     "discount": 0,
-    "type": "addon"
+    "isFree": false,
+    "language": ["EN", "RU", "UA", "PL"],
+    "type": "addon",
+    "shortDescription": "Metro Exodus is an epic, story-driven first person shooter from 4A Games that blends deadly combat and stealth with exploration and survival horror in one of the most immersive game worlds ever created.",
+     "fullDescription": [],
+    "features": ["FPS", "Atmospheric", "Survival"],
+    "video": "https://www.youtube.com/watch?v=cM4yaHY6qas",
+    "carouselImages": [
+      "https://cdn1.epicgames.com/offer/snapdragon/Diesel_productv2_metro-exodus_the-two-colonels_M3_Editions_DLC1_TheTwoColonels-3840x2160-2f1a9a8d432ce98bfdd4c3b13d311fea89f8014d_3840x2160-bfee2421042489952e8ffcc0eb259601",
+      "https://cdn2.unrealengine.com/Diesel%2Fproduct%2Fsnapdragon%2Fhome%2FM3_Carousel_02_1200x674_1547830965646-1200x674-3e63f0877aa8b3b0e056b29f25b49b0564ac991d.jpg?resize=1&w=480&h=270&quality=medium",
+      "https://cdn2.unrealengine.com/Diesel%2Fproduct%2Fsnapdragon%2Fhome%2FM3_Carousel_03_1200x674_1547830969460-1200x674-bb7618315d6ea629f5b1a3573d8d1e12f4d9e03f.jpg?resize=1&w=480&h=270&quality=medium",
+      "https://cdn2.unrealengine.com/Diesel%2Fproduct%2Fsnapdragon%2Fhome%2FM3_Carousel_04_1200x674_1547830971850-1200x674-b7a7825cba039e6d6e6306a637e43e737be22884.jpg?resize=1&w=480&h=270&quality=medium"
+    ]
   },
         {
     "id": "39b33c00-8e07-45cd-a34f-7d711e3f16c2",
     "gameId": "e0596de1-0bec-4757-900b-896bc6f337b4",
     "title": "Dying Light 2 Stay Human: Rais Bundle",
+    "logo": "https://cdn1.epicgames.com/offer/87b7846d2eba4bc49eead0854323aba8/EGS_DyingLight2StayHumanRaisBundle_Techland_DLC_IC1_200x200-66545099a5d1b099cf7670a60a747d90_200x200-66545099a5d1b099cf7670a60a747d90?resize=1&w=480&h=270&quality=medium",
     "image": "https://cdn1.epicgames.com/offer/87b7846d2eba4bc49eead0854323aba8/EGS_DyingLight2StayHumanRaisBundle_Techland_DLC_S2_1200x1600-16688ca68e8c1988a820f5f11730daf5_1200x1600-16688ca68e8c1988a820f5f11730daf5?resize=1&w=360&h=480&quality=medium",
-    "description": "",
+    "genre": ["Action", "First Person", "Horror", "Open World", "RPG", "Survival"],
+    "platforms": ["Windows", "PS5"],
+    "releaseDate": "2022-04-19",
+    "developer": "Techland",
+    "publisher": "Techland",
     "price": 1.99,
     "discount": 0,
-    "type": "addon"
+    "isFree": false,
+    "language": ["EN", "FR", "JP", "RU"],
+    "type": "addon",
+    "shortDescription": "Now with guns! With the Reloaded Edition, the arsenal at your disposal has grown massively. Be creative with your combat or outrun your foes as you enjoy the perks of more than 10 post-launch updates. Good luck out there, and stay human!",
+     "fullDescription": [
+         {
+        "heading": "A WORLD AFTER THE APOCALYPSE",
+        "content": "Fifteen years ago, humanity was devastated by the Fall — a catastrophic event that would change the world forever. With the Harran virus spreading around the globe, people quickly found out that all hope for tomorrow is lost. By 2036, only a few settlements remain, and humanity is slowly dying, making way for the new species out there — a horde of relentless zombies."
+    },
+    {
+        "heading": "DAY’S FOR THE LIVING, NIGHT’S FOR THE INFECTED",
+        "content": "Not all fights can be won. Sometimes it’s best to run and, thankfully, you have the skills for it. Parkour lets you escape when odds are not in your favor. Jump from rooftop to rooftop, swing across the cityscape, ride ziplines, and much more."
+    },
+    {
+        "heading": "GET BRUTAL AND BE CREATIVE ABOUT IT",
+        "content": "In a world as dangerous as this one, only the strongest survive. Whether you prefer to smash, slice or dismember those who stand in your way, you have to be creative about it to make it through. And who says you need weapons? Utilize the entirety of your parkour moveset to get the jump on your enemies. Learn the ways of combat and parkour to feel the crunch of skulls and slices of flesh as you swing weapons or use your moves to fend off any forms of danger."
+    }
+     ],
+    "features": ["Multiplayer", "Co-op", "Single Player", "Achievement", "Cloud Saves", "Controller Support"],
+    "video": "https://www.youtube.com/watch?v=68bZ1LKKh7Q",
+    "carouselImages": [
+      "https://cdn1.epicgames.com/offer/87b7846d2eba4bc49eead0854323aba8/EGS_DyingLight2StayHumanRaisBundle_Techland_DLC_G1A_00_1920x1080-5d8f87a6626f053f11f1655ecef00d23",
+      "https://cdn2.unrealengine.com/egs-dyinglight2stayhuman-techland-g1a-04-1920x1080-01df52f79ade.jpg?resize=1&w=480&h=270&quality=medium",
+      "https://cdn2.unrealengine.com/egs-dyinglight2stayhuman-techland-g1a-05-1920x1080-1c5ac325c83a.jpg?resize=1&w=480&h=270&quality=medium",
+      "https://cdn2.unrealengine.com/egs-dyinglight2stayhuman-techland-g1a-06-1920x1080-40f55c566ef9.jpg?resize=1&w=480&h=270&quality=medium"
+    ]
   },
         {
     "id": "5b8fa96d-71f8-4e8f-8d13-6d8e5aa3f213",
     "gameId": "e0596de1-0bec-4757-900b-896bc6f337b4",
     "title": "Dying Light 2 Stay Human: Chicken Bundle",
+    "logo": "https://cdn1.epicgames.com/offer/87b7846d2eba4bc49eead0854323aba8/EGS_DyingLight2StayHumanChickenBundle_Techland_DLC_IC1_200x200-52683527d6753ec122925736279eabb8?resize=1&w=480&h=270&quality=medium",
     "image": "https://cdn1.epicgames.com/offer/87b7846d2eba4bc49eead0854323aba8/EGS_DyingLight2StayHumanChickenBundle_Techland_DLC_S2_1200x1600-eb4f7c3e75eea28181b49c6a933b0177?resize=1&w=360&h=480&quality=medium",
-    "description": "",
+    "genre": ["Action", "First Person", "Horror", "Open World", "RPG", "Survival"],
+    "platforms": ["Windows", "PS5"],
+    "releaseDate": "2022-04-19",
+    "developer": "Techland",
+    "publisher": "Techland",
     "price": 2.99,
     "discount": 0,
-    "type": "addon"
+    "isFree": false,
+    "language": ["EN", "FR", "JP", "RU"],
+    "type": "addon",
+    "shortDescription": "Now with guns! With the Reloaded Edition, the arsenal at your disposal has grown massively. Be creative with your combat or outrun your foes as you enjoy the perks of more than 10 post-launch updates. Good luck out there, and stay human!",
+     "fullDescription": [
+         {
+        "heading": "A WORLD AFTER THE APOCALYPSE",
+        "content": "Fifteen years ago, humanity was devastated by the Fall — a catastrophic event that would change the world forever. With the Harran virus spreading around the globe, people quickly found out that all hope for tomorrow is lost. By 2036, only a few settlements remain, and humanity is slowly dying, making way for the new species out there — a horde of relentless zombies."
+    },
+    {
+        "heading": "DAY’S FOR THE LIVING, NIGHT’S FOR THE INFECTED",
+        "content": "Not all fights can be won. Sometimes it’s best to run and, thankfully, you have the skills for it. Parkour lets you escape when odds are not in your favor. Jump from rooftop to rooftop, swing across the cityscape, ride ziplines, and much more."
+    },
+    {
+        "heading": "GET BRUTAL AND BE CREATIVE ABOUT IT",
+        "content": "In a world as dangerous as this one, only the strongest survive. Whether you prefer to smash, slice or dismember those who stand in your way, you have to be creative about it to make it through. And who says you need weapons? Utilize the entirety of your parkour moveset to get the jump on your enemies. Learn the ways of combat and parkour to feel the crunch of skulls and slices of flesh as you swing weapons or use your moves to fend off any forms of danger."
+    }
+     ],
+    "features": ["Multiplayer", "Co-op", "Single Player", "Achievement", "Cloud Saves", "Controller Support"],
+    "video": "https://www.youtube.com/watch?v=68bZ1LKKh7Q",
+    "carouselImages": [
+      "https://cdn1.epicgames.com/offer/87b7846d2eba4bc49eead0854323aba8/EGS_DyingLight2StayHumanChickenBundle_Techland_DLC_G1A_00_1920x1080-03e9e4e2601a86e8515a5093b7196142",
+      "https://cdn2.unrealengine.com/egs-dyinglight2stayhuman-techland-g1a-04-1920x1080-01df52f79ade.jpg?resize=1&w=480&h=270&quality=medium",
+      "https://cdn2.unrealengine.com/egs-dyinglight2stayhuman-techland-g1a-05-1920x1080-1c5ac325c83a.jpg?resize=1&w=480&h=270&quality=medium",
+      "https://cdn2.unrealengine.com/egs-dyinglight2stayhuman-techland-g1a-06-1920x1080-40f55c566ef9.jpg?resize=1&w=480&h=270&quality=medium"
+    ]
   },
         {
     "id": "7d6dca85-2a84-485f-9524-53e6e2c1daf4",
     "gameId": "e0596de1-0bec-4757-900b-896bc6f337b4",
     "title": "Dying Light 2 Stay Human: Gunslinger Bundle",
+    "logo": "https://cdn1.epicgames.com/offer/87b7846d2eba4bc49eead0854323aba8/EGS_DyingLight2StayHumanGunslingerBundle_Techland_DLC_IC1_200x200-d23c560204f42d89fc9dd9f4a3b48b28?resize=1&w=480&h=270&quality=medium",
     "image": "https://cdn1.epicgames.com/offer/87b7846d2eba4bc49eead0854323aba8/EGS_DyingLight2StayHumanGunslingerBundle_Techland_DLC_S2_1200x1600-2ecbfc63c7eaa79a26ed5c93a9f30926?resize=1&w=360&h=480&quality=medium",
-    "description": "",
+    "genre": ["Action", "First Person", "Horror", "Open World", "RPG", "Survival"],
+    "platforms": ["Windows", "PS5"],
+    "releaseDate": "2022-04-19",
+    "developer": "Techland",
+    "publisher": "Techland",
     "price": 2.99,
     "discount": 0,
-    "type": "addon"
+    "isFree": false,
+    "language": ["EN", "FR", "JP", "RU"],
+    "type": "addon",
+    "shortDescription": "Now with guns! With the Reloaded Edition, the arsenal at your disposal has grown massively. Be creative with your combat or outrun your foes as you enjoy the perks of more than 10 post-launch updates. Good luck out there, and stay human!",
+     "fullDescription": [
+         {
+        "heading": "A WORLD AFTER THE APOCALYPSE",
+        "content": "Fifteen years ago, humanity was devastated by the Fall — a catastrophic event that would change the world forever. With the Harran virus spreading around the globe, people quickly found out that all hope for tomorrow is lost. By 2036, only a few settlements remain, and humanity is slowly dying, making way for the new species out there — a horde of relentless zombies."
+    },
+    {
+        "heading": "DAY’S FOR THE LIVING, NIGHT’S FOR THE INFECTED",
+        "content": "Not all fights can be won. Sometimes it’s best to run and, thankfully, you have the skills for it. Parkour lets you escape when odds are not in your favor. Jump from rooftop to rooftop, swing across the cityscape, ride ziplines, and much more."
+    },
+    {
+        "heading": "GET BRUTAL AND BE CREATIVE ABOUT IT",
+        "content": "In a world as dangerous as this one, only the strongest survive. Whether you prefer to smash, slice or dismember those who stand in your way, you have to be creative about it to make it through. And who says you need weapons? Utilize the entirety of your parkour moveset to get the jump on your enemies. Learn the ways of combat and parkour to feel the crunch of skulls and slices of flesh as you swing weapons or use your moves to fend off any forms of danger."
+    }
+     ],
+    "features": ["Multiplayer", "Co-op", "Single Player", "Achievement", "Cloud Saves", "Controller Support"],
+    "video": "https://www.youtube.com/watch?v=68bZ1LKKh7Q",
+    "carouselImages": [
+      "https://cdn1.epicgames.com/offer/87b7846d2eba4bc49eead0854323aba8/EGS_DyingLight2StayHumanGunslingerBundle_Techland_DLC_G1A_00_1920x1080-9974fb6d5dad9c3c462e37b9009df2e2",
+      "https://cdn2.unrealengine.com/egs-dyinglight2stayhuman-techland-g1a-04-1920x1080-01df52f79ade.jpg?resize=1&w=480&h=270&quality=medium",
+      "https://cdn2.unrealengine.com/egs-dyinglight2stayhuman-techland-g1a-05-1920x1080-1c5ac325c83a.jpg?resize=1&w=480&h=270&quality=medium",
+      "https://cdn2.unrealengine.com/egs-dyinglight2stayhuman-techland-g1a-06-1920x1080-40f55c566ef9.jpg?resize=1&w=480&h=270&quality=medium"
+    ]
   },
         {
     "id": "82b8edc3-4c67-4362-ad3b-5ea5a8a21761",
     "gameId": "e0596de1-0bec-4757-900b-896bc6f337b4",
     "title": "Dying Light 2 Stay Human: Authory Pack",
+    "logo": "https://cdn1.epicgames.com/offer/87b7846d2eba4bc49eead0854323aba8/EGS_DyingLight2StayHumanAuthorityPackPart23_Techland_DLC_IC1_200x200-29c465dd092ac15079b803fd8e868029?resize=1&w=480&h=270&quality=medium",
     "image": "https://cdn1.epicgames.com/offer/87b7846d2eba4bc49eead0854323aba8/EGS_DyingLight2StayHumanAuthorityPackPart23_Techland_DLC_S2_1200x1600-d7315fd74d6184cbe8da0187bd925302?resize=1&w=360&h=480&quality=medium",
-    "description": "",
+    "genre": ["Action", "First Person", "Horror", "Open World", "RPG", "Survival"],
+    "platforms": ["Windows", "PS5"],
+    "releaseDate": "2022-04-19",
+    "developer": "Techland",
+    "publisher": "Techland",
     "price": 2.99,
     "discount": 0,
-    "type": "addon"
+    "isFree": false,
+    "language": ["EN", "FR", "JP", "RU"],
+    "type": "addon",
+    "shortDescription": "Now with guns! With the Reloaded Edition, the arsenal at your disposal has grown massively. Be creative with your combat or outrun your foes as you enjoy the perks of more than 10 post-launch updates. Good luck out there, and stay human!",
+     "fullDescription": [
+         {
+        "heading": "A WORLD AFTER THE APOCALYPSE",
+        "content": "Fifteen years ago, humanity was devastated by the Fall — a catastrophic event that would change the world forever. With the Harran virus spreading around the globe, people quickly found out that all hope for tomorrow is lost. By 2036, only a few settlements remain, and humanity is slowly dying, making way for the new species out there — a horde of relentless zombies."
+    },
+    {
+        "heading": "DAY’S FOR THE LIVING, NIGHT’S FOR THE INFECTED",
+        "content": "Not all fights can be won. Sometimes it’s best to run and, thankfully, you have the skills for it. Parkour lets you escape when odds are not in your favor. Jump from rooftop to rooftop, swing across the cityscape, ride ziplines, and much more."
+    },
+    {
+        "heading": "GET BRUTAL AND BE CREATIVE ABOUT IT",
+        "content": "In a world as dangerous as this one, only the strongest survive. Whether you prefer to smash, slice or dismember those who stand in your way, you have to be creative about it to make it through. And who says you need weapons? Utilize the entirety of your parkour moveset to get the jump on your enemies. Learn the ways of combat and parkour to feel the crunch of skulls and slices of flesh as you swing weapons or use your moves to fend off any forms of danger."
+    }
+     ],
+    "features": ["Multiplayer", "Co-op", "Single Player", "Achievement", "Cloud Saves", "Controller Support"],
+    "video": "https://www.youtube.com/watch?v=68bZ1LKKh7Q",
+    "carouselImages": [
+      "https://cdn1.epicgames.com/offer/87b7846d2eba4bc49eead0854323aba8/EGS_DyingLight2StayHumanAuthorityPackPart23_Techland_DLC_G1A_00_1920x1080-f84bd724cfe04c98a7615227a718fe4f",
+      "https://cdn2.unrealengine.com/egs-dyinglight2stayhuman-techland-g1a-04-1920x1080-01df52f79ade.jpg?resize=1&w=480&h=270&quality=medium",
+      "https://cdn2.unrealengine.com/egs-dyinglight2stayhuman-techland-g1a-05-1920x1080-1c5ac325c83a.jpg?resize=1&w=480&h=270&quality=medium",
+      "https://cdn2.unrealengine.com/egs-dyinglight2stayhuman-techland-g1a-06-1920x1080-40f55c566ef9.jpg?resize=1&w=480&h=270&quality=medium"
+    ]
   },
       {
     "id": "a866bc4c-e052-4c8a-b6c9-4c9cac7bf907",
