@@ -85,16 +85,17 @@
     "thumbnail": "https://cdn2.unrealengine.com/en-epic-savings-august-carousel-thumbnail-1200x1600-defe73356a17.jpg?resize=1&w=96&h=128&quality=medium"
   },
   {
-    "id": "2e940c0c-47ce-4b92-876b-328d958e7886",
-    "title": "Out of Time",
-    "mobImg" :"https://cdn1.epicgames.com/spt-assets/bdec776c26534fbf9c36d08fb9ba2899/out-of-time-1exk6.png?resize=1&w=360&h=480&quality=medium",
-    "gameId": "0ae46f26-7b0b-45ed-9d36-9348c8a5e8e8",
-    "subtitle": "COMING SOON",
-    "logo": "https://cdn2.unrealengine.com/egs-out-of-time-carousel-logo-350x93-5655a38efc69.png",
-    "description": "Battle in collapsing timelines in this chaotic co-op roguelike where gear defines power, teamwork is survival, and every run rewrites reality.",
-    "price": "11.19",
-    "image": "https://cdn2.unrealengine.com/egs-out-of-time-carousel-desktop-1920x1080-b11a25ba7eab.jpg?resize=1&w=1280&h=720&quality=medium",
-    "thumbnail": "https://cdn2.unrealengine.com/egs-out-of-time-carousel-thumb-1200x1600-46b24cc7fbe3.jpg?resize=1&w=96&h=128&quality=medium"
+    "id": "b05eb411-8e01-4203-ab90-dbdd6da79b46",
+    "title": "Madden NFL 26",
+    "subtitle": "BUILDS FROM SUNDAY",
+    "description": "Madden NFL 26 is now available worldwide. Buy now to see how years of NFL data informs more explosive, true-to-life gameplay.",
+    "price": "$69.99",
+    "logo": "https://cdn2.unrealengine.com/egs-madden-26-carousel-logo-350x158-f148e85bc6d5.png",
+    "image": "https://cdn2.unrealengine.com/egs-madden-26-carousel-desktop-1920x1080-9cd8094e76c4.jpg?resize=1&w=854&h=480&quality=medium",
+    "mobImg": "https://cdn2.unrealengine.com/egs-madden-26-carousel-mobile-1200x1600-fcc22bd3637c.jpg?resize=1&w=640&h=854&quality=medium",
+    "thumbnail": "https://cdn2.unrealengine.com/egs-madden-26-carousel-thumb-1200x1600-7d898ab7d152.jpg?resize=1&w=96&h=128&quality=medium",
+    "gameId": "d0c1ad54-d0fe-4d3f-9651-f1c14790cb1f",
+    "isFree": false
   },
   {
     "id": "20d72f82-14ec-4c2e-bdb5-2ffbc1793662",
