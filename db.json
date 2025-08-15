@@ -640,41 +640,154 @@
     "id": "daf51871-78e0-4e82-9787-e01d731b283e",
     "gameId": "b022fdca-592c-41a7-9bd2-865a0dc995e4",
     "title": "Tom Clancy's Rainbow Six Siege X - Elite Edition",
+    "logo": "https://cdn1.epicgames.com/offer/carnation/EGST_Logo_400x400_400x400-dbacf89a10a3ca108eb7d1ce5a59b47a?resize=1&w=480&h=270&quality=medium",
     "image": "https://cdn1.epicgames.com/offer/carnation/EGST_StorePortrait_1200x1600_1200x1600-05f9d6928ef222cd50f7d6ada5c86398?resize=1&w=360&h=480&quality=medium",
-    "description": "",
+    "genre": ["Action", "Shooter", "Strategy"],
+    "platforms": ["Windows", "Xbox"],
+    "releaseDate": "2015-09-06",
+    "developer": "Ubisoft",
+    "publisher": "Ubisoft",
     "price": 19.99,
     "discount": 0,
-    "type": "edition"
+    "isFree": false,
+    "language": ["EN", "FR", "AR", "TR"],
+    "rating": 4.5,
+    "type": "edition",
+    "shortDescription": "Rainbow Six Siege X is the reference in tactical team shooters, where elite strategy and execution triumph. Enjoy free access to Quick Match, Unranked and Dual Front game modes with a selection of operators.",
+     "fullDescription": [
+         {
+        "heading": "Tom Clancy's Rainbow Six Siege X - Free Access",
+        "content": "Rainbow Six Siege X is the reference in tactical team shooters, where elite strategy and execution triumph. Enjoy free access to Quick Match, Unranked and Dual Front game modes with a selection of operators."
+    },
+    {
+        "heading": "TOOLS OF DESTRUCTION",
+        "content": "Destruction is more than chaos, it is a key tool for your success. Use the environment to your advantage — turn walls into windows of opportunity. Use state-of-the-art technology to track enemy movements, shatter walls to create new lines of sight, and manipulate your surroundings to secure the tactical advantage."
+    },
+    {
+        "heading": "FROM RECRUIT TO ELITE",
+        "content": "A solid onboarding journey for new players, including a new clearance level path, helping you learn progressively the basics and build the skills and confidence before jumping into tactical action."
+    }
+     ],
+    "features": ["Co-op", "Competetive", "Multiplayer"],
+    "video": "https://www.youtube.com/watch?v=BI9fgQY0d5I",
+    "carouselImages": ["https://cdn1.epicgames.com/offer/carnation/EGST_StoreLandscape_2560x1440_2560x1440-0c7f6d53ff5013f344680751994de4e1",
+                       "https://cdn2.unrealengine.com/kwm-r6s2402-screenshots-2160p-02-droning-nohud-v3-3840x2160-ef293c0a954e.jpg?resize=1&w=480&h=270&quality=medium",
+                       "https://cdn2.unrealengine.com/kwm-r6s2402-screenshots-2160p-03-rappelling-nohud-v3-3840x2160-55fd932a0e11.jpg?resize=1&w=480&h=270&quality=medium",
+                       "https://cdn2.unrealengine.com/kwm-r6s2402-screenshots-2160p-05-defensecoordination-nohud-v3-3840x2160-609a149397f4.jpg?resize=1&w=480&h=270&quality=medium"]
   },
         {
     "id": "ab176568-7b99-41d8-a046-f7c2b92584aa",
     "gameId": "b022fdca-592c-41a7-9bd2-865a0dc995e4",
     "title": "Tom Clancy's Rainbow Six Siege X - Ultimate Edition",
+    "logo": "https://cdn1.epicgames.com/offer/carnation/EGST_Logo_400x400_400x400-5708dc871f3ec56021703a554b01023d?resize=1&w=480&h=270&quality=medium",
     "image": "https://cdn1.epicgames.com/offer/carnation/EGST_StorePortrait_1200x1600_1200x1600-8341f5a48fe6ad8a7ec7ecf1cf83004e?resize=1&w=360&h=480&quality=medium",
-    "description": "",
+    "genre": ["Action", "Shooter", "Strategy"],
+    "platforms": ["Windows", "Xbox"],
+    "releaseDate": "2015-09-06",
+    "developer": "Ubisoft",
+    "publisher": "Ubisoft",
     "price": 39.99,
     "discount": 0,
-    "type": "edition"
+    "isFree": false,
+    "language": ["EN", "FR", "AR", "TR"],
+    "type": "edition",
+    "shortDescription": "Rainbow Six Siege X is the reference in tactical team shooters, where elite strategy and execution triumph. Enjoy free access to Quick Match, Unranked and Dual Front game modes with a selection of operators.",
+     "fullDescription": [
+         {
+        "heading": "Tom Clancy's Rainbow Six Siege X - Free Access",
+        "content": "Rainbow Six Siege X is the reference in tactical team shooters, where elite strategy and execution triumph. Enjoy free access to Quick Match, Unranked and Dual Front game modes with a selection of operators."
+    },
+    {
+        "heading": "TOOLS OF DESTRUCTION",
+        "content": "Destruction is more than chaos, it is a key tool for your success. Use the environment to your advantage — turn walls into windows of opportunity. Use state-of-the-art technology to track enemy movements, shatter walls to create new lines of sight, and manipulate your surroundings to secure the tactical advantage."
+    },
+    {
+        "heading": "FROM RECRUIT TO ELITE",
+        "content": "A solid onboarding journey for new players, including a new clearance level path, helping you learn progressively the basics and build the skills and confidence before jumping into tactical action."
+    }
+     ],
+    "features": ["Co-op", "Competetive", "Multiplayer"],
+    "video": "https://www.youtube.com/watch?v=BI9fgQY0d5I",
+    "carouselImages": ["https://cdn1.epicgames.com/offer/carnation/EGST_StoreLandscape_2560x1440_2560x1440-4a61435aa92b17f04642dfc4a4473cbf",
+                       "https://cdn2.unrealengine.com/kwm-r6s2402-screenshots-2160p-02-droning-nohud-v3-3840x2160-ef293c0a954e.jpg?resize=1&w=480&h=270&quality=medium",
+                       "https://cdn2.unrealengine.com/kwm-r6s2402-screenshots-2160p-03-rappelling-nohud-v3-3840x2160-55fd932a0e11.jpg?resize=1&w=480&h=270&quality=medium",
+                       "https://cdn2.unrealengine.com/kwm-r6s2402-screenshots-2160p-05-defensecoordination-nohud-v3-3840x2160-609a149397f4.jpg?resize=1&w=480&h=270&quality=medium"]
   },
         {
     "id": "42ed2261-785d-456c-a4ee-0fc76d2602e3",
     "gameId": "b022fdca-592c-41a7-9bd2-865a0dc995e4",
     "title": "5,000 Premier Pack - Rainbow Six Siege",
+    "logo": "https://cdn1.epicgames.com/offer/carnation/EGST_Logo_400x400_400x400-afd86547649adba6a261e93340221648?resize=1&w=480&h=270&quality=medium",
     "image": "https://cdn1.epicgames.com/offer/carnation/EGST_StorePortrait_1200x1600_1200x1600-ffa71c067e731b890fc8404c469d0871?resize=1&w=360&h=480&quality=medium",
-    "description": "",
+    "genre": ["Action", "Shooter", "Strategy"],
+    "platforms": ["Windows", "Xbox"],
+    "releaseDate": "2015-09-06",
+    "developer": "Ubisoft",
+    "publisher": "Ubisoft",
     "price": 39.99,
     "discount": 0,
-    "type": "addon"
+    "isFree": false,
+    "language": ["EN", "FR", "AR", "TR"],
+    "type": "addon",
+    "shortDescription": "Rainbow Six Siege X is the reference in tactical team shooters, where elite strategy and execution triumph. Enjoy free access to Quick Match, Unranked and Dual Front game modes with a selection of operators.",
+     "fullDescription": [
+         {
+        "heading": "Tom Clancy's Rainbow Six Siege X - Free Access",
+        "content": "Rainbow Six Siege X is the reference in tactical team shooters, where elite strategy and execution triumph. Enjoy free access to Quick Match, Unranked and Dual Front game modes with a selection of operators."
+    },
+    {
+        "heading": "TOOLS OF DESTRUCTION",
+        "content": "Destruction is more than chaos, it is a key tool for your success. Use the environment to your advantage — turn walls into windows of opportunity. Use state-of-the-art technology to track enemy movements, shatter walls to create new lines of sight, and manipulate your surroundings to secure the tactical advantage."
+    },
+    {
+        "heading": "FROM RECRUIT TO ELITE",
+        "content": "A solid onboarding journey for new players, including a new clearance level path, helping you learn progressively the basics and build the skills and confidence before jumping into tactical action."
+    }
+     ],
+    "features": ["Co-op", "Competetive", "Multiplayer"],
+    "video": "https://www.youtube.com/watch?v=BI9fgQY0d5I",
+    "carouselImages": ["https://cdn1.epicgames.com/offer/carnation/EGST_StoreLandscape_2560x1440_2560x1440-78216955ba902b27581f6f325c6769c1",
+                       "https://cdn2.unrealengine.com/kwm-r6s2402-screenshots-2160p-02-droning-nohud-v3-3840x2160-ef293c0a954e.jpg?resize=1&w=480&h=270&quality=medium",
+                       "https://cdn2.unrealengine.com/kwm-r6s2402-screenshots-2160p-03-rappelling-nohud-v3-3840x2160-55fd932a0e11.jpg?resize=1&w=480&h=270&quality=medium",
+                       "https://cdn2.unrealengine.com/kwm-r6s2402-screenshots-2160p-05-defensecoordination-nohud-v3-3840x2160-609a149397f4.jpg?resize=1&w=480&h=270&quality=medium"]
   },
         {
     "id": "738423aa-c993-4443-83db-0a0b9592c4de",
     "gameId": "b022fdca-592c-41a7-9bd2-865a0dc995e4",
     "title": "3,300 Premier Pack - Rainbow Six Siege",
+    "logo": "https://cdn1.epicgames.com/offer/carnation/EGST_Logo_400x400_400x400-c4ff0b38905fececf2f9410ce1872df7?resize=1&w=480&h=270&quality=medium",
     "image": "https://cdn1.epicgames.com/offer/carnation/EGST_StorePortrait_1200x1600_1200x1600-159c04ea408a343115adea0af23a2ea6?resize=1&w=360&h=480&quality=medium",
-    "description": "",
+    "genre": ["Action", "Shooter", "Strategy"],
+    "platforms": ["Windows", "Xbox"],
+    "releaseDate": "2015-09-06",
+    "developer": "Ubisoft",
+    "publisher": "Ubisoft",
     "price": 19.99,
     "discount": 0,
-    "type": "addon"
+    "isFree": false,
+    "language": ["EN", "FR", "AR", "TR"],
+    "type": "addon",
+    "shortDescription": "Rainbow Six Siege X is the reference in tactical team shooters, where elite strategy and execution triumph. Enjoy free access to Quick Match, Unranked and Dual Front game modes with a selection of operators.",
+     "fullDescription": [
+         {
+        "heading": "Tom Clancy's Rainbow Six Siege X - Free Access",
+        "content": "Rainbow Six Siege X is the reference in tactical team shooters, where elite strategy and execution triumph. Enjoy free access to Quick Match, Unranked and Dual Front game modes with a selection of operators."
+    },
+    {
+        "heading": "TOOLS OF DESTRUCTION",
+        "content": "Destruction is more than chaos, it is a key tool for your success. Use the environment to your advantage — turn walls into windows of opportunity. Use state-of-the-art technology to track enemy movements, shatter walls to create new lines of sight, and manipulate your surroundings to secure the tactical advantage."
+    },
+    {
+        "heading": "FROM RECRUIT TO ELITE",
+        "content": "A solid onboarding journey for new players, including a new clearance level path, helping you learn progressively the basics and build the skills and confidence before jumping into tactical action."
+    }
+     ],
+    "features": ["Co-op", "Competetive", "Multiplayer"],
+    "video": "https://www.youtube.com/watch?v=BI9fgQY0d5I",
+    "carouselImages": ["https://cdn1.epicgames.com/offer/carnation/EGST_StoreLandscape_2560x1440_2560x1440-8ce9683424551569ef149c849860d31c",
+                       "https://cdn2.unrealengine.com/kwm-r6s2402-screenshots-2160p-02-droning-nohud-v3-3840x2160-ef293c0a954e.jpg?resize=1&w=480&h=270&quality=medium",
+                       "https://cdn2.unrealengine.com/kwm-r6s2402-screenshots-2160p-03-rappelling-nohud-v3-3840x2160-55fd932a0e11.jpg?resize=1&w=480&h=270&quality=medium",
+                       "https://cdn2.unrealengine.com/kwm-r6s2402-screenshots-2160p-05-defensecoordination-nohud-v3-3840x2160-609a149397f4.jpg?resize=1&w=480&h=270&quality=medium"]
   },
         {
     "id": "7d809db7-5cf4-4262-9062-90460b43a650",
