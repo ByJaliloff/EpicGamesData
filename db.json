@@ -11,6 +11,18 @@
     "role": "super_admin",
     "createdAt": "2025-07-25T00:00:00.000Z",
     "isActive": true,
+    "lastLogin":null  },
+        {
+    "id": "2222",
+    "firstName": "Azer",
+    "lastName": "Raphiyev",
+    "email": "Raphiyev@gmail.com",
+    "password": "Azer1234",
+    "phone": "+994707357379",
+    "birthday": "17.06.2003",
+    "role": "user",
+    "createdAt": "2025-08-15T00:00:00.000Z",
+    "isActive": true,
     "lastLogin":null  }
         
     ],
