@@ -670,7 +670,7 @@
      ],
     "features": ["Co-op", "Competetive", "Multiplayer"],
     "video": "https://www.youtube.com/watch?v=BI9fgQY0d5I",
-    "carouselImages": ["https://cdn1.epicgames.com/offer/carnation/EGST_StoreLandscape_2560x1440_2560x1440-0c7f6d53ff5013f344680751994de4e1",
+    "carouselImages": ["https://cdn1.epicgames.com/offer/carnation/EGST_StoreLandscape_2560x1440_2560x1440-4a61435aa92b17f04642dfc4a4473cbf",
                        "https://cdn2.unrealengine.com/kwm-r6s2402-screenshots-2160p-02-droning-nohud-v3-3840x2160-ef293c0a954e.jpg?resize=1&w=480&h=270&quality=medium",
                        "https://cdn2.unrealengine.com/kwm-r6s2402-screenshots-2160p-03-rappelling-nohud-v3-3840x2160-55fd932a0e11.jpg?resize=1&w=480&h=270&quality=medium",
                        "https://cdn2.unrealengine.com/kwm-r6s2402-screenshots-2160p-05-defensecoordination-nohud-v3-3840x2160-609a149397f4.jpg?resize=1&w=480&h=270&quality=medium"]
@@ -708,7 +708,7 @@
      ],
     "features": ["Co-op", "Competetive", "Multiplayer"],
     "video": "https://www.youtube.com/watch?v=BI9fgQY0d5I",
-    "carouselImages": ["https://cdn1.epicgames.com/offer/carnation/EGST_StoreLandscape_2560x1440_2560x1440-4a61435aa92b17f04642dfc4a4473cbf",
+    "carouselImages": ["https://cdn1.epicgames.com/offer/carnation/EGST_StoreLandscape_2560x1440_2560x1440-0c7f6d53ff5013f344680751994de4e1",
                        "https://cdn2.unrealengine.com/kwm-r6s2402-screenshots-2160p-02-droning-nohud-v3-3840x2160-ef293c0a954e.jpg?resize=1&w=480&h=270&quality=medium",
                        "https://cdn2.unrealengine.com/kwm-r6s2402-screenshots-2160p-03-rappelling-nohud-v3-3840x2160-55fd932a0e11.jpg?resize=1&w=480&h=270&quality=medium",
                        "https://cdn2.unrealengine.com/kwm-r6s2402-screenshots-2160p-05-defensecoordination-nohud-v3-3840x2160-609a149397f4.jpg?resize=1&w=480&h=270&quality=medium"]
@@ -793,61 +793,227 @@
     "id": "7d809db7-5cf4-4262-9062-90460b43a650",
     "gameId": "ba982536-ba46-43ef-9d72-725f10b13ba6",
     "title": "Sifu Digital Deluxe Edition",
+    "logo": "https://cdn2.unrealengine.com/egs-greeneye-sloclap-ic1-400x400-7f5493d6af29.png?resize=1&w=480&h=270&quality=medium",
     "image": "https://cdn2.unrealengine.com/egs-sifudigitaldeluxeedition-sloclap-editions-s2a-1200x1600-0ae6ff3437f5.jpg?resize=1&w=360&h=480&quality=medium",
-    "description": "",
+    "genre": ["Action", "Fighting", "Indie"],
+    "platforms": ["Windows", "PS5"],
+    "releaseDate": "2022-02-08",
+    "developer": "Sloclap",
+    "publisher": "Sloclap",
     "price": 25.99,
     "discount": 0,
-    "type": "edition"
+    "isFree": false,
+    "language": ["EN", "FR", "CN"],
+    "rating": 4.7,
+    "type": "edition",
+    "shortDescription": "Sifu is a realistic third-person brawler with tight Kung Fu combat mechanics and cinematic martial arts action embarking you on a path for revenge.",
+     "fullDescription": [
+         {
+        "heading": "New content available | Enter the Arenas",
+        "content": "Itching for some more good ol' Kung Fu action? The Arenas free expansion adds an entirely new game mode, featuring 15 dynamic locations and 120 challenges that will put your Kung Fu to the test! Gear up for spectacular combats, brutal opponents, and endless opportunities to refine your moves."
+    },
+    {
+        "heading": "Learning by fire",
+        "content": "Your enemies don’t wait their turn, and they don’t broadcast their intent. Dodge, parry, strike, use combos and be like water making its way through captivating environments. Learn how to master your art, whether by fighting through the underbelly of a nightclub, scrambling through a refined gallery to avoid getting surrounded, or vertically navigating a towering office building."
+    },
+    {
+        "heading": "Adaptation is survival",
+        "content": "Careful positioning and clever use of the environment to your advantage are key to your survival. Use everything at your disposal: throwable objects, makeshift weapons, windows, and ledges. The odds are stacked against you, and you will be offered no mercy."
+    }
+     ],
+    "features": ["Controller", "Single Player"],
+    "video": "https://www.youtube.com/watch?v=1FQ1YO3Ks2U",
+    "carouselImages": ["https://cdn2.unrealengine.com/egs-sifustandardedition-sloclap-g1a-05-1920x1080-1e028de5e661.jpg?resize=1&w=480&h=270&quality=medium",
+                       "https://cdn2.unrealengine.com/egs-sifustandardedition-sloclap-g1a-06-1920x1080-66e086a82055.jpg?resize=1&w=480&h=270&quality=medium",
+                        "https://cdn2.unrealengine.com/egs-sifustandardedition-sloclap-g1a-07-1920x1080-b79fe52bb072.jpg?resize=1&w=480&h=270&quality=medium",
+                        "https://cdn2.unrealengine.com/egs-sifustandardedition-sloclap-g1a-08-1920x1080-b89d9b05bd9f.jpg?resize=1&w=480&h=270&quality=medium"]
   },
         {
     "id": "1d59c527-5f1d-49e8-a9ca-a46b4a19b26c",
     "gameId": "f2151708-35e5-4df8-ba16-2dec7609168c",
     "title": "Metro Exodus The Two Colonels",
+    "logo": "https://cdn1.epicgames.com/offer/snapdragon/en_MetroExodus_TwoColonels_IC1_1000x1000-91ddfc087698146b02ebc9b514badb02?resize=1&w=480&h=270&quality=medium",
     "image": "https://cdn1.epicgames.com/offer/snapdragon/MetroExodus_TheTwoColonels_1200x1600_1200x1600-d1ded687fd175a5f0d9278de890c3e1c?resize=1&w=360&h=480&quality=medium",
-    "description": "",
+    "genre": ["Shooter", "Action", "First Person"],
+    "platforms": ["Windows"],
+    "releaseDate": "2019-02-15",
+    "developer": "4A Games",
+    "publisher": "Deep Silver",
     "price": 5.99,
     "discount": 0,
-    "type": "addon"
+    "isFree": false,
+    "language": ["EN", "RU", "UA", "PL"],
+    "type": "addon",
+    "shortDescription": "Metro Exodus is an epic, story-driven first person shooter from 4A Games that blends deadly combat and stealth with exploration and survival horror in one of the most immersive game worlds ever created.",
+     "fullDescription": [],
+    "features": ["FPS", "Atmospheric", "Survival"],
+    "video": "https://www.youtube.com/watch?v=cM4yaHY6qas",
+    "carouselImages": [
+      "https://cdn1.epicgames.com/offer/snapdragon/Diesel_productv2_metro-exodus_the-two-colonels_M3_Editions_DLC1_TheTwoColonels-3840x2160-2f1a9a8d432ce98bfdd4c3b13d311fea89f8014d_3840x2160-bfee2421042489952e8ffcc0eb259601",
+      "https://cdn2.unrealengine.com/Diesel%2Fproduct%2Fsnapdragon%2Fhome%2FM3_Carousel_02_1200x674_1547830965646-1200x674-3e63f0877aa8b3b0e056b29f25b49b0564ac991d.jpg?resize=1&w=480&h=270&quality=medium",
+      "https://cdn2.unrealengine.com/Diesel%2Fproduct%2Fsnapdragon%2Fhome%2FM3_Carousel_03_1200x674_1547830969460-1200x674-bb7618315d6ea629f5b1a3573d8d1e12f4d9e03f.jpg?resize=1&w=480&h=270&quality=medium",
+      "https://cdn2.unrealengine.com/Diesel%2Fproduct%2Fsnapdragon%2Fhome%2FM3_Carousel_04_1200x674_1547830971850-1200x674-b7a7825cba039e6d6e6306a637e43e737be22884.jpg?resize=1&w=480&h=270&quality=medium"
+    ]
   },
         {
     "id": "39b33c00-8e07-45cd-a34f-7d711e3f16c2",
     "gameId": "e0596de1-0bec-4757-900b-896bc6f337b4",
     "title": "Dying Light 2 Stay Human: Rais Bundle",
+    "logo": "https://cdn1.epicgames.com/offer/87b7846d2eba4bc49eead0854323aba8/EGS_DyingLight2StayHumanRaisBundle_Techland_DLC_IC1_200x200-66545099a5d1b099cf7670a60a747d90_200x200-66545099a5d1b099cf7670a60a747d90?resize=1&w=480&h=270&quality=medium",
     "image": "https://cdn1.epicgames.com/offer/87b7846d2eba4bc49eead0854323aba8/EGS_DyingLight2StayHumanRaisBundle_Techland_DLC_S2_1200x1600-16688ca68e8c1988a820f5f11730daf5_1200x1600-16688ca68e8c1988a820f5f11730daf5?resize=1&w=360&h=480&quality=medium",
-    "description": "",
+    "genre": ["Action", "First Person", "Horror", "Open World", "RPG", "Survival"],
+    "platforms": ["Windows", "PS5"],
+    "releaseDate": "2022-04-19",
+    "developer": "Techland",
+    "publisher": "Techland",
     "price": 1.99,
     "discount": 0,
-    "type": "addon"
+    "isFree": false,
+    "language": ["EN", "FR", "JP", "RU"],
+    "type": "addon",
+    "shortDescription": "Now with guns! With the Reloaded Edition, the arsenal at your disposal has grown massively. Be creative with your combat or outrun your foes as you enjoy the perks of more than 10 post-launch updates. Good luck out there, and stay human!",
+     "fullDescription": [
+         {
+        "heading": "A WORLD AFTER THE APOCALYPSE",
+        "content": "Fifteen years ago, humanity was devastated by the Fall — a catastrophic event that would change the world forever. With the Harran virus spreading around the globe, people quickly found out that all hope for tomorrow is lost. By 2036, only a few settlements remain, and humanity is slowly dying, making way for the new species out there — a horde of relentless zombies."
+    },
+    {
+        "heading": "DAY’S FOR THE LIVING, NIGHT’S FOR THE INFECTED",
+        "content": "Not all fights can be won. Sometimes it’s best to run and, thankfully, you have the skills for it. Parkour lets you escape when odds are not in your favor. Jump from rooftop to rooftop, swing across the cityscape, ride ziplines, and much more."
+    },
+    {
+        "heading": "GET BRUTAL AND BE CREATIVE ABOUT IT",
+        "content": "In a world as dangerous as this one, only the strongest survive. Whether you prefer to smash, slice or dismember those who stand in your way, you have to be creative about it to make it through. And who says you need weapons? Utilize the entirety of your parkour moveset to get the jump on your enemies. Learn the ways of combat and parkour to feel the crunch of skulls and slices of flesh as you swing weapons or use your moves to fend off any forms of danger."
+    }
+     ],
+    "features": ["Multiplayer", "Co-op", "Single Player", "Achievement", "Cloud Saves", "Controller Support"],
+    "video": "https://www.youtube.com/watch?v=68bZ1LKKh7Q",
+    "carouselImages": [
+      "https://cdn1.epicgames.com/offer/87b7846d2eba4bc49eead0854323aba8/EGS_DyingLight2StayHumanRaisBundle_Techland_DLC_G1A_00_1920x1080-5d8f87a6626f053f11f1655ecef00d23",
+      "https://cdn2.unrealengine.com/egs-dyinglight2stayhuman-techland-g1a-04-1920x1080-01df52f79ade.jpg?resize=1&w=480&h=270&quality=medium",
+      "https://cdn2.unrealengine.com/egs-dyinglight2stayhuman-techland-g1a-05-1920x1080-1c5ac325c83a.jpg?resize=1&w=480&h=270&quality=medium",
+      "https://cdn2.unrealengine.com/egs-dyinglight2stayhuman-techland-g1a-06-1920x1080-40f55c566ef9.jpg?resize=1&w=480&h=270&quality=medium"
+    ]
   },
         {
     "id": "5b8fa96d-71f8-4e8f-8d13-6d8e5aa3f213",
     "gameId": "e0596de1-0bec-4757-900b-896bc6f337b4",
     "title": "Dying Light 2 Stay Human: Chicken Bundle",
+    "logo": "https://cdn1.epicgames.com/offer/87b7846d2eba4bc49eead0854323aba8/EGS_DyingLight2StayHumanChickenBundle_Techland_DLC_IC1_200x200-52683527d6753ec122925736279eabb8?resize=1&w=480&h=270&quality=medium",
     "image": "https://cdn1.epicgames.com/offer/87b7846d2eba4bc49eead0854323aba8/EGS_DyingLight2StayHumanChickenBundle_Techland_DLC_S2_1200x1600-eb4f7c3e75eea28181b49c6a933b0177?resize=1&w=360&h=480&quality=medium",
-    "description": "",
+    "genre": ["Action", "First Person", "Horror", "Open World", "RPG", "Survival"],
+    "platforms": ["Windows", "PS5"],
+    "releaseDate": "2022-04-19",
+    "developer": "Techland",
+    "publisher": "Techland",
     "price": 2.99,
     "discount": 0,
-    "type": "addon"
+    "isFree": false,
+    "language": ["EN", "FR", "JP", "RU"],
+    "type": "addon",
+    "shortDescription": "Now with guns! With the Reloaded Edition, the arsenal at your disposal has grown massively. Be creative with your combat or outrun your foes as you enjoy the perks of more than 10 post-launch updates. Good luck out there, and stay human!",
+     "fullDescription": [
+         {
+        "heading": "A WORLD AFTER THE APOCALYPSE",
+        "content": "Fifteen years ago, humanity was devastated by the Fall — a catastrophic event that would change the world forever. With the Harran virus spreading around the globe, people quickly found out that all hope for tomorrow is lost. By 2036, only a few settlements remain, and humanity is slowly dying, making way for the new species out there — a horde of relentless zombies."
+    },
+    {
+        "heading": "DAY’S FOR THE LIVING, NIGHT’S FOR THE INFECTED",
+        "content": "Not all fights can be won. Sometimes it’s best to run and, thankfully, you have the skills for it. Parkour lets you escape when odds are not in your favor. Jump from rooftop to rooftop, swing across the cityscape, ride ziplines, and much more."
+    },
+    {
+        "heading": "GET BRUTAL AND BE CREATIVE ABOUT IT",
+        "content": "In a world as dangerous as this one, only the strongest survive. Whether you prefer to smash, slice or dismember those who stand in your way, you have to be creative about it to make it through. And who says you need weapons? Utilize the entirety of your parkour moveset to get the jump on your enemies. Learn the ways of combat and parkour to feel the crunch of skulls and slices of flesh as you swing weapons or use your moves to fend off any forms of danger."
+    }
+     ],
+    "features": ["Multiplayer", "Co-op", "Single Player", "Achievement", "Cloud Saves", "Controller Support"],
+    "video": "https://www.youtube.com/watch?v=68bZ1LKKh7Q",
+    "carouselImages": [
+      "https://cdn1.epicgames.com/offer/87b7846d2eba4bc49eead0854323aba8/EGS_DyingLight2StayHumanChickenBundle_Techland_DLC_G1A_00_1920x1080-03e9e4e2601a86e8515a5093b7196142",
+      "https://cdn2.unrealengine.com/egs-dyinglight2stayhuman-techland-g1a-04-1920x1080-01df52f79ade.jpg?resize=1&w=480&h=270&quality=medium",
+      "https://cdn2.unrealengine.com/egs-dyinglight2stayhuman-techland-g1a-05-1920x1080-1c5ac325c83a.jpg?resize=1&w=480&h=270&quality=medium",
+      "https://cdn2.unrealengine.com/egs-dyinglight2stayhuman-techland-g1a-06-1920x1080-40f55c566ef9.jpg?resize=1&w=480&h=270&quality=medium"
+    ]
   },
         {
     "id": "7d6dca85-2a84-485f-9524-53e6e2c1daf4",
     "gameId": "e0596de1-0bec-4757-900b-896bc6f337b4",
     "title": "Dying Light 2 Stay Human: Gunslinger Bundle",
+    "logo": "https://cdn1.epicgames.com/offer/87b7846d2eba4bc49eead0854323aba8/EGS_DyingLight2StayHumanGunslingerBundle_Techland_DLC_IC1_200x200-d23c560204f42d89fc9dd9f4a3b48b28?resize=1&w=480&h=270&quality=medium",
     "image": "https://cdn1.epicgames.com/offer/87b7846d2eba4bc49eead0854323aba8/EGS_DyingLight2StayHumanGunslingerBundle_Techland_DLC_S2_1200x1600-2ecbfc63c7eaa79a26ed5c93a9f30926?resize=1&w=360&h=480&quality=medium",
-    "description": "",
+    "genre": ["Action", "First Person", "Horror", "Open World", "RPG", "Survival"],
+    "platforms": ["Windows", "PS5"],
+    "releaseDate": "2022-04-19",
+    "developer": "Techland",
+    "publisher": "Techland",
     "price": 2.99,
     "discount": 0,
-    "type": "addon"
+    "isFree": false,
+    "language": ["EN", "FR", "JP", "RU"],
+    "type": "addon",
+    "shortDescription": "Now with guns! With the Reloaded Edition, the arsenal at your disposal has grown massively. Be creative with your combat or outrun your foes as you enjoy the perks of more than 10 post-launch updates. Good luck out there, and stay human!",
+     "fullDescription": [
+         {
+        "heading": "A WORLD AFTER THE APOCALYPSE",
+        "content": "Fifteen years ago, humanity was devastated by the Fall — a catastrophic event that would change the world forever. With the Harran virus spreading around the globe, people quickly found out that all hope for tomorrow is lost. By 2036, only a few settlements remain, and humanity is slowly dying, making way for the new species out there — a horde of relentless zombies."
+    },
+    {
+        "heading": "DAY’S FOR THE LIVING, NIGHT’S FOR THE INFECTED",
+        "content": "Not all fights can be won. Sometimes it’s best to run and, thankfully, you have the skills for it. Parkour lets you escape when odds are not in your favor. Jump from rooftop to rooftop, swing across the cityscape, ride ziplines, and much more."
+    },
+    {
+        "heading": "GET BRUTAL AND BE CREATIVE ABOUT IT",
+        "content": "In a world as dangerous as this one, only the strongest survive. Whether you prefer to smash, slice or dismember those who stand in your way, you have to be creative about it to make it through. And who says you need weapons? Utilize the entirety of your parkour moveset to get the jump on your enemies. Learn the ways of combat and parkour to feel the crunch of skulls and slices of flesh as you swing weapons or use your moves to fend off any forms of danger."
+    }
+     ],
+    "features": ["Multiplayer", "Co-op", "Single Player", "Achievement", "Cloud Saves", "Controller Support"],
+    "video": "https://www.youtube.com/watch?v=68bZ1LKKh7Q",
+    "carouselImages": [
+      "https://cdn1.epicgames.com/offer/87b7846d2eba4bc49eead0854323aba8/EGS_DyingLight2StayHumanGunslingerBundle_Techland_DLC_G1A_00_1920x1080-9974fb6d5dad9c3c462e37b9009df2e2",
+      "https://cdn2.unrealengine.com/egs-dyinglight2stayhuman-techland-g1a-04-1920x1080-01df52f79ade.jpg?resize=1&w=480&h=270&quality=medium",
+      "https://cdn2.unrealengine.com/egs-dyinglight2stayhuman-techland-g1a-05-1920x1080-1c5ac325c83a.jpg?resize=1&w=480&h=270&quality=medium",
+      "https://cdn2.unrealengine.com/egs-dyinglight2stayhuman-techland-g1a-06-1920x1080-40f55c566ef9.jpg?resize=1&w=480&h=270&quality=medium"
+    ]
   },
         {
     "id": "82b8edc3-4c67-4362-ad3b-5ea5a8a21761",
     "gameId": "e0596de1-0bec-4757-900b-896bc6f337b4",
     "title": "Dying Light 2 Stay Human: Authory Pack",
+    "logo": "https://cdn1.epicgames.com/offer/87b7846d2eba4bc49eead0854323aba8/EGS_DyingLight2StayHumanAuthorityPackPart23_Techland_DLC_IC1_200x200-29c465dd092ac15079b803fd8e868029?resize=1&w=480&h=270&quality=medium",
     "image": "https://cdn1.epicgames.com/offer/87b7846d2eba4bc49eead0854323aba8/EGS_DyingLight2StayHumanAuthorityPackPart23_Techland_DLC_S2_1200x1600-d7315fd74d6184cbe8da0187bd925302?resize=1&w=360&h=480&quality=medium",
-    "description": "",
+    "genre": ["Action", "First Person", "Horror", "Open World", "RPG", "Survival"],
+    "platforms": ["Windows", "PS5"],
+    "releaseDate": "2022-04-19",
+    "developer": "Techland",
+    "publisher": "Techland",
     "price": 2.99,
     "discount": 0,
-    "type": "addon"
+    "isFree": false,
+    "language": ["EN", "FR", "JP", "RU"],
+    "type": "addon",
+    "shortDescription": "Now with guns! With the Reloaded Edition, the arsenal at your disposal has grown massively. Be creative with your combat or outrun your foes as you enjoy the perks of more than 10 post-launch updates. Good luck out there, and stay human!",
+     "fullDescription": [
+         {
+        "heading": "A WORLD AFTER THE APOCALYPSE",
+        "content": "Fifteen years ago, humanity was devastated by the Fall — a catastrophic event that would change the world forever. With the Harran virus spreading around the globe, people quickly found out that all hope for tomorrow is lost. By 2036, only a few settlements remain, and humanity is slowly dying, making way for the new species out there — a horde of relentless zombies."
+    },
+    {
+        "heading": "DAY’S FOR THE LIVING, NIGHT’S FOR THE INFECTED",
+        "content": "Not all fights can be won. Sometimes it’s best to run and, thankfully, you have the skills for it. Parkour lets you escape when odds are not in your favor. Jump from rooftop to rooftop, swing across the cityscape, ride ziplines, and much more."
+    },
+    {
+        "heading": "GET BRUTAL AND BE CREATIVE ABOUT IT",
+        "content": "In a world as dangerous as this one, only the strongest survive. Whether you prefer to smash, slice or dismember those who stand in your way, you have to be creative about it to make it through. And who says you need weapons? Utilize the entirety of your parkour moveset to get the jump on your enemies. Learn the ways of combat and parkour to feel the crunch of skulls and slices of flesh as you swing weapons or use your moves to fend off any forms of danger."
+    }
+     ],
+    "features": ["Multiplayer", "Co-op", "Single Player", "Achievement", "Cloud Saves", "Controller Support"],
+    "video": "https://www.youtube.com/watch?v=68bZ1LKKh7Q",
+    "carouselImages": [
+      "https://cdn1.epicgames.com/offer/87b7846d2eba4bc49eead0854323aba8/EGS_DyingLight2StayHumanAuthorityPackPart23_Techland_DLC_G1A_00_1920x1080-f84bd724cfe04c98a7615227a718fe4f",
+      "https://cdn2.unrealengine.com/egs-dyinglight2stayhuman-techland-g1a-04-1920x1080-01df52f79ade.jpg?resize=1&w=480&h=270&quality=medium",
+      "https://cdn2.unrealengine.com/egs-dyinglight2stayhuman-techland-g1a-05-1920x1080-1c5ac325c83a.jpg?resize=1&w=480&h=270&quality=medium",
+      "https://cdn2.unrealengine.com/egs-dyinglight2stayhuman-techland-g1a-06-1920x1080-40f55c566ef9.jpg?resize=1&w=480&h=270&quality=medium"
+    ]
   },
       {
     "id": "a866bc4c-e052-4c8a-b6c9-4c9cac7bf907",
