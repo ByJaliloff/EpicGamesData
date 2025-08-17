@@ -110,6 +110,40 @@
     "thumbnail": "https://cdn2.unrealengine.com/egs-wuthering-waves-2-5-carousel-thumb-1200x1600-2275479760b9.jpg?resize=1&w=96&h=128&quality=medium"
   }
 ],
+    "freegames": [
+  {
+    "id": 1,
+    "title": "Hidden Folks",
+    "status": "free",
+    "image": "https://cdn1.epicgames.com/spt-assets/7bfd56b0586348dcb139945d9e59f988/hidden-folks-1t2yn.png?resize=1&w=360&h=480&quality=medium",
+    "buttonText": "FREE NOW",
+    "date": "Free Now - Aug 21 at 07:00 PM"
+  },
+  {
+    "id": 2,
+    "title": "Totally Reliable Delivery Service Standard Edition",
+    "status": "free",
+    "image": "https://cdn1.epicgames.com/52b90f9a982a404781b189f6a7903226/offer/EGS_TotallyReliableDeliveryService_WereFiveGames_S2-1200x1600-9c6ee20f94a76179a1036753ea081dbb.jpg?resize=1&w=360&h=480&quality=medium",
+    "buttonText": "FREE NOW",
+    "date": "Free Now - Aug 21 at 07:00 PM"
+  },
+  {
+    "id": 3,
+    "title": "Kamaeru",
+    "status": "coming-soon",
+    "image": "https://cdn1.epicgames.com/spt-assets/44313cfbb62b4df5801d0c8d541c2624/kamaeru-de4xb.png?resize=1&w=360&h=480&quality=medium",
+    "buttonText": "COMING SOON",
+    "date": "Free Aug 21 - Aug 28"
+  },
+  {
+    "id": 4,
+    "title": "Strange Horticulture",
+    "status": "coming-soon",
+    "image": "https://cdn1.epicgames.com/spt-assets/15e8e3eba65a4763a815d6eae1d763b2/download-strange-horticulture-offer-x1a19.png?resize=1&w=360&h=480&quality=medium",
+    "buttonText": "COMING SOON",
+    "date": "Free Aug 21 - Aug 28"
+  }
+],
     "news": [
         {
     "id": "723c702f-3662-437d-af14-efcd27ce9e8c",
