@@ -2417,6 +2417,40 @@
       "https://cdn1.epicgames.com/spt-assets/2f8a03caff764b6ba175c9ee1784d99b/tides-of-annihilation-1xoek.png?resize=1&w=480&h=270&quality=medium",
         "https://cdn1.epicgames.com/spt-assets/2f8a03caff764b6ba175c9ee1784d99b/tides-of-annihilation-gj0xi.png?resize=1&w=480&h=270&quality=medium"
     ]
+  },
+        {
+    "id": "d0c1ad54-d0fe-4d3f-9651-f1c14790cb1f",
+    "title": "EA SPORTS™ Madden NFL 26",
+    "logo": "https://cdn2.unrealengine.com/egs-maddennfl26-tiburon-ic1-400x400-6d252b34f674.png?resize=1&w=480&h=270&quality=medium",
+    "image": "https://cdn1.epicgames.com/offer/321462eacf93417e8f22ff506e62792c/Maddenbasetall_1200x1600-ced3464332d5c9c610c7936dbe051661?resize=1&w=360&h=480&quality=medium",
+    "type": "basedgame",
+    "genre": ["Sports"],
+    "platforms": ["Windows"],
+    "releaseDate": "2025-08-25",
+    "developer": "Tiburon",
+    "publisher": "Electronic Arts",
+    "price": 69.99,
+    "discount": 0,
+    "isFree": false,
+    "language": ["EN", "RU"],
+    "rating": 4.5,
+    "ageRating": {
+      "label": "7+",
+      "descriptors": [
+        "Mild Lyrics"
+      ]
+    }
+,
+    "shortDescription": "Built from Sundays. Real NFL data powers the realest Madden to date.",
+     "fullDescription": [],
+    "features": ["Controller Support", "Single Player", "Multiplayer", "Co-op", "Cross Platform"],
+    "video": "https://www.youtube.com/watch?v=EZrgXXHSaBQ",
+    "carouselImages": [
+      "https://cdn2.unrealengine.com/egs-easportsmaddennfl26-tiburon-g1c-01-1920x1080-cdd4fce1f7f0.jpg?resize=1&w=480&h=270&quality=medium",
+      "https://cdn2.unrealengine.com/egs-maddennfl26-tiburon-g1a-00-1920x1080-50d8ce52f287.jpg?resize=1&w=480&h=270&quality=medium",
+      "https://cdn2.unrealengine.com/egs-maddennfl26-tiburon-g1a-02-1920x1080-7ddf330fc4bd.jpg?resize=1&w=480&h=270&quality=medium",
+        "https://cdn2.unrealengine.com/egs-maddennfl26-tiburon-g1a-03-1920x1080-29da0ad068da.jpg?resize=1&w=480&h=270&quality=medium"
+    ]
   }
 ]
 }
