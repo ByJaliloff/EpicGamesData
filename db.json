@@ -99,7 +99,7 @@
   },
   {
     "id": "20d72f82-14ec-4c2e-bdb5-2ffbc1793662",
-    "title": "Wuthering Waves",
+    "title": "Cronos: The New Dawn",
     "mobImg" :"https://cdn2.unrealengine.com/egs-cronos-the-new-dawn-carousel-mobile-1200x1600-2c57d05bbfa7.jpg?resize=1&w=640&h=854&quality=medium",
     "gameId": "87818dbd-5857-4855-8370-8e09938d0677",
     "subtitle": "Out September 5",
@@ -487,11 +487,11 @@
     "shortDescription": "Create, play, and battle with friends for free in Fortnite. Be the last player standing in Battle Royale and Zero Build, experience a concert or live event, or discover over a million creator made games, including racing, parkour, zombie survival, and more. Each Fortnite island has an individual age rating so you can find the one that's right for you and your friends. Find it all in Fortnite ... Drop In.",
     "fullDescription": [],
     "features": ["Multiplayer", "Live Service"],
-    "video": "https://www.youtube.com/watch?v=__1ss5tFbwM",
+    "video": "",
     "carouselImages": ["https://cdn1.epicgames.com/offer/fn/EN_FNECO_37-00_BeePositivePack_EGS_Landscape_2560x1440_2560x1440-5077a4724e91c565e508470e818c9cd7",
-                       "https://cdn2.unrealengine.com/en-fnferal-34-30-sonylauncher-coverartpdp-3840x2160-logo-3840x2160-2da38487164d.png?resize=1&w=480&h=270&quality=medium",
-                       "https://cdn2.unrealengine.com/en-fnfig-36-00-c1s4-egs-launcher-keyart-og-blade-2560x1440-2560x1440-584bcfc7226a.jpg?resize=1&w=480&h=270&quality=medium",
-                       "https://cdn2.unrealengine.com/en-fnleco-36-20-luminaryhypatia-starterpack-psd-firstparty-1920x1080-1920x1080-43bf50fcf0ca.jpg?resize=1&w=854&h=480&quality=medium"],
+                       "",
+                       "",
+                       ""],
     "type": "addon"
   },
         {
@@ -513,11 +513,11 @@
     "shortDescription": "Create, play, and battle with friends for free in Fortnite. Be the last player standing in Battle Royale and Zero Build, experience a concert or live event, or discover over a million creator made games, including racing, parkour, zombie survival, and more. Each Fortnite island has an individual age rating so you can find the one that's right for you and your friends. Find it all in Fortnite ... Drop In.",
     "fullDescription": [],
     "features": ["Multiplayer", "Live Service"],
-    "video": "https://www.youtube.com/watch?v=__1ss5tFbwM",
+    "video": "",
     "carouselImages": ["https://cdn1.epicgames.com/offer/fn/EN_FNECO37-00_RMT_HexedHauntedPack_StW_Starter_Pack_EGS_Landscape_2560x1440_2560x1440-a07419ce02603d05ab6b701c06cda187",
-                       "https://cdn2.unrealengine.com/en-fnferal-34-30-sonylauncher-coverartpdp-3840x2160-logo-3840x2160-2da38487164d.png?resize=1&w=480&h=270&quality=medium",
-                       "https://cdn2.unrealengine.com/en-fnfig-36-00-c1s4-egs-launcher-keyart-og-blade-2560x1440-2560x1440-584bcfc7226a.jpg?resize=1&w=480&h=270&quality=medium",
-                       "https://cdn2.unrealengine.com/en-fnleco-36-20-luminaryhypatia-starterpack-psd-firstparty-1920x1080-1920x1080-43bf50fcf0ca.jpg?resize=1&w=854&h=480&quality=medium"]
+                       "",
+                       "",
+                       ""]
   },
         {
     "id": "b127d843-7f34-4126-9d37-0d40479cb0c7",
@@ -640,11 +640,11 @@
     "shortDescription": "Experience the story of Basim, a cunning street thief with nightmarish visions, seeking answers and justice as he navigates the bustling streets of ninth-century Baghdad. Through a mysterious, ancient organization known as the Hidden Ones, he will become a deadly Master Assassin and change his fate in ways he never could have imagined.",
      "fullDescription": [],
     "features": ["Stealth", "Parkour"],
-    "video": "https://www.youtube.com/watch?v=x55lAlFtXmw",
+    "video": "",
     "carouselImages": ["https://cdn1.epicgames.com/offer/9bcf5a4dc1d54cb6ab1a42f3a70c5cf4/EGST_Edition_Thumbnail_1920X1080_1920x1080-8c8839c568de0d821f92063b29b8a6ea",
-                       "https://cdn2.unrealengine.com/bagdad-vista-final-3840x2160-053259da6873.jpg?resize=1&w=480&h=270&quality=medium",
-                       "https://cdn2.unrealengine.com/bureau-concept-gold-candidate1920x1080-1920x1080-bf39631f989d.png?resize=1&w=480&h=270&quality=medium",
-                       "https://cdn2.unrealengine.com/chocking-smoke-bomb-gold-rgb-1080p-1920x1080-cd8a2bb24a91.png?resize=1&w=480&h=270&quality=medium"]
+                       "",
+                       "",
+                       ""]
   },
         {
     "id": "4bc4a040-b1e8-42fc-a385-7be88e1fc49c",
@@ -665,11 +665,11 @@
     "shortDescription": "Experience the story of Basim, a cunning street thief with nightmarish visions, seeking answers and justice as he navigates the bustling streets of ninth-century Baghdad. Through a mysterious, ancient organization known as the Hidden Ones, he will become a deadly Master Assassin and change his fate in ways he never could have imagined.",
      "fullDescription": [],
     "features": ["Stealth", "Parkour"],
-    "video": "https://www.youtube.com/watch?v=x55lAlFtXmw",
+    "video": "",
     "carouselImages": ["https://cdn1.epicgames.com/offer/9bcf5a4dc1d54cb6ab1a42f3a70c5cf4/EGST_Edition_Thumbnail_1920X1080_1920x1080-0b4b156cf108ca10d07e648e46353943",
-                       "https://cdn2.unrealengine.com/bagdad-vista-final-3840x2160-053259da6873.jpg?resize=1&w=480&h=270&quality=medium",
-                       "https://cdn2.unrealengine.com/bureau-concept-gold-candidate1920x1080-1920x1080-bf39631f989d.png?resize=1&w=480&h=270&quality=medium",
-                       "https://cdn2.unrealengine.com/chocking-smoke-bomb-gold-rgb-1080p-1920x1080-cd8a2bb24a91.png?resize=1&w=480&h=270&quality=medium"]
+                       "",
+                       "",
+                       ""]
   },
         {
     "id": "daf51871-78e0-4e82-9787-e01d731b283e",
@@ -780,11 +780,11 @@
     }
      ],
     "features": ["Co-op", "Competetive", "Multiplayer"],
-    "video": "https://www.youtube.com/watch?v=BI9fgQY0d5I",
+    "video": "",
     "carouselImages": ["https://cdn1.epicgames.com/offer/carnation/EGST_StoreLandscape_2560x1440_2560x1440-78216955ba902b27581f6f325c6769c1",
-                       "https://cdn2.unrealengine.com/kwm-r6s2402-screenshots-2160p-02-droning-nohud-v3-3840x2160-ef293c0a954e.jpg?resize=1&w=480&h=270&quality=medium",
-                       "https://cdn2.unrealengine.com/kwm-r6s2402-screenshots-2160p-03-rappelling-nohud-v3-3840x2160-55fd932a0e11.jpg?resize=1&w=480&h=270&quality=medium",
-                       "https://cdn2.unrealengine.com/kwm-r6s2402-screenshots-2160p-05-defensecoordination-nohud-v3-3840x2160-609a149397f4.jpg?resize=1&w=480&h=270&quality=medium"]
+                       "",
+                       "",
+                       ""]
   },
         {
     "id": "738423aa-c993-4443-83db-0a0b9592c4de",
@@ -818,11 +818,11 @@
     }
      ],
     "features": ["Co-op", "Competetive", "Multiplayer"],
-    "video": "https://www.youtube.com/watch?v=BI9fgQY0d5I",
+    "video": "",
     "carouselImages": ["https://cdn1.epicgames.com/offer/carnation/EGST_StoreLandscape_2560x1440_2560x1440-8ce9683424551569ef149c849860d31c",
-                       "https://cdn2.unrealengine.com/kwm-r6s2402-screenshots-2160p-02-droning-nohud-v3-3840x2160-ef293c0a954e.jpg?resize=1&w=480&h=270&quality=medium",
-                       "https://cdn2.unrealengine.com/kwm-r6s2402-screenshots-2160p-03-rappelling-nohud-v3-3840x2160-55fd932a0e11.jpg?resize=1&w=480&h=270&quality=medium",
-                       "https://cdn2.unrealengine.com/kwm-r6s2402-screenshots-2160p-05-defensecoordination-nohud-v3-3840x2160-609a149397f4.jpg?resize=1&w=480&h=270&quality=medium"]
+                       "",
+                       "",
+                       ""]
   },
         {
     "id": "7d809db7-5cf4-4262-9062-90460b43a650",
@@ -882,12 +882,12 @@
     "shortDescription": "Metro Exodus is an epic, story-driven first person shooter from 4A Games that blends deadly combat and stealth with exploration and survival horror in one of the most immersive game worlds ever created.",
      "fullDescription": [],
     "features": ["FPS", "Atmospheric", "Survival"],
-    "video": "https://www.youtube.com/watch?v=cM4yaHY6qas",
+    "video": "",
     "carouselImages": [
       "https://cdn1.epicgames.com/offer/snapdragon/Diesel_productv2_metro-exodus_the-two-colonels_M3_Editions_DLC1_TheTwoColonels-3840x2160-2f1a9a8d432ce98bfdd4c3b13d311fea89f8014d_3840x2160-bfee2421042489952e8ffcc0eb259601",
-      "https://cdn2.unrealengine.com/Diesel%2Fproduct%2Fsnapdragon%2Fhome%2FM3_Carousel_02_1200x674_1547830965646-1200x674-3e63f0877aa8b3b0e056b29f25b49b0564ac991d.jpg?resize=1&w=480&h=270&quality=medium",
-      "https://cdn2.unrealengine.com/Diesel%2Fproduct%2Fsnapdragon%2Fhome%2FM3_Carousel_03_1200x674_1547830969460-1200x674-bb7618315d6ea629f5b1a3573d8d1e12f4d9e03f.jpg?resize=1&w=480&h=270&quality=medium",
-      "https://cdn2.unrealengine.com/Diesel%2Fproduct%2Fsnapdragon%2Fhome%2FM3_Carousel_04_1200x674_1547830971850-1200x674-b7a7825cba039e6d6e6306a637e43e737be22884.jpg?resize=1&w=480&h=270&quality=medium"
+      "",
+      "",
+      ""
     ]
   },
         {
@@ -922,12 +922,12 @@
     }
      ],
     "features": ["Multiplayer", "Co-op", "Single Player", "Achievement", "Cloud Saves", "Controller Support"],
-    "video": "https://www.youtube.com/watch?v=68bZ1LKKh7Q",
+    "video": "",
     "carouselImages": [
       "https://cdn1.epicgames.com/offer/87b7846d2eba4bc49eead0854323aba8/EGS_DyingLight2StayHumanRaisBundle_Techland_DLC_G1A_00_1920x1080-5d8f87a6626f053f11f1655ecef00d23",
-      "https://cdn2.unrealengine.com/egs-dyinglight2stayhuman-techland-g1a-04-1920x1080-01df52f79ade.jpg?resize=1&w=480&h=270&quality=medium",
-      "https://cdn2.unrealengine.com/egs-dyinglight2stayhuman-techland-g1a-05-1920x1080-1c5ac325c83a.jpg?resize=1&w=480&h=270&quality=medium",
-      "https://cdn2.unrealengine.com/egs-dyinglight2stayhuman-techland-g1a-06-1920x1080-40f55c566ef9.jpg?resize=1&w=480&h=270&quality=medium"
+      "",
+      "",
+      ""
     ]
   },
         {
@@ -962,12 +962,12 @@
     }
      ],
     "features": ["Multiplayer", "Co-op", "Single Player", "Achievement", "Cloud Saves", "Controller Support"],
-    "video": "https://www.youtube.com/watch?v=68bZ1LKKh7Q",
+    "video": "",
     "carouselImages": [
       "https://cdn1.epicgames.com/offer/87b7846d2eba4bc49eead0854323aba8/EGS_DyingLight2StayHumanChickenBundle_Techland_DLC_G1A_00_1920x1080-03e9e4e2601a86e8515a5093b7196142",
-      "https://cdn2.unrealengine.com/egs-dyinglight2stayhuman-techland-g1a-04-1920x1080-01df52f79ade.jpg?resize=1&w=480&h=270&quality=medium",
-      "https://cdn2.unrealengine.com/egs-dyinglight2stayhuman-techland-g1a-05-1920x1080-1c5ac325c83a.jpg?resize=1&w=480&h=270&quality=medium",
-      "https://cdn2.unrealengine.com/egs-dyinglight2stayhuman-techland-g1a-06-1920x1080-40f55c566ef9.jpg?resize=1&w=480&h=270&quality=medium"
+      "",
+      "",
+      ""
     ]
   },
         {
@@ -1002,12 +1002,12 @@
     }
      ],
     "features": ["Multiplayer", "Co-op", "Single Player", "Achievement", "Cloud Saves", "Controller Support"],
-    "video": "https://www.youtube.com/watch?v=68bZ1LKKh7Q",
+    "video": "",
     "carouselImages": [
-      "https://cdn1.epicgames.com/offer/87b7846d2eba4bc49eead0854323aba8/EGS_DyingLight2StayHumanGunslingerBundle_Techland_DLC_G1A_00_1920x1080-9974fb6d5dad9c3c462e37b9009df2e2",
-      "https://cdn2.unrealengine.com/egs-dyinglight2stayhuman-techland-g1a-04-1920x1080-01df52f79ade.jpg?resize=1&w=480&h=270&quality=medium",
-      "https://cdn2.unrealengine.com/egs-dyinglight2stayhuman-techland-g1a-05-1920x1080-1c5ac325c83a.jpg?resize=1&w=480&h=270&quality=medium",
-      "https://cdn2.unrealengine.com/egs-dyinglight2stayhuman-techland-g1a-06-1920x1080-40f55c566ef9.jpg?resize=1&w=480&h=270&quality=medium"
+      "",
+      "",
+      "",
+      ""
     ]
   },
         {
@@ -1042,12 +1042,12 @@
     }
      ],
     "features": ["Multiplayer", "Co-op", "Single Player", "Achievement", "Cloud Saves", "Controller Support"],
-    "video": "https://www.youtube.com/watch?v=68bZ1LKKh7Q",
+    "video": "",
     "carouselImages": [
       "https://cdn1.epicgames.com/offer/87b7846d2eba4bc49eead0854323aba8/EGS_DyingLight2StayHumanAuthorityPackPart23_Techland_DLC_G1A_00_1920x1080-f84bd724cfe04c98a7615227a718fe4f",
-      "https://cdn2.unrealengine.com/egs-dyinglight2stayhuman-techland-g1a-04-1920x1080-01df52f79ade.jpg?resize=1&w=480&h=270&quality=medium",
-      "https://cdn2.unrealengine.com/egs-dyinglight2stayhuman-techland-g1a-05-1920x1080-1c5ac325c83a.jpg?resize=1&w=480&h=270&quality=medium",
-      "https://cdn2.unrealengine.com/egs-dyinglight2stayhuman-techland-g1a-06-1920x1080-40f55c566ef9.jpg?resize=1&w=480&h=270&quality=medium"
+      "",
+      "",
+      ""
     ]
   },
       {
@@ -2450,6 +2450,51 @@
       "https://cdn2.unrealengine.com/egs-maddennfl26-tiburon-g1a-00-1920x1080-50d8ce52f287.jpg?resize=1&w=480&h=270&quality=medium",
       "https://cdn2.unrealengine.com/egs-maddennfl26-tiburon-g1a-02-1920x1080-7ddf330fc4bd.jpg?resize=1&w=480&h=270&quality=medium",
         "https://cdn2.unrealengine.com/egs-maddennfl26-tiburon-g1a-03-1920x1080-29da0ad068da.jpg?resize=1&w=480&h=270&quality=medium"
+    ]
+  },
+        {
+    "id": "87818dbd-5857-4855-8370-8e09938d0677",
+    "title": "Cronos: The New Dawn",
+    "logo": "https://cdn1.epicgames.com/spt-assets/26df84fa88dd46f198adf7b9f9ef9cc8/cronos-the-new-dawn-logo-arzze.png?resize=1&w=480&h=270&quality=medium",
+    "image": "https://cdn1.epicgames.com/spt-assets/26df84fa88dd46f198adf7b9f9ef9cc8/cronos-the-new-dawn-2ygw0.png?resize=1&w=360&h=480&quality=medium",
+    "type": "basedgame",
+    "genre": ["Horror", "Survival"],
+    "platforms": ["Windows"],
+    "releaseDate": "upcoming",
+    "developer": "Bloober Team S.A.",
+    "publisher": "Bloober Team S.A.",
+    "price": 29.99,
+    "discount": 0,
+    "isFree": false,
+    "language": ["EN", "RU"],
+    "rating": 4.3,
+    "ageRating": {
+      "label": "16+",
+      "descriptors": [
+        "Strong Violence",
+        "Strong Language"
+  ]},
+    "shortDescription": "Cronos: The New Dawn is a pulse-pounding, third-person survival horror game that throws you into the heart of a deadly struggle against overwhelming foes, all while uncovering the mysteries of a twisted time travel story.",
+     "fullDescription": [
+         {
+        "heading": "SURVIVE THE FUTURE. SALVAGE THE PAST",
+        "content": "Set in a grim world where Eastern European brutalism meets retro-futurist technology, Cronos: The New Dawn lets you experience a gripping story that straddles the line between past and future."
+    },
+    {
+        "heading": "ADAPT OR PERISH",
+        "content": "In a desolate world filled with ever-present danger, your survival hinges on your ability to strategize and plan ahead. The enemies you’ll encounter are nightmarish creatures, born from the remnants of humanity – defeating them will require you to make full use of your arsenal."
+    },
+    {
+        "heading": "DON’T LET THEM MERGE",
+        "content": "The creatures you kill won’t stay dead for long. Fallen enemies can be absorbed by others — through a grotesque process called Merging — to become faster, tougher, and far deadlier. The only way to stop them? Burn their bodies. And do it fast. If you don’t, you’ll face ever-evolving abominations that will push your combat skills to their limits." 
+    }],
+    "features": ["Single Player"],
+    "video": "https://www.youtube.com/watch?v=mM2w__7EgzU",
+    "carouselImages": [
+      "https://cdn1.epicgames.com/spt-assets/26df84fa88dd46f198adf7b9f9ef9cc8/cronos-the-new-dawn-1esh9.png?resize=1&w=480&h=270&quality=medium",
+      "https://cdn1.epicgames.com/spt-assets/26df84fa88dd46f198adf7b9f9ef9cc8/cronos-the-new-dawn-1evff.png?resize=1&w=480&h=270&quality=medium",
+      "https://cdn1.epicgames.com/spt-assets/26df84fa88dd46f198adf7b9f9ef9cc8/cronos-the-new-dawn-1onm2.png?resize=1&w=480&h=270&quality=medium",
+        "https://cdn1.epicgames.com/spt-assets/26df84fa88dd46f198adf7b9f9ef9cc8/cronos-the-new-dawn-1qy0w.png?resize=1&w=480&h=270&quality=medium"
     ]
   }
 ]
