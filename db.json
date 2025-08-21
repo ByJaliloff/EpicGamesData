@@ -1054,21 +1054,89 @@
     "id": "a866bc4c-e052-4c8a-b6c9-4c9cac7bf907",
     "gameId": "58abf8cb-4c33-4ac7-bdb0-52364ca414d1",
     "title": "The Sims™ 4 Werewolves",
+    "logo": "https://cdn1.epicgames.com/offer/2a14cf8a83b149919a2399504e5686a6/EGS_GP12TheSims4WerewolvesGamePack_Maxis_DLC_IC1_200x200-0f6c6b5659638515edbc81124a6d8cef?resize=1&w=480&h=270&quality=medium",
     "image": "https://cdn1.epicgames.com/offer/2a14cf8a83b149919a2399504e5686a6/EGS_GP12TheSims4WerewolvesGamePack_Maxis_DLC_S2_1200x1600-087e34a1006fe49c861763bb4558e9fa?resize=1&w=360&h=480&quality=medium",
-    "description": "",
+    "genre": ["Simulation"],
+    "platforms": ["Windows"],
+    "releaseDate": "2023-02-10",
+    "developer": "Maxis",
+    "publisher": "Electronic Arts",
     "price": 19.99,
     "discount": 30,
-    "type": "addon"
+    "isFree": false,
+    "language": ["EN", "PL", "DE", "RU"],
+    "type": "addon",
+    "shortDescription": "The Sims 4 is free to download! Unleash your imagination and create a unique world of Sims that’s an expression of you. Choose how Sims look, act, and dress, then manage the ups and downs of their everyday lives.",
+     "fullDescription": [
+         {
+        "heading": "Create Unique Sims",
+        "content": "A variety of Sims are yours to shape and mold, each with distinct appearances, dynamic personalities and inspiring aspirations. Use powerful customization features to bring your imagination to life. Create yourself, your favorite celebrities, your fantasy or your friends! Change your Sims’ clothing to reflect your mood. Give your Sims depth and purpose with quirky traits and great ambitions."
+    },
+    {
+        "heading": "Build the Perfect Home",
+        "content": "Design the ideal homes for your Sims using Build Mode. Construct the home of your dreams by planning the layout, choosing furnishings and altering the landscape and terrain. You can even add a pool, basement and garden. Hate what you’ve done with the place? Scrap it and rebuild effortlessly with new ideas and designs."
+    },
+    {
+        "heading": "Explore Vibrant Worlds",
+        "content": "Your Sims can visit new communities to expand their social circle, hang out with friends or throw unforgettable parties."
+    },
+         {
+        "heading": "Play with Life",
+        "content": "Your choices shape every aspect of your Sims’ lives, from birth to adulthood. Along the way, develop skills, pursue hobbies, find your Sims’ calling, start new families and much more."
+    } 
+     ],
+    "features": ["Single Player"],
+    "video": "",
+    "carouselImages": [
+      "https://cdn1.epicgames.com/offer/2a14cf8a83b149919a2399504e5686a6/EGS_GP12TheSims4WerewolvesGamePack_Maxis_DLC_G1A_00_1920x1080-8dda48e4e7d571dace70adf2c773f828",
+      "https://cdn1.epicgames.com/offer/2a14cf8a83b149919a2399504e5686a6/EGS_GP12TheSims4WerewolvesGamePack_Maxis_DLC_G1A_01_1920x1080-e3908df578e49c156b9502f3f0debcea",
+      "https://cdn1.epicgames.com/offer/2a14cf8a83b149919a2399504e5686a6/EGS_GP12TheSims4WerewolvesGamePack_Maxis_DLC_G1A_02_1920x1080-43ad33fcdca5fd4612ffb7cd22fd093a",
+        "https://cdn1.epicgames.com/offer/2a14cf8a83b149919a2399504e5686a6/EGS_GP12TheSims4WerewolvesGamePack_Maxis_DLC_G1A_03_1920x1080-1a8945fbba8f5c7aa0d2a69a2092e06f"
+    ]
   },
        {
     "id": "6b47a094-57fa-4c2b-bebd-fe588ac99da9",
     "gameId": "58abf8cb-4c33-4ac7-bdb0-52364ca414d1",
     "title": "The Sims™ 4 City Living",
+    "logo": "https://cdn1.epicgames.com/offer/2a14cf8a83b149919a2399504e5686a6/EGS_EP03TheSims4CityLiving_ElectronicArts_DLC_IC1_200x200-5293da75db8e668378631f4550b6ce8b?resize=1&w=480&h=270&quality=medium",
     "image": "https://cdn1.epicgames.com/offer/2a14cf8a83b149919a2399504e5686a6/EGS_EP03TheSims4CityLiving_ElectronicArts_DLC_S2_1200x1600-93fd5ee21c87eabbd18add4fe6d02e97?resize=1&w=360&h=480&quality=medium",
-    "description": "",
+    "genre": ["Simulation"],
+    "platforms": ["Windows"],
+    "releaseDate": "2023-02-10",
+    "developer": "Maxis",
+    "publisher": "Electronic Arts",
     "price": 39.99,
     "discount": 50,
-    "type": "addon"
+    "isFree": false,
+    "language": ["EN", "PL", "DE", "RU"],
+    "type": "addon",
+    "shortDescription": "The Sims 4 is free to download! Unleash your imagination and create a unique world of Sims that’s an expression of you. Choose how Sims look, act, and dress, then manage the ups and downs of their everyday lives.",
+     "fullDescription": [
+         {
+        "heading": "Create Unique Sims",
+        "content": "A variety of Sims are yours to shape and mold, each with distinct appearances, dynamic personalities and inspiring aspirations. Use powerful customization features to bring your imagination to life. Create yourself, your favorite celebrities, your fantasy or your friends! Change your Sims’ clothing to reflect your mood. Give your Sims depth and purpose with quirky traits and great ambitions."
+    },
+    {
+        "heading": "Build the Perfect Home",
+        "content": "Design the ideal homes for your Sims using Build Mode. Construct the home of your dreams by planning the layout, choosing furnishings and altering the landscape and terrain. You can even add a pool, basement and garden. Hate what you’ve done with the place? Scrap it and rebuild effortlessly with new ideas and designs."
+    },
+    {
+        "heading": "Explore Vibrant Worlds",
+        "content": "Your Sims can visit new communities to expand their social circle, hang out with friends or throw unforgettable parties."
+    },
+         {
+        "heading": "Play with Life",
+        "content": "Your choices shape every aspect of your Sims’ lives, from birth to adulthood. Along the way, develop skills, pursue hobbies, find your Sims’ calling, start new families and much more."
+    } 
+     ],
+    "features": ["Single Player"],
+    "video": "",
+    "carouselImages": [
+      "https://cdn1.epicgames.com/offer/2a14cf8a83b149919a2399504e5686a6/EGS_EP03TheSims4CityLiving_ElectronicArts_DLC_G1A_00_1920x1080-7d47a58e53bb167569f7635f703c5a9f",
+      "https://cdn1.epicgames.com/offer/2a14cf8a83b149919a2399504e5686a6/EGS_EP03TheSims4CityLiving_ElectronicArts_DLC_G1A_01_1920x1080-e82d908e1826099dfde287573825b4a8",
+      "https://cdn1.epicgames.com/offer/2a14cf8a83b149919a2399504e5686a6/EGS_EP03TheSims4CityLiving_ElectronicArts_DLC_G1A_02_1920x1080-9250be60c4ffa00610889e065bfdf920",
+        ""
+    ]
   },
        {
     "id": "7a2826a8-2ccb-4b0e-817f-7033080d3135",
@@ -2391,7 +2459,7 @@
     "language": ["EN", "RU"],
     "rating": 4.4,
     "ageRating": {
-      "label": "16+",
+      "label": "18+",
       "descriptors": [
         "Strong Violence"
   ]},
@@ -2469,7 +2537,7 @@
     "language": ["EN", "RU"],
     "rating": 4.3,
     "ageRating": {
-      "label": "16+",
+      "label": "18+",
       "descriptors": [
         "Strong Violence",
         "Strong Language"
