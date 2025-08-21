@@ -1142,81 +1142,386 @@
     "id": "7a2826a8-2ccb-4b0e-817f-7033080d3135",
     "gameId": "58abf8cb-4c33-4ac7-bdb0-52364ca414d1",
     "title": "The Sims™ 4 Wedding Story",
+    "logo": "https://cdn1.epicgames.com/offer/2a14cf8a83b149919a2399504e5686a6/EGS_GP11TheSims4MyWeddingStoriesGamePack_Maxis_DLC_IC1_200x200-bb67c7e485588b9f0f29060a7ca8e27d?resize=1&w=480&h=270&quality=medium",
     "image": "https://cdn1.epicgames.com/offer/2a14cf8a83b149919a2399504e5686a6/EGS_GP11TheSims4MyWeddingStoriesGamePack_Maxis_DLC_S2_1200x1600-bd020258446f21b275601c8af08972e3?resize=1&w=360&h=480&quality=medium",
-    "description": "",
+    "genre": ["Simulation"],
+    "platforms": ["Windows"],
+    "releaseDate": "2023-02-10",
+    "developer": "Maxis",
+    "publisher": "Electronic Arts",
     "price": 19.99,
     "discount": 30,
-    "type": "addon"
+    "isFree": false,
+    "language": ["EN", "PL", "DE", "RU"],
+    "type": "addon",
+    "shortDescription": "The Sims 4 is free to download! Unleash your imagination and create a unique world of Sims that’s an expression of you. Choose how Sims look, act, and dress, then manage the ups and downs of their everyday lives.",
+     "fullDescription": [
+         {
+        "heading": "Create Unique Sims",
+        "content": "A variety of Sims are yours to shape and mold, each with distinct appearances, dynamic personalities and inspiring aspirations. Use powerful customization features to bring your imagination to life. Create yourself, your favorite celebrities, your fantasy or your friends! Change your Sims’ clothing to reflect your mood. Give your Sims depth and purpose with quirky traits and great ambitions."
+    },
+    {
+        "heading": "Build the Perfect Home",
+        "content": "Design the ideal homes for your Sims using Build Mode. Construct the home of your dreams by planning the layout, choosing furnishings and altering the landscape and terrain. You can even add a pool, basement and garden. Hate what you’ve done with the place? Scrap it and rebuild effortlessly with new ideas and designs."
+    },
+    {
+        "heading": "Explore Vibrant Worlds",
+        "content": "Your Sims can visit new communities to expand their social circle, hang out with friends or throw unforgettable parties."
+    },
+         {
+        "heading": "Play with Life",
+        "content": "Your choices shape every aspect of your Sims’ lives, from birth to adulthood. Along the way, develop skills, pursue hobbies, find your Sims’ calling, start new families and much more."
+    } 
+     ],
+    "features": ["Single Player"],
+    "video": "",
+    "carouselImages": [
+      "https://cdn1.epicgames.com/offer/2a14cf8a83b149919a2399504e5686a6/EGS_GP11TheSims4MyWeddingStoriesGamePack_Maxis_DLC_G1A_00_1920x1080-d9c7a3e56967f05d5e780250e498ee7a",
+      "https://cdn1.epicgames.com/offer/2a14cf8a83b149919a2399504e5686a6/EGS_GP11TheSims4MyWeddingStoriesGamePack_Maxis_DLC_G1A_01_1920x1080-65f4a54d17e673ad0b46db08efb62794?resize=1&w=480&h=270&quality=medium",
+      "https://cdn1.epicgames.com/offer/2a14cf8a83b149919a2399504e5686a6/EGS_GP11TheSims4MyWeddingStoriesGamePack_Maxis_DLC_G1A_03_1920x1080-4c7159d173ae4972c48b9d649ce71be8?resize=1&w=480&h=270&quality=medium",
+      ""
+    ]
   }, 
         {
     "id": "7d9b307e-479b-4651-9325-5bd4091a06da",
     "gameId": "58abf8cb-4c33-4ac7-bdb0-52364ca414d1",
     "title": "The Sims™ 4 Jungle Adventure",
+    "logo": "https://cdn1.epicgames.com/offer/2a14cf8a83b149919a2399504e5686a6/EGS_GP06TheSims4JungleAdventure_Maxis_DLC_IC1_200x200-436941389002d931a2cdfe761b605587?resize=1&w=480&h=270&quality=medium",
     "image": "https://cdn1.epicgames.com/offer/2a14cf8a83b149919a2399504e5686a6/EGS_GP06TheSims4JungleAdventure_Maxis_DLC_S2_1200x1600-3b644bfcf086ca7db2646520ea7248a8?resize=1&w=360&h=480&quality=medium",
-    "description": "",
+    "genre": ["Simulation"],
+    "platforms": ["Windows"],
+    "releaseDate": "2023-02-10",
+    "developer": "Maxis",
+    "publisher": "Electronic Arts",
     "price": 19.99,
     "discount": 30,
-    "type": "addon"
+    "isFree": false,
+    "language": ["EN", "PL", "DE", "RU"],
+    "type": "addon",
+    "shortDescription": "The Sims 4 is free to download! Unleash your imagination and create a unique world of Sims that’s an expression of you. Choose how Sims look, act, and dress, then manage the ups and downs of their everyday lives.",
+     "fullDescription": [
+         {
+        "heading": "Create Unique Sims",
+        "content": "A variety of Sims are yours to shape and mold, each with distinct appearances, dynamic personalities and inspiring aspirations. Use powerful customization features to bring your imagination to life. Create yourself, your favorite celebrities, your fantasy or your friends! Change your Sims’ clothing to reflect your mood. Give your Sims depth and purpose with quirky traits and great ambitions."
+    },
+    {
+        "heading": "Build the Perfect Home",
+        "content": "Design the ideal homes for your Sims using Build Mode. Construct the home of your dreams by planning the layout, choosing furnishings and altering the landscape and terrain. You can even add a pool, basement and garden. Hate what you’ve done with the place? Scrap it and rebuild effortlessly with new ideas and designs."
+    },
+    {
+        "heading": "Explore Vibrant Worlds",
+        "content": "Your Sims can visit new communities to expand their social circle, hang out with friends or throw unforgettable parties."
+    },
+         {
+        "heading": "Play with Life",
+        "content": "Your choices shape every aspect of your Sims’ lives, from birth to adulthood. Along the way, develop skills, pursue hobbies, find your Sims’ calling, start new families and much more."
+    } 
+     ],
+    "features": ["Single Player"],
+    "video": "",
+    "carouselImages": [
+      "https://cdn1.epicgames.com/offer/2a14cf8a83b149919a2399504e5686a6/EGS_GP06TheSims4JungleAdventure_Maxis_DLC_G1A_00_1920x1080-5bb1c0b468628be48441d2de026c477b",
+      "https://cdn1.epicgames.com/offer/2a14cf8a83b149919a2399504e5686a6/EGS_GP06TheSims4JungleAdventure_Maxis_DLC_G1A_01_1920x1080-0929002e7cd270b3163b602d29035d35?resize=1&w=480&h=270&quality=medium",
+      "https://cdn1.epicgames.com/offer/2a14cf8a83b149919a2399504e5686a6/EGS_GP06TheSims4JungleAdventure_Maxis_DLC_G1A_02_1920x1080-9f22713400db9c5c6f65447a273362c5?resize=1&w=480&h=270&quality=medium",
+      "https://cdn1.epicgames.com/offer/2a14cf8a83b149919a2399504e5686a6/EGS_GP06TheSims4JungleAdventure_Maxis_DLC_G1A_03_1920x1080-e26fc9ed5f5c2d0e391b222ee5f01317?resize=1&w=480&h=270&quality=medium"
+    ]
   },
         {
     "id": "52488740-d847-4a6e-84bd-e67136a3afad",
     "gameId": "c4e7e419-4778-4120-b7e6-799a8bf1c002",
     "title": "Dead Space Digital Deluxe Edition",
+    "logo": "https://cdn2.unrealengine.com/egs-deadspace-motivestudio-ic1-400x400-06964eb642fc.png?resize=1&w=480&h=270&quality=medium",
     "image": "https://cdn1.epicgames.com/offer/4ec958d5e4b6429aadbc116cee0b6ea0/EGS_DeadSpaceDigitalDeluxeEdition_Motive_Editions_S2_1200x1600-6ee99ca13156798003a710be2e9dfa45?resize=1&w=360&h=480&quality=medium",
-    "description": "",
+    "genre": ["Horror", "Action", "Survival"],
+    "platforms": ["Windows", "PS5"],
+    "releaseDate": "2023-01-27",
+    "developer": "Motive Studio",
+    "publisher": "Electronic Arts",
     "price": 69.99,
     "discount": 80,
-    "type": "edition"
+    "isFree": false,
+    "language": ["EN", "DE", "RU"],
+    "ageRating": {
+      "label": "18+",
+      "descriptors": [
+        "Blood and Gore",
+        "Intense Violence",
+        "Strong Language",
+        "Horror Themes",
+        "Mature Content"
+  ]},
+    "type": "edition",
+    "shortDescription": "The sci-fi survival horror classic returns, completely rebuilt to offer an even more immersive experience – including visual, audio, and gameplay improvements.",
+     "fullDescription": [
+         {
+        "heading": "Humanity Ends Here",
+        "content": "Isaac Clarke is an everyman engineer on a mission to repair the USG Ishimura, only to discover the ship's crew has been slaughtered and his beloved partner, Nicole, is lost somewhere on board."
+    },
+    {
+        "heading": "IMMERSE YOURSELF IN NEXT-GEN SCI-FI HORROR",
+        "content": "A sci-fi horror classic returns fully rebuilt from the ground up with elevated visual fidelity and 3D atmospheric audio. From the frighteningly detailed rooms and workspaces of a slaughtered crew to the eerie atmospheric sounds of a desolate spaceship, you’ll explore a stunning sci-fi setting full of unpredictable and tense moments without interruption."
+    },
+    {
+        "heading": "UNRAVEL THE MYSTERY ABOARD THE USG ISHIMURA",
+        "content": "What starts as a routine repair mission for engineer Isaac Clarke and the crew of the USG Kellion quickly turns into a battle for survival as the truth behind the horrors on board begins to unravel. Following an expanded narrative experience, uncover the dark secrets behind the events aboard the USG Ishimura through the final logs of the ill-fated crew and your encounters with the few survivors that remain."
+    },
+         {
+        "heading": "IMPROVISE TO SURVIVE",
+        "content": "Confront the nightmare aboard the USG Ishimura with genre-defining strategic gameplay. Repurpose and upgrade Isaac’s engineering tools to creatively defeat enemies with precision."
+    } 
+     ],
+    "features": ["Achievement", "Single Player"],
+    "video": "https://www.youtube.com/watch?v=ctQl9wa3ydE",
+    "carouselImages": [
+      "https://cdn2.unrealengine.com/egs-deadspace-motivestudio-g1a-01-1920x1080-90654a08bd6c.jpg?resize=1&w=480&h=270&quality=medium",
+      "https://cdn2.unrealengine.com/egs-deadspace-motivestudio-g1a-02-1920x1080-35fd266e8c77.jpg?resize=1&w=480&h=270&quality=medium",
+      "https://cdn2.unrealengine.com/egs-deadspace-motivestudio-g1a-05-1920x1080-2d8cffe985a8.jpg?resize=1&w=480&h=270&quality=medium",
+        "https://cdn2.unrealengine.com/egs-deadspace-motivestudio-g1a-06-1920x1080-10917e2ce7fd.jpg?resize=1&w=480&h=270&quality=medium"
+    ]
   },
         {
     "id": "69517d6c-7be1-4168-9ab7-d354b81faf1a",
     "gameId": "1392ab64-2fe0-4678-8e5d-7695a9dc2192",
     "title": "Stellar Blade™ Complete Edition",
+    "logo": "https://cdn1.epicgames.com/spt-assets/5013c0fbf0aa4a5e84d948ab5bfe99c6/project-sailor-logo-1wwr8.png?resize=1&w=480&h=270&quality=medium",
     "image": "https://cdn1.epicgames.com/spt-assets/5013c0fbf0aa4a5e84d948ab5bfe99c6/stellar-blade-s7s4n.jpg?resize=1&w=360&h=480&quality=medium",
-    "description": "",
+    "genre": ["Action", "Adventure"],
+    "platforms": ["PS5"],
+    "releaseDate": "2024-04-26",
+    "developer": "Shift Up",
+    "publisher": "Sony Interactive Entertainment",
     "price": 79.99,
     "discount": 0,
-    "type": "edition"
+    "isFree": false,
+    "language": ["EN", "KO", "JP"],
+    "rating": 4.8,
+    "ageRating": {
+      "label": "18+",
+      "descriptors": [
+        "Strong Violence",
+        "Blood and Gore",
+        "Suggestive Themes",
+        "Partial Nudity",
+        "Strong Language"
+  ]},
+    "type": "edition",
+    "shortDescription": "Save humanity from extinction in post-apocalyptic action-adventure Stellar Blade™. Experience blistering combat and a twisting storyline as you unravel the mysteries of Earth’s downfall.",
+     "fullDescription": [
+         {
+        "heading": "Reclaim earth for humankind",
+        "content": "Save humanity from extinction in post-apocalyptic action-adventure Stellar Blade™. Experience blistering combat and a twisting storyline as you unravel the mysteries of Earth’s downfall.Save humanity from extinction in post-apocalyptic action-adventure Stellar Blade™. Experience blistering combat and a twisting storyline as you unravel the mysteries of Earth’s downfall."
+    } ],
+    "features": ["Cloud Saves", "Controller Support", "Single Player"],
+    "video": "https://www.youtube.com/watch?v=DSznLWimMlU",
+    "carouselImages": [
+      "https://cdn1.epicgames.com/spt-assets/5013c0fbf0aa4a5e84d948ab5bfe99c6/stellar-blade-kzeln.jpg?resize=1&w=480&h=270&quality=medium",
+      "https://cdn1.epicgames.com/spt-assets/5013c0fbf0aa4a5e84d948ab5bfe99c6/stellar-blade-1h7pc.jpg?resize=1&w=480&h=270&quality=medium",
+      "https://cdn1.epicgames.com/spt-assets/5013c0fbf0aa4a5e84d948ab5bfe99c6/stellar-blade-1qgqs.jpg?resize=1&w=480&h=270&quality=medium",
+      "https://cdn1.epicgames.com/spt-assets/5013c0fbf0aa4a5e84d948ab5bfe99c6/stellar-blade-1vvte.jpg?resize=1&w=480&h=270&quality=medium"
+    ]
   },
         {
     "id": "78f825c6-6438-499c-800f-da4c27a2fce0",
     "gameId": "1392ab64-2fe0-4678-8e5d-7695a9dc2192",
     "title": "Stellar Blade™: Twin Expansion Pack",
+    "logo": "https://cdn1.epicgames.com/spt-assets/5013c0fbf0aa4a5e84d948ab5bfe99c6/project-sailor-logo-1wwr8.png?resize=1&w=480&h=270&quality=medium",
     "image": "https://cdn1.epicgames.com/spt-assets/5013c0fbf0aa4a5e84d948ab5bfe99c6/stellar-blade-dh536.jpg?resize=1&w=360&h=480&quality=medium",
-    "description": "",
+    "genre": ["Action", "Adventure"],
+    "platforms": ["PS5"],
+    "releaseDate": "2024-04-26",
+    "developer": "Shift Up",
+    "publisher": "Sony Interactive Entertainment",
     "price": 19.99,
     "discount": 0,
-    "type": "addon"
+    "isFree": false,
+    "language": ["EN", "KO", "JP"],
+    "rating": 4.8,
+    "ageRating": {
+      "label": "18+",
+      "descriptors": [
+        "Strong Violence",
+        "Blood and Gore",
+        "Suggestive Themes",
+        "Partial Nudity",
+        "Strong Language"
+  ]},
+    "type": "addon",
+    "shortDescription": "Save humanity from extinction in post-apocalyptic action-adventure Stellar Blade™. Experience blistering combat and a twisting storyline as you unravel the mysteries of Earth’s downfall.",
+     "fullDescription": [
+         {
+        "heading": "Reclaim earth for humankind",
+        "content": "Save humanity from extinction in post-apocalyptic action-adventure Stellar Blade™. Experience blistering combat and a twisting storyline as you unravel the mysteries of Earth’s downfall.Save humanity from extinction in post-apocalyptic action-adventure Stellar Blade™. Experience blistering combat and a twisting storyline as you unravel the mysteries of Earth’s downfall."
+    } ],
+    "features": ["Cloud Saves", "Controller Support", "Single Player"],
+    "video": "",
+    "carouselImages": [
+      "https://cdn1.epicgames.com/spt-assets/5013c0fbf0aa4a5e84d948ab5bfe99c6/stellar-blade-1sjsi.jpg?resize=1&w=480&h=270&quality=medium",
+      "https://cdn1.epicgames.com/spt-assets/5013c0fbf0aa4a5e84d948ab5bfe99c6/stellar-blade-7nglj.jpg?resize=1&w=480&h=270&quality=medium",
+      "https://cdn1.epicgames.com/spt-assets/5013c0fbf0aa4a5e84d948ab5bfe99c6/stellar-blade-st247.jpg?resize=1&w=480&h=270&quality=medium",
+      "https://cdn1.epicgames.com/spt-assets/5013c0fbf0aa4a5e84d948ab5bfe99c6/stellar-blade-w10ro.jpg?resize=1&w=480&h=270&quality=medium"
+    ]
   },
        {
     "id": "e3d24f37-2f45-4c6d-ade7-845857798e73",
     "gameId": "6a16de67-5ab3-4ea4-8f72-94ccc12efced",
     "title": "Dead By Daylight - Gold Edition",
+    "logo": "https://cdn2.unrealengine.com/egs-deadbydaylight-behaviourinteractive-ic1-200x200-a41440806a53.png?resize=1&w=480&h=270&quality=medium",
     "image": "https://cdn2.unrealengine.com/egs-deadbydaylightgoldedition-behaviourinteractive-editions-s2-1200x1600-738fb46b00fe.jpg?resize=1&w=360&h=480&quality=medium",
-    "description": "",
+    "genre": ["Action", "Survival"],
+    "platforms": ["Windows"],
+    "releaseDate": "2016-06-14",
+    "developer": "Behaviour Interactive",
+    "publisher": "Behaviour Interactive",
     "price": 49.99,
     "discount": 10,
-    "type": "edition"
+    "isFree": false,
+    "language": ["EN", "FR", "DE", "RU"],
+    "rating": 4.5,
+    "ageRating": {
+      "label": "18+",
+      "descriptors": [
+        "Blood and Gore",
+        "Intense Violence",
+        "Strong Language",
+        "Horror Themes",
+        "Mature Content"
+  ]},
+    "type": "edition",
+    "shortDescription": "Dead by Daylight is a multiplayer (4vs1) horror game where one player takes on the role of the savage Killer, and the other four players play as Survivors, trying to escape the Killer and avoid being caught and killed.",
+     "fullDescription": [
+         {
+        "heading": "Death Is Not an Escape.",
+        "content": "Dead by Daylight is a multiplayer (4vs1) horror game where one player takes on the role of the savage Killer, and the other four players play as Survivors, trying to escape the Killer and avoid being caught, tortured and killed."
+    },
+    {
+        "heading": "Survive Together… Or Not",
+        "content": "Survivors can either cooperate with the others or be selfish. Your chance of survival will vary depending on whether you work together as a team or if you go at it alone. Will you be able to outwit the Killer and escape their Killing Ground?"
+    },
+    {
+        "heading": "Where Am I?",
+        "content": "Each level is procedurally generated, so you'll never know what to expect. Random spawn points mean you will never feel safe as the world and its danger change every time you play."
+    },
+         {
+        "heading": "A Feast for Killers",
+        "content": "Dead by Daylight draws from all corners of the horror world. As a Killer you can play as anything from a powerful Slasher to terrifying paranormal entities. Familiarize yourself with your Killing Grounds and master each Killer's unique power to be able to hunt, catch and sacrifice your victims."
+    } 
+     ],
+    "features": ["Online Multiplayer"],
+    "video": "",
+    "carouselImages": [
+      "https://cdn2.unrealengine.com/egs-deadbydaylightgoldedition-behaviourinteractive-editions-g1a-00-1920x1080-9e2e1e98a8ca.jpg?resize=1&w=480&h=270&quality=medium",
+      "https://cdn2.unrealengine.com/egs-deadbydaylight-behaviourinteractive-g1a-03-1920x1080-725ff21ce818.jpg?resize=1&w=480&h=270&quality=medium",
+      "https://cdn2.unrealengine.com/egs-deadbydaylight-behaviourinteractive-g1a-04-1920x1080-4332487e7bd9.jpg?resize=1&w=480&h=270&quality=medium",
+        "https://cdn2.unrealengine.com/egs-deadbydaylight-behaviourinteractive-g1a-08-1920x1080-456152115509.jpg?resize=1&w=480&h=270&quality=medium"
+    ]
   },
        {
     "id": "e328334b-8061-4a43-928b-f529c65208a3",
     "gameId": "6a16de67-5ab3-4ea4-8f72-94ccc12efced",
     "title": "Dead by Daylight: Tokyo Ghoul Edition",
+    "logo": "https://cdn2.unrealengine.com/egs-deadbydaylight-behaviourinteractive-ic1-200x200-a41440806a53.png?resize=1&w=480&h=270&quality=medium",
     "image": "https://cdn1.epicgames.com/spt-assets/2b2299be8ae84d679d4dc57c55af1510/dead-by-daylight-1ajh4.jpg?resize=1&w=360&h=480&quality=medium",
-    "description": "",
+    "genre": ["Action", "Survival"],
+    "platforms": ["Windows"],
+    "releaseDate": "2016-06-14",
+    "developer": "Behaviour Interactive",
+    "publisher": "Behaviour Interactive",
     "price": 21.99,
     "discount": 10,
-    "type": "edition"
+    "isFree": false,
+    "language": ["EN", "FR", "DE", "RU"],
+    "rating": 4.5,
+    "ageRating": {
+      "label": "18+",
+      "descriptors": [
+        "Blood and Gore",
+        "Intense Violence",
+        "Strong Language",
+        "Horror Themes",
+        "Mature Content"
+  ]},
+    "type": "edition",
+    "shortDescription": "Dead by Daylight is a multiplayer (4vs1) horror game where one player takes on the role of the savage Killer, and the other four players play as Survivors, trying to escape the Killer and avoid being caught and killed.",
+     "fullDescription": [
+         {
+        "heading": "Death Is Not an Escape.",
+        "content": "Dead by Daylight is a multiplayer (4vs1) horror game where one player takes on the role of the savage Killer, and the other four players play as Survivors, trying to escape the Killer and avoid being caught, tortured and killed."
+    },
+    {
+        "heading": "Survive Together… Or Not",
+        "content": "Survivors can either cooperate with the others or be selfish. Your chance of survival will vary depending on whether you work together as a team or if you go at it alone. Will you be able to outwit the Killer and escape their Killing Ground?"
+    },
+    {
+        "heading": "Where Am I?",
+        "content": "Each level is procedurally generated, so you'll never know what to expect. Random spawn points mean you will never feel safe as the world and its danger change every time you play."
+    },
+         {
+        "heading": "A Feast for Killers",
+        "content": "Dead by Daylight draws from all corners of the horror world. As a Killer you can play as anything from a powerful Slasher to terrifying paranormal entities. Familiarize yourself with your Killing Grounds and master each Killer's unique power to be able to hunt, catch and sacrifice your victims."
+    } 
+     ],
+    "features": ["Online Multiplayer"],
+    "video": "",
+    "carouselImages": [
+      "https://cdn1.epicgames.com/spt-assets/2b2299be8ae84d679d4dc57c55af1510/dead-by-daylight-1oso4.jpg?resize=1&w=480&h=270&quality=medium",
+      "https://cdn1.epicgames.com/spt-assets/2b2299be8ae84d679d4dc57c55af1510/dead-by-daylight-1nn0j.jpg?resize=1&w=480&h=270&quality=medium",
+      "https://cdn1.epicgames.com/spt-assets/2b2299be8ae84d679d4dc57c55af1510/dead-by-daylight-96if5.jpg?resize=1&w=480&h=270&quality=medium",
+        "https://cdn1.epicgames.com/spt-assets/2b2299be8ae84d679d4dc57c55af1510/dead-by-daylight-162op.jpg?resize=1&w=480&h=270&quality=medium"
+    ]
   },
         {
     "id": "8b469264-c9de-4351-87d2-6a9b89ad9821",
     "gameId": "6a16de67-5ab3-4ea4-8f72-94ccc12efced",
     "title": "Dead by Daylight - A Nightmare on Elm Street™",
+    "logo": "https://cdn2.unrealengine.com/egs-deadbydaylight-behaviourinteractive-ic1-200x200-a41440806a53.png?resize=1&w=480&h=270&quality=medium",
     "image": "https://cdn1.epicgames.com/offer/611482b8586142cda48a0786eb8a127c/EGS_DeadbyDaylightANightmareonElmStreet_BehaviourInteractive_DLC_S2_1200x1600-7b774eb61728934ec4144ace12038281?resize=1&w=360&h=480&quality=medium",
-    "description": "",
+    "genre": ["Action", "Survival"],
+    "platforms": ["Windows"],
+    "releaseDate": "2016-06-14",
+    "developer": "Behaviour Interactive",
+    "publisher": "Behaviour Interactive",
     "price": 4.99,
     "discount": 0,
-    "type": "addon"
+    "isFree": false,
+    "language": ["EN", "FR", "DE", "RU"],
+    "rating": 4.5,
+    "ageRating": {
+      "label": "18+",
+      "descriptors": [
+        "Blood and Gore",
+        "Intense Violence",
+        "Strong Language",
+        "Horror Themes",
+        "Mature Content"
+  ]},
+    "type": "addon",
+    "shortDescription": "Dead by Daylight is a multiplayer (4vs1) horror game where one player takes on the role of the savage Killer, and the other four players play as Survivors, trying to escape the Killer and avoid being caught and killed.",
+     "fullDescription": [
+         {
+        "heading": "Death Is Not an Escape.",
+        "content": "Dead by Daylight is a multiplayer (4vs1) horror game where one player takes on the role of the savage Killer, and the other four players play as Survivors, trying to escape the Killer and avoid being caught, tortured and killed."
+    },
+    {
+        "heading": "Survive Together… Or Not",
+        "content": "Survivors can either cooperate with the others or be selfish. Your chance of survival will vary depending on whether you work together as a team or if you go at it alone. Will you be able to outwit the Killer and escape their Killing Ground?"
+    },
+    {
+        "heading": "Where Am I?",
+        "content": "Each level is procedurally generated, so you'll never know what to expect. Random spawn points mean you will never feel safe as the world and its danger change every time you play."
+    },
+         {
+        "heading": "A Feast for Killers",
+        "content": "Dead by Daylight draws from all corners of the horror world. As a Killer you can play as anything from a powerful Slasher to terrifying paranormal entities. Familiarize yourself with your Killing Grounds and master each Killer's unique power to be able to hunt, catch and sacrifice your victims."
+    } 
+     ],
+    "features": ["Online Multiplayer"],
+    "video": "",
+    "carouselImages": [
+      "https://cdn1.epicgames.com/offer/611482b8586142cda48a0786eb8a127c/EGS_DeadbyDaylightANightmareonElmStreet_BehaviourInteractive_DLC_G1A_01_1920x1080-ef9368d1b2b2b0c43083401e956fe869?resize=1&w=480&h=270&quality=medium",
+      "https://cdn1.epicgames.com/offer/611482b8586142cda48a0786eb8a127c/EGS_DeadbyDaylightANightmareonElmStreet_BehaviourInteractive_DLC_G1A_02_1920x1080-15531f7ca3ea58ca27ff1d5798012ca2?resize=1&w=480&h=270&quality=medium",
+      "https://cdn1.epicgames.com/offer/611482b8586142cda48a0786eb8a127c/EGS_DeadbyDaylightANightmareonElmStreet_BehaviourInteractive_DLC_G1A_03_1920x1080-0dc9bba2524db059e2c26b2d080f79b2?resize=1&w=480&h=270&quality=medium",
+        "https://cdn1.epicgames.com/offer/611482b8586142cda48a0786eb8a127c/EGS_DeadbyDaylightANightmareonElmStreet_BehaviourInteractive_DLC_G1A_04_1920x1080-f20e922cad8287a505377b39ef903179?resize=1&w=480&h=270&quality=medium"
+    ]
   },
         {
     "id": "19a2dcd7-1fae-4158-b375-e21336dca3da",
