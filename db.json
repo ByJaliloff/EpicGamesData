@@ -38,15 +38,15 @@
     "slider": [
   {
     "id": "f48e98fd-24c2-420a-b686-0fcbbd4b14fa",
-    "title": "WUCHANG: Fallen Feathers",
-    "mobImg" :"https://cdn2.unrealengine.com/egs-wuchang-carousel-mobile-1200x1600-095cf26f732f.jpg?resize=1&w=640&h=854&quality=medium",
-    "gameId": "df09e8b5-1f04-4f1c-923c-03d88d3fc7d0",
-    "subtitle": "OUT NOW",
-    "logo": "https://cdn2.unrealengine.com/egs-wuchang-carousel-logo-350x90-d1291adba303.png",
-    "description": "WUCHANG: Fallen Feathers has finally arrived! Experience the new action-RPG and overcome the creeping monstrosities lurking in the shadows.",
-    "price": "$34.99",
-    "image": "https://cdn2.unrealengine.com/egs-wuchang-carousel-desktop-1920x1080-7cdc6c907852.jpg",
-    "thumbnail": "https://cdn2.unrealengine.com/egs-wuchang-carousel-thumb-1200x1600-bc39aed92e21.jpg?resize=1&w=96&h=128&quality=medium"
+    "title": "Gamescom 2025",
+    "mobImg" :"https://cdn2.unrealengine.com/gamescom-carousel-mobile-484d56ac09f3.avif?resize=1&w=640&h=854&quality=medium",
+    "gameId": "473b81cf-cf49-4fc9-a7e9-4c62314f86e3",
+    "subtitle": "The Gaming Event of the Year",
+    "logo": "https://cdn2.unrealengine.com/gamescom-carousel-logo-350x89-58f45f8fccfb.png",
+    "description": "Catch up on the reveals, interviews, and standout moments that lit up gamescom 2025. Earn 20% back with Epic Rewards on eligible purchases.",
+    "price": "News",
+    "image": "https://cdn2.unrealengine.com/gamescom-desktop-carousel-asset-bd757284e62a.avif?resize=1&w=1280&h=720&quality=medium",
+    "thumbnail": "https://cdn2.unrealengine.com/gamescom-carousel-thumbnail-1200x1600-ffd043fdf5c5.jpg?resize=1&w=96&h=128&quality=medium"
   },
   {
     "id": "4a2166e5-24ab-4e94-bc40-5ed175da573a",
@@ -68,7 +68,7 @@
     "subtitle": "AVAILABLE SEPTEMBER 12",
     "logo": "https://cdn2.unrealengine.com/egs-borderlands-4-5-25-carousel-logo-350x98-45ead924648b.png",
     "description": "Borderlands 4 is a mayhem-fueled looter shooter, jam-packed with billions of weapons, deadly enemies, and intense co-op action.",
-    "price": "69.99",
+    "price": "$69.99",
     "image": "https://cdn2.unrealengine.com/egs-borderlands-4-5-25-carousel-desktop-1920x1080-9d5b1ed48fa9.jpg?resize=1&w=854&h=480&quality=medium",
     "thumbnail": "https://cdn2.unrealengine.com/egs-borderlands-4-5-25-carousel-thumb-1200x1600-acbebbc02ede.jpg?resize=1&w=96&h=128&quality=medium"
   },
@@ -100,14 +100,14 @@
   {
     "id": "20d72f82-14ec-4c2e-bdb5-2ffbc1793662",
     "title": "Wuthering Waves",
-    "mobImg" :"https://cdn1.epicgames.com/spt-assets/c1586295960b46f88bbfeec32c199e0e/wuthering-waves-uw6vy.jpg?resize=1&w=360&h=480&quality=medium",
-    "gameId": "a3092996-b17e-4abd-b989-af87bb65b83c",
-    "subtitle": "NEW UPDATE",
-    "logo": "https://cdn2.unrealengine.com/en-egs-wuthering-waves-update-1-1-carousel-logo-350x100-3b11d2055e67.png",
-    "description": "Version 2.5 Unfading Melody of Life is coming! Meet the new 5-Star Resonator: Phrolova!",
-    "price": "Free",
-    "image": "https://cdn2.unrealengine.com/egs-wuthering-waves-2-5-carousel-desktop-1920x1080-7e71492b81e1.jpg?resize=1&w=854&h=480&quality=medium",
-    "thumbnail": "https://cdn2.unrealengine.com/egs-wuthering-waves-2-5-carousel-thumb-1200x1600-2275479760b9.jpg?resize=1&w=96&h=128&quality=medium"
+    "mobImg" :"https://cdn2.unrealengine.com/egs-cronos-the-new-dawn-carousel-mobile-1200x1600-2c57d05bbfa7.jpg?resize=1&w=640&h=854&quality=medium",
+    "gameId": "87818dbd-5857-4855-8370-8e09938d0677",
+    "subtitle": "Out September 5",
+    "logo": "https://cdn2.unrealengine.com/egs-cronos-the-new-dawn-logo-350x133-239056996e96.png",
+    "description": "Face brutal horrors, dive back in time, and don’t let the monsters merge. Pre-purchase now.",
+    "price": "$29.99",
+    "image": "https://cdn2.unrealengine.com/egs-cronos-the-new-dawn-carousel-desktop-1920x1080-21ba05bc64ed.jpg?resize=1&w=854&h=480&quality=medium",
+    "thumbnail": "https://cdn2.unrealengine.com/egs-cronos-the-new-dawn-carousel-thumb-1200x1600-c50c444e3eee.jpg?resize=1&w=96&h=128&quality=medium"
   }
 ],
     "freegames": [
