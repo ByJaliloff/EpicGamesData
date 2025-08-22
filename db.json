@@ -166,7 +166,7 @@
     "title": "Why QuakeCon remains a gibatastically good time after almost 30 years",
     "description": "No other LAN party has ever got quite this out of hand.",
     "date": "6h ago",
-    "image": "https://cdn2.unrealengine.com/why-quakecon-remains-a-gibtasticly-good-time-after-almost-30-years-1920x1080-b837babf9ba1.jpg?resize=1&w=480&h=270&quality=medium",
+    "image": "https://cdn2.unrealengine.com/why-quakecon-remains-a-gibtasticly-good-time-after-almost-30-years-1920x1080-b837babf9ba1.jpg",
     "link": "https://store.epicgames.com/en-US/news/why-quakecon-remains-a-gibtasticly-good-time-after-almost-30-years"
   },
   {
@@ -174,7 +174,7 @@
     "title": "112 Operator is free this week on the Epic Games Store for mobile",
     "description": "Manage riots, handle natural disasters, and become an emergency services hero in 112 Operator, free this week on the Epic Games Store for mobile.",
     "date": "7h ago",
-    "image": "https://cdn2.unrealengine.com/3p-final-freegames-editorial-header-1920x1080-d1f2a684504f.jpg?resize=1&w=480&h=270&quality=medium",
+    "image": "https://cdn2.unrealengine.com/3p-final-freegames-editorial-header-1920x1080-d1f2a684504f.jpg",
     "link": "https://store.epicgames.com/en-US/news/112-operator-free-epic-games-store-for-mobile-august-7-14"
   },
   {
@@ -1527,61 +1527,309 @@
     "id": "19a2dcd7-1fae-4158-b375-e21336dca3da",
     "gameId": "6a16de67-5ab3-4ea4-8f72-94ccc12efced",
     "title": "Dead by Daylight - Chucky Chapter",
+    "logo": "https://cdn2.unrealengine.com/egs-deadbydaylight-behaviourinteractive-ic1-200x200-a41440806a53.png?resize=1&w=480&h=270&quality=medium",
     "image": "https://cdn1.epicgames.com/offer/611482b8586142cda48a0786eb8a127c/EGS_DeadbyDaylightChuckyChapter_BehaviourInteractive_DLC_S2_1200x1600-d072335a136880cdf71fe60f2aa60af7?resize=1&w=360&h=480&quality=medium",
-    "description": "",
+    "genre": ["Action", "Survival"],
+    "platforms": ["Windows"],
+    "releaseDate": "2016-06-14",
+    "developer": "Behaviour Interactive",
+    "publisher": "Behaviour Interactive",
     "price": 4.99,
     "discount": 0,
-    "type": "addon"
+    "isFree": false,
+    "language": ["EN", "FR", "DE", "RU"],
+    "rating": 4.5,
+    "ageRating": {
+      "label": "18+",
+      "descriptors": [
+        "Blood and Gore",
+        "Intense Violence",
+        "Strong Language",
+        "Horror Themes",
+        "Mature Content"
+  ]},
+    "type": "addon",
+    "shortDescription": "Dead by Daylight is a multiplayer (4vs1) horror game where one player takes on the role of the savage Killer, and the other four players play as Survivors, trying to escape the Killer and avoid being caught and killed.",
+     "fullDescription": [
+         {
+        "heading": "Death Is Not an Escape.",
+        "content": "Dead by Daylight is a multiplayer (4vs1) horror game where one player takes on the role of the savage Killer, and the other four players play as Survivors, trying to escape the Killer and avoid being caught, tortured and killed."
+    },
+    {
+        "heading": "Survive Together… Or Not",
+        "content": "Survivors can either cooperate with the others or be selfish. Your chance of survival will vary depending on whether you work together as a team or if you go at it alone. Will you be able to outwit the Killer and escape their Killing Ground?"
+    },
+    {
+        "heading": "Where Am I?",
+        "content": "Each level is procedurally generated, so you'll never know what to expect. Random spawn points mean you will never feel safe as the world and its danger change every time you play."
+    },
+         {
+        "heading": "A Feast for Killers",
+        "content": "Dead by Daylight draws from all corners of the horror world. As a Killer you can play as anything from a powerful Slasher to terrifying paranormal entities. Familiarize yourself with your Killing Grounds and master each Killer's unique power to be able to hunt, catch and sacrifice your victims."
+    } 
+     ],
+    "features": ["Online Multiplayer"],
+    "video": "",
+    "carouselImages": [
+      "https://cdn1.epicgames.com/offer/611482b8586142cda48a0786eb8a127c/EGS_DeadbyDaylightChuckyChapter_BehaviourInteractive_DLC_S1_2560x1440-8b4bb23de3def2d673315520a7f52458?resize=1&w=480&h=270&quality=medium",
+      "https://cdn1.epicgames.com/offer/611482b8586142cda48a0786eb8a127c/EGS_DeadbyDaylightChuckyChapter_BehaviourInteractive_DLC_G1A_00_1920x1080-c3fc2bd37b0e11bb400c7da1fa10cbb8",
+      "https://cdn1.epicgames.com/offer/611482b8586142cda48a0786eb8a127c/EGS_DeadbyDaylightChuckyChapter_BehaviourInteractive_DLC_G1A_01_1920x1080-c807f81149f3d6402fa8735057f637f9",
+        "https://cdn1.epicgames.com/offer/611482b8586142cda48a0786eb8a127c/EGS_DeadbyDaylightChuckyChapter_BehaviourInteractive_DLC_G1A_02_1920x1080-a7ed46f9606ff4d7a40c526243980692"
+    ]
   },
         {
     "id": "27bbb475-3e8a-47a4-8a59-35097d97f97e",
     "gameId": "6a16de67-5ab3-4ea4-8f72-94ccc12efced",
     "title": "Dead by Daylight - Sadako Rising",
+    "logo": "https://cdn2.unrealengine.com/egs-deadbydaylight-behaviourinteractive-ic1-200x200-a41440806a53.png?resize=1&w=480&h=270&quality=medium",
     "image": "https://cdn1.epicgames.com/offer/611482b8586142cda48a0786eb8a127c/EGS_DeadbyDaylightSadakoRising_BehaviourInteractive_DLC_S2_1200x1600-f0d3d4793e477ac77cb35af21c6713c4?resize=1&w=360&h=480&quality=medium",
-    "description": "",
+    "genre": ["Action", "Survival"],
+    "platforms": ["Windows"],
+    "releaseDate": "2016-06-14",
+    "developer": "Behaviour Interactive",
+    "publisher": "Behaviour Interactive",
     "price": 4.99,
     "discount": 0,
-    "type": "addon"
+    "isFree": false,
+    "language": ["EN", "FR", "DE", "RU"],
+    "rating": 4.5,
+    "ageRating": {
+      "label": "18+",
+      "descriptors": [
+        "Blood and Gore",
+        "Intense Violence",
+        "Strong Language",
+        "Horror Themes",
+        "Mature Content"
+  ]},
+    "type": "addon",
+    "shortDescription": "Dead by Daylight is a multiplayer (4vs1) horror game where one player takes on the role of the savage Killer, and the other four players play as Survivors, trying to escape the Killer and avoid being caught and killed.",
+     "fullDescription": [
+         {
+        "heading": "Death Is Not an Escape.",
+        "content": "Dead by Daylight is a multiplayer (4vs1) horror game where one player takes on the role of the savage Killer, and the other four players play as Survivors, trying to escape the Killer and avoid being caught, tortured and killed."
+    },
+    {
+        "heading": "Survive Together… Or Not",
+        "content": "Survivors can either cooperate with the others or be selfish. Your chance of survival will vary depending on whether you work together as a team or if you go at it alone. Will you be able to outwit the Killer and escape their Killing Ground?"
+    },
+    {
+        "heading": "Where Am I?",
+        "content": "Each level is procedurally generated, so you'll never know what to expect. Random spawn points mean you will never feel safe as the world and its danger change every time you play."
+    },
+         {
+        "heading": "A Feast for Killers",
+        "content": "Dead by Daylight draws from all corners of the horror world. As a Killer you can play as anything from a powerful Slasher to terrifying paranormal entities. Familiarize yourself with your Killing Grounds and master each Killer's unique power to be able to hunt, catch and sacrifice your victims."
+    } 
+     ],
+    "features": ["Online Multiplayer"],
+    "video": "",
+    "carouselImages": [
+      "https://cdn1.epicgames.com/offer/611482b8586142cda48a0786eb8a127c/EGS_DeadbyDaylightSadakoRising_BehaviourInteractive_DLC_S1_2560x1440-b4f8b96e153099487256eb0b572b6e4b?resize=1&w=480&h=270&quality=medium",
+      "https://cdn1.epicgames.com/offer/611482b8586142cda48a0786eb8a127c/EGS_DeadbyDaylightSadakoRising_BehaviourInteractive_DLC_G1A_01_1920x1080-93bf58956ee5c900702df853ea499892",
+      "https://cdn1.epicgames.com/offer/611482b8586142cda48a0786eb8a127c/EGS_DeadbyDaylightSadakoRising_BehaviourInteractive_DLC_G1A_02_1920x1080-68985f56f83b7e8f7980ec694d77bfb0",
+        "https://cdn1.epicgames.com/offer/611482b8586142cda48a0786eb8a127c/EGS_DeadbyDaylightSadakoRising_BehaviourInteractive_DLC_G1A_03_1920x1080-150ff323bec5914e12ec3963971bbd79"
+    ]
   },
          {
     "id": "4f2d55d6-09f5-4128-98d1-576720d4742f",
     "gameId": "6a16de67-5ab3-4ea4-8f72-94ccc12efced",
     "title": "Dead by Daylight - Ghost Face®",
+    "logo": "https://cdn2.unrealengine.com/egs-deadbydaylight-behaviourinteractive-ic1-200x200-a41440806a53.png?resize=1&w=480&h=270&quality=medium",
     "image": "https://cdn1.epicgames.com/offer/611482b8586142cda48a0786eb8a127c/EGS_DeadbyDaylightGhostFace_BehaviourInteractive_DLC_S2_1200x1600-924ecb8ef306d3bdc3f90cdcbccb4999?resize=1&w=360&h=480&quality=medium",
-    "description": "",
+    "genre": ["Action", "Survival"],
+    "platforms": ["Windows"],
+    "releaseDate": "2016-06-14",
+    "developer": "Behaviour Interactive",
+    "publisher": "Behaviour Interactive",
     "price": 4.99,
     "discount": 0,
-    "type": "addon"
+    "isFree": false,
+    "language": ["EN", "FR", "DE", "RU"],
+    "rating": 4.5,
+    "ageRating": {
+      "label": "18+",
+      "descriptors": [
+        "Blood and Gore",
+        "Intense Violence",
+        "Strong Language",
+        "Horror Themes",
+        "Mature Content"
+  ]},
+    "type": "addon",
+    "shortDescription": "Dead by Daylight is a multiplayer (4vs1) horror game where one player takes on the role of the savage Killer, and the other four players play as Survivors, trying to escape the Killer and avoid being caught and killed.",
+     "fullDescription": [
+         {
+        "heading": "Death Is Not an Escape.",
+        "content": "Dead by Daylight is a multiplayer (4vs1) horror game where one player takes on the role of the savage Killer, and the other four players play as Survivors, trying to escape the Killer and avoid being caught, tortured and killed."
+    },
+    {
+        "heading": "Survive Together… Or Not",
+        "content": "Survivors can either cooperate with the others or be selfish. Your chance of survival will vary depending on whether you work together as a team or if you go at it alone. Will you be able to outwit the Killer and escape their Killing Ground?"
+    },
+    {
+        "heading": "Where Am I?",
+        "content": "Each level is procedurally generated, so you'll never know what to expect. Random spawn points mean you will never feel safe as the world and its danger change every time you play."
+    },
+         {
+        "heading": "A Feast for Killers",
+        "content": "Dead by Daylight draws from all corners of the horror world. As a Killer you can play as anything from a powerful Slasher to terrifying paranormal entities. Familiarize yourself with your Killing Grounds and master each Killer's unique power to be able to hunt, catch and sacrifice your victims."
+    } 
+     ],
+    "features": ["Online Multiplayer"],
+    "video": "",
+    "carouselImages": [
+      "https://cdn1.epicgames.com/offer/611482b8586142cda48a0786eb8a127c/EGS_DeadbyDaylightGhostFace_BehaviourInteractive_DLC_S1_2560x1440-351f93c2185dc891ef9e98a134223afa?resize=1&w=480&h=270&quality=medium",
+      "https://cdn1.epicgames.com/offer/611482b8586142cda48a0786eb8a127c/EGS_DeadbyDaylightGhostFace_BehaviourInteractive_DLC_G1A_01_1920x1080-d8048ffba464f953e426b1ac6081022f",
+      "https://cdn1.epicgames.com/offer/611482b8586142cda48a0786eb8a127c/EGS_DeadbyDaylightGhostFace_BehaviourInteractive_DLC_G1A_02_1920x1080-bca24ba2b1ec06b778edf129b1511bd3",
+        "https://cdn1.epicgames.com/offer/611482b8586142cda48a0786eb8a127c/EGS_DeadbyDaylightGhostFace_BehaviourInteractive_DLC_G1A_03_1920x1080-f03d3f4964604f119ce661c788da3e92"
+    ]  
   },
         {
     "id": "363fe824-801d-4c5c-a15f-5074b40c6d23",
     "gameId": "6a16de67-5ab3-4ea4-8f72-94ccc12efced",
     "title": "Dead by Daylight - Leatherface™",
+    "logo": "https://cdn2.unrealengine.com/egs-deadbydaylight-behaviourinteractive-ic1-200x200-a41440806a53.png?resize=1&w=480&h=270&quality=medium",
     "image": "https://cdn1.epicgames.com/offer/611482b8586142cda48a0786eb8a127c/EGS_DeadbyDaylightLeatherface_BehaviourInteractive_DLC_S2_1200x1600-be62dccbaad182dc7aa601983e7e491d?resize=1&w=360&h=480&quality=medium",
-    "description": "",
+    "genre": ["Action", "Survival"],
+    "platforms": ["Windows"],
+    "releaseDate": "2016-06-14",
+    "developer": "Behaviour Interactive",
+    "publisher": "Behaviour Interactive",
     "price": 4.99,
     "discount": 0,
-    "type": "addon"
+    "isFree": false,
+    "language": ["EN", "FR", "DE", "RU"],
+    "rating": 4.5,
+    "ageRating": {
+      "label": "18+",
+      "descriptors": [
+        "Blood and Gore",
+        "Intense Violence",
+        "Strong Language",
+        "Horror Themes",
+        "Mature Content"
+  ]},
+    "type": "addon",
+    "shortDescription": "Dead by Daylight is a multiplayer (4vs1) horror game where one player takes on the role of the savage Killer, and the other four players play as Survivors, trying to escape the Killer and avoid being caught and killed.",
+     "fullDescription": [
+         {
+        "heading": "Death Is Not an Escape.",
+        "content": "Dead by Daylight is a multiplayer (4vs1) horror game where one player takes on the role of the savage Killer, and the other four players play as Survivors, trying to escape the Killer and avoid being caught, tortured and killed."
+    },
+    {
+        "heading": "Survive Together… Or Not",
+        "content": "Survivors can either cooperate with the others or be selfish. Your chance of survival will vary depending on whether you work together as a team or if you go at it alone. Will you be able to outwit the Killer and escape their Killing Ground?"
+    },
+    {
+        "heading": "Where Am I?",
+        "content": "Each level is procedurally generated, so you'll never know what to expect. Random spawn points mean you will never feel safe as the world and its danger change every time you play."
+    },
+         {
+        "heading": "A Feast for Killers",
+        "content": "Dead by Daylight draws from all corners of the horror world. As a Killer you can play as anything from a powerful Slasher to terrifying paranormal entities. Familiarize yourself with your Killing Grounds and master each Killer's unique power to be able to hunt, catch and sacrifice your victims."
+    } 
+     ],
+    "features": ["Online Multiplayer"],
+    "video": "",
+    "carouselImages": [
+      "https://cdn1.epicgames.com/offer/611482b8586142cda48a0786eb8a127c/EGS_DeadbyDaylightLeatherface_BehaviourInteractive_DLC_S1_2560x1440-69d111274b5f988914765c3d2cbf474b?resize=1&w=480&h=270&quality=medium",
+      "https://cdn1.epicgames.com/offer/611482b8586142cda48a0786eb8a127c/EGS_DeadbyDaylightLeatherface_BehaviourInteractive_DLC_G1A_01_1920x1080-b13b093f7d978118f5abf6b7036ff41c",
+      "https://cdn1.epicgames.com/offer/611482b8586142cda48a0786eb8a127c/EGS_DeadbyDaylightLeatherface_BehaviourInteractive_DLC_G1A_02_1920x1080-3e91f28e0914aceaf6bc6d8f6b7fc2ce",
+        "https://cdn1.epicgames.com/offer/611482b8586142cda48a0786eb8a127c/EGS_DeadbyDaylightLeatherface_BehaviourInteractive_DLC_G1A_03_1920x1080-bbf40e8d6914d0080dd968c2a6eb671a"
+    ]  
   },
          {
     "id": "878c5d48-c596-4989-82a4-93803a315f14",
     "gameId": "33d3729d-7afd-4c7e-8eac-7146b09e2390",
     "title": "Borderlands 4 Deluxe Edition",
+    "logo": "https://cdn1.epicgames.com/spt-assets/20d989fc07a447b2af3c59e4fd5f49c7/borderlands-4-logo-58fgu.png?resize=1&w=480&h=270&quality=medium",
     "image": "https://cdn1.epicgames.com/spt-assets/20d989fc07a447b2af3c59e4fd5f49c7/borderlands-4-a0mrw.jpg?resize=1&w=360&h=480&quality=medium",
-    "description": "",
+    "genre": ["Shooter", "RPG"],
+    "platforms": ["Windows"],
+    "releaseDate": "upcoming",
+    "developer": "Gearbox",
+    "publisher": "2K",
     "price": 99.99,
     "discount": 0,
-    "type": "edition"
+    "isFree": false,
+    "language": ["EN", "FR", "DE", "RU"],
+    "rating": 4.1,
+    "ageRating": {
+      "label": "12+",
+      "descriptors": [
+        "Fantasy Violence",
+        "Mild Language"
+  ]},
+    "type": "edition",
+    "shortDescription": "Borderlands 4 is a mayhem-fueled looter shooter, jam-packed with billions of weapons, deadly enemies, and intense co-op action. Break free from a dangerous hidden planet as one of four new badass Vault Hunters.",
+     "fullDescription": [
+         {
+        "heading": "BE A BADASS",
+        "content": "Become an unstoppable force of battle, blasting through enemies with an all-new arsenal of outrageous weaponry. Move across the Borderlands like never before—double jumping, gliding, dodging, grappling, and more—dealing death from every direction. Explode each encounter with devastating Action Skills that unleash your Vault Hunter's unique abilities. Craft your perfect build with branching skill trees and a deep, rewarding loot chase full of wild weapons and powerful gear."
+    },
+    {
+        "heading": "FIGHT SOLO OR CO-OP",
+        "content": "Wreaking havoc across Kairos is awesome alone and even better with friends in 4-player online co-op.** Borderlands 4 is designed for co-op from the ground up; whether you're hunting for loot, tackling missions, or wandering freely, level scaling and individual difficulty keeps the party together and having fun."
+    },
+    {
+        "heading": "LESS BORDERS, MORE LANDS",
+        "content": "Freely explore a vast and dangerous world rife with warring factions. Hop on your hover bike and ride through lush fields, towering peaks, and deadly deserts full of fearsome enemies, dynamic events, and engaging quests with unforgettable characters. Unite the people of Kairos and ignite a revolution, tackling this adventure however you see fit in a seamless Borderlands experience." 
+    }],
+    "features": ["Controller Support", "Co-op"],
+    "video": "https://www.youtube.com/watch?v=onY6y4NZ-t4",
+    "carouselImages": [
+      "https://cdn1.epicgames.com/spt-assets/20d989fc07a447b2af3c59e4fd5f49c7/borderlands-4-1d8lr.jpg?resize=1&w=480&h=270&quality=medium",
+      "https://cdn1.epicgames.com/spt-assets/20d989fc07a447b2af3c59e4fd5f49c7/borderlands-4-1ual5.jpg?resize=1&w=480&h=270&quality=medium",
+      "https://cdn1.epicgames.com/spt-assets/20d989fc07a447b2af3c59e4fd5f49c7/borderlands-4-4xqdn.jpg?resize=1&w=480&h=270&quality=medium",
+        "https://cdn1.epicgames.com/spt-assets/20d989fc07a447b2af3c59e4fd5f49c7/borderlands-4-cwir2.jpg?resize=1&w=480&h=270&quality=medium"
+    ]
   },
         {
     "id": "7aee2f43-583b-410b-b253-f33dde80a42e",
     "gameId": "33d3729d-7afd-4c7e-8eac-7146b09e2390",
     "title": "Borderlands 4 Super Deluxe Edition",
+    "logo": "https://cdn1.epicgames.com/spt-assets/20d989fc07a447b2af3c59e4fd5f49c7/borderlands-4-logo-58fgu.png?resize=1&w=480&h=270&quality=medium",
     "image": "https://cdn1.epicgames.com/spt-assets/20d989fc07a447b2af3c59e4fd5f49c7/borderlands-4-1zd0c.jpg?resize=1&w=360&h=480&quality=medium",
-    "description": "",
+    "genre": ["Shooter", "RPG"],
+    "platforms": ["Windows"],
+    "releaseDate": "upcoming",
+    "developer": "Gearbox",
+    "publisher": "2K",
     "price": 129.99,
     "discount": 0,
-    "type": "edition"
+    "isFree": false,
+    "language": ["EN", "FR", "DE", "RU"],
+    "rating": 4.1,
+    "ageRating": {
+      "label": "12+",
+      "descriptors": [
+        "Fantasy Violence",
+        "Mild Language"
+  ]},
+    "type": "edition",
+    "shortDescription": "Borderlands 4 is a mayhem-fueled looter shooter, jam-packed with billions of weapons, deadly enemies, and intense co-op action. Break free from a dangerous hidden planet as one of four new badass Vault Hunters.",
+     "fullDescription": [
+         {
+        "heading": "BE A BADASS",
+        "content": "Become an unstoppable force of battle, blasting through enemies with an all-new arsenal of outrageous weaponry. Move across the Borderlands like never before—double jumping, gliding, dodging, grappling, and more—dealing death from every direction. Explode each encounter with devastating Action Skills that unleash your Vault Hunter's unique abilities. Craft your perfect build with branching skill trees and a deep, rewarding loot chase full of wild weapons and powerful gear."
+    },
+    {
+        "heading": "FIGHT SOLO OR CO-OP",
+        "content": "Wreaking havoc across Kairos is awesome alone and even better with friends in 4-player online co-op.** Borderlands 4 is designed for co-op from the ground up; whether you're hunting for loot, tackling missions, or wandering freely, level scaling and individual difficulty keeps the party together and having fun."
+    },
+    {
+        "heading": "LESS BORDERS, MORE LANDS",
+        "content": "Freely explore a vast and dangerous world rife with warring factions. Hop on your hover bike and ride through lush fields, towering peaks, and deadly deserts full of fearsome enemies, dynamic events, and engaging quests with unforgettable characters. Unite the people of Kairos and ignite a revolution, tackling this adventure however you see fit in a seamless Borderlands experience." 
+    }],
+    "features": ["Controller Support", "Co-op"],
+    "video": "https://www.youtube.com/watch?v=onY6y4NZ-t4",
+    "carouselImages": [
+      "https://cdn1.epicgames.com/spt-assets/20d989fc07a447b2af3c59e4fd5f49c7/borderlands-4-1d8lr.jpg?resize=1&w=480&h=270&quality=medium",
+      "https://cdn1.epicgames.com/spt-assets/20d989fc07a447b2af3c59e4fd5f49c7/borderlands-4-1ual5.jpg?resize=1&w=480&h=270&quality=medium",
+      "https://cdn1.epicgames.com/spt-assets/20d989fc07a447b2af3c59e4fd5f49c7/borderlands-4-4xqdn.jpg?resize=1&w=480&h=270&quality=medium",
+        "https://cdn1.epicgames.com/spt-assets/20d989fc07a447b2af3c59e4fd5f49c7/borderlands-4-cwir2.jpg?resize=1&w=480&h=270&quality=medium"
+    ]
   }
 ],
     "games": [
