@@ -320,7 +320,7 @@
     "title": "Hades II Original Sountrack",
     "image": "https://cdn1.epicgames.com/spt-assets/ea0a24395cd641d7bbde3e5d78ad462c/hades-ii-wclv5.png?resize=1&w=360&h=480&quality=medium",
     "logo": "https://cdn1.epicgames.com/spt-assets/ea0a24395cd641d7bbde3e5d78ad462c/hades-ii-logo-1ig2h.png?resize=1&w=480&h=270&quality=medium",
-    "genre": ["Roguelike", "Action", "RPG"],
+    "genre": ["Rogue-Like", "Action", "RPG"],
     "platforms": ["Windows"],
     "releaseDate": "2024-06-05",
     "developer": "Supergiant Games",
@@ -380,10 +380,10 @@
     {
     "id": "bff7a2a1-313a-423b-aded-e9eb3a34ba12",
     "gameId": "56387419-7df5-4471-a960-999cf965c66f",
-    "title": "Cyperpunk 2077: Phantom Liberity",
+    "title": "Cyberpunk 2077: Phantom Liberity",
     "image": "https://cdn1.epicgames.com/offer/77f2b98e2cef40c8a7437518bf420e47/EGS_Cyberpunk2077PhantomLiberty_CDPROJEKTRED_DLC_S2_1200x1600-3acec02a8b11a2c50ba8dd3cb217f1c6?resize=1&w=360&h=480&quality=medium",
     "logo": "https://cdn2.unrealengine.com/egs-cyberpunk2077-cdprojektred-ic1-400x400-82b90aa9a275.png?resize=1&w=480&h=270&quality=medium",
-    "genre": ["RPG", "Adventure", "Action"],
+    "genre": ["Adventure", "Action"],
     "platforms": ["Windows", "PS5", "Xbox"],
     "releaseDate": "2023-09-23",
     "developer": "CD Projekt Red",
@@ -406,10 +406,10 @@
     {
     "id": "5a02b9b7-8538-4be6-ac5e-f9d331f06a67",
     "gameId": "56387419-7df5-4471-a960-999cf965c66f",
-    "title": "Cyperpunk 2077: Ultimate Edition",
+    "title": "Cyberpunk 2077: Ultimate Edition",
     "logo": "https://cdn2.unrealengine.com/egs-cyberpunk2077-cdprojektred-ic1-400x400-82b90aa9a275.png?resize=1&w=480&h=270&quality=medium",
     "image": "https://cdn1.epicgames.com/offer/77f2b98e2cef40c8a7437518bf420e47/EGS_Cyberpunk2077UltimateEdition_CDPROJEKTRED_Editions_S2_1200x1600-81442c61fd09b45ecd03add7c0c3afdd?resize=1&w=360&h=480&quality=medium",
-    "genre": ["RPG", "Adventure", "Action"],
+    "genre": ["Adventure", "Action"],
     "platforms": ["Windows", "PS5", "Xbox"],
     "releaseDate": "2020-12-10",
     "developer": "CD Projekt Red",
@@ -856,7 +856,7 @@
         "content": "Careful positioning and clever use of the environment to your advantage are key to your survival. Use everything at your disposal: throwable objects, makeshift weapons, windows, and ledges. The odds are stacked against you, and you will be offered no mercy."
     }
      ],
-    "features": ["Controller", "Single Player"],
+    "features": ["Controller Support", "Single Player"],
     "video": "https://www.youtube.com/watch?v=1FQ1YO3Ks2U",
     "carouselImages": ["https://cdn2.unrealengine.com/egs-sifustandardedition-sloclap-g1a-05-1920x1080-1e028de5e661.jpg?resize=1&w=480&h=270&quality=medium",
                        "https://cdn2.unrealengine.com/egs-sifustandardedition-sloclap-g1a-06-1920x1080-66e086a82055.jpg?resize=1&w=480&h=270&quality=medium",
@@ -1885,7 +1885,7 @@
     "logo": "https://cdn1.epicgames.com/spt-assets/ea0a24395cd641d7bbde3e5d78ad462c/hades-ii-logo-1ig2h.png?resize=1&w=480&h=270&quality=medium",
     "image": "https://cdn1.epicgames.com/spt-assets/ea0a24395cd641d7bbde3e5d78ad462c/hades-ii-1mvb2.png?resize=1&w=360&h=480&quality=medium",
     "type": "basedgame",
-    "genre": ["Roguelike", "Action", "RPG"],
+    "genre": ["Rogue-Like", "Action", "RPG"],
     "platforms": ["Windows"],
     "releaseDate": "2024-06-05",
     "developer": "Supergiant Games",
@@ -1964,7 +1964,7 @@
     "logo": "https://cdn2.unrealengine.com/egs-cyberpunk2077-cdprojektred-ic1-400x400-82b90aa9a275.png?resize=1&w=480&h=270&quality=medium",
     "image": "https://cdn1.epicgames.com/offer/77f2b98e2cef40c8a7437518bf420e47/EGS_Cyberpunk2077_CDPROJEKTRED_S2_03_1200x1600-b1847981214ac013383111fc457eb9c5?resize=1&w=360&h=480&quality=medium",
     "type": "basedgame",
-    "genre": ["RPG", "Adventure", "Action"],
+    "genre": ["Adventure", "Action"],
     "platforms": ["Windows", "PS5", "Xbox"],
     "releaseDate": "2020-12-10",
     "developer": "CD Projekt Red",
@@ -2194,7 +2194,7 @@
         "content": "Careful positioning and clever use of the environment to your advantage are key to your survival. Use everything at your disposal: throwable objects, makeshift weapons, windows, and ledges. The odds are stacked against you, and you will be offered no mercy."
     }
      ],
-    "features": ["Controller", "Single Player"],
+    "features": ["Controller Support", "Single Player"],
     "video": "https://www.youtube.com/watch?v=1FQ1YO3Ks2U",
     "carouselImages": ["https://cdn2.unrealengine.com/egs-sifustandardedition-sloclap-g1a-05-1920x1080-1e028de5e661.jpg?resize=1&w=480&h=270&quality=medium",
                        "https://cdn2.unrealengine.com/egs-sifustandardedition-sloclap-g1a-06-1920x1080-66e086a82055.jpg?resize=1&w=480&h=270&quality=medium",
@@ -2271,7 +2271,7 @@
         "heading": "The Medium",
         "content": "Wield unique psychic abilities reserved for those with the gift. Travel between the realities or explore them both at the very same time. Use the Out of Body experience to investigate places where your real-world self can’t go. Create energy shields and deliver powerful spirit blasts to survive the spirit world and its otherworldly dangers."}
      ],
-    "features": ["Singleplayer", "Cloud Save"],
+    "features": ["Single Player", "Cloud Save"],
     "video": "https://www.youtube.com/watch?v=MgZBEtJpbdM",
     "carouselImages": [
       "https://cdn2.unrealengine.com/egs-themedium-blooberteam-g1a-01-1920x1080-166951234.jpg?resize=1&w=480&h=270&quality=medium",
@@ -2696,7 +2696,7 @@
     "logo": "https://cdn1.epicgames.com/spt-assets/de233d312aff40918d6969f476912143/dying-light-the-beast-logo-qtmcg.png?resize=1&w=480&h=270&quality=medium",
     "image": "https://cdn1.epicgames.com/spt-assets/de233d312aff40918d6969f476912143/dying-light-the-beast-1vm2l.jpg?resize=1&w=360&h=480&quality=medium",
     "type": "basedgame",
-    "genre": ["Action", "Adventure", "First Person", "Horrow"],
+    "genre": ["Action", "Adventure", "First Person", "Horror"],
     "platforms": ["Windows"],
     "releaseDate": "upcoming",
     "developer": "Techland",
